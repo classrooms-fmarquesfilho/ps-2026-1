@@ -136,7 +136,7 @@ Nota Final = (U1 + U2 + U3) / 3
 | **U2** | **Prova Escrita (50%)** + Sprints 1-3 (30%) + Quiz de Leitura (20%) |
 | **U3** | **Prova Escrita (50%)** + Projeto Final (35%) + Proposta de Melhoria de Processo (15%) |
 
-Detalhes completos em [docs/AVALIACAO.md](docs/AVALIACAO.md).
+Detalhes completos em [docs/AVALIACAO.md](AVALIACAO.md).
 
 ---
 
