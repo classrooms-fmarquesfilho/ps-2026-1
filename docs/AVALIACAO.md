@@ -89,7 +89,7 @@ A avaliação combina três dimensões:
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
 | Sprint 0 | 60% | Grupo | Proposta do projeto (vídeo 5min + documento) |
-| Quiz de Leitura | 40% | Individual | Quizzes 1-3 (média dos melhores 2 de 3) |
+| Quiz de Leitura | 40% | Individual | Quizzes 1-3 (média dos 2 melhores de 3) |
 
 ### Fórmula
 
@@ -107,7 +107,7 @@ U1 = (Sprint0 × 0.60) + (Quiz × 0.40)
 |------------|------|------|-----------|
 | **Prova Escrita** | **50%** | Individual | Em sala (12/05), consulta a 1 folha A4 |
 | Sprints 1-3 | 30% | Grupo | Vídeos de sprint (8min cada) + artefatos de processo |
-| Quiz de Leitura | 20% | Individual | Quizzes 4-7 (média dos melhores 3 de 4) |
+| Quiz de Leitura | 20% | Individual | Quizzes 4-6 (média dos 2 melhores de 3) |
 
 ### Fórmula
 
@@ -472,18 +472,20 @@ Cada equipe deve produzir um **documento de análise e proposta de melhoria** do
 
 ### Formato do Quiz
 
-- **Duração**: 10-15 minutos (início da aula presencial de terça)
-- **Formato**: 5 questões objetivas (múltipla escolha ou V/F com justificativa)
+- **Plataforma**: Multiprova (sistema oficial da UFRN)
+- **Local**: Laboratório de sala de aula (presencial obrigatório)
+- **Duração**: 15-20 minutos (início da aula de terça)
+- **Formato**: ~20 questões fechadas (múltipla escolha e V/F)
 - **Individual**: sem consulta
-- **Conteúdo**: baseado exclusivamente nas leituras indicadas para a semana
+- **Conteúdo**: baseado nas leituras indicadas na(s) semana(s) anterior(es)
 - **Nota**: 0 a 10 por quiz
 
 ### Distribuição dos Quizzes
 
 | Unidade | Quizzes | Descarte | Cálculo |
 |---------|---------|----------|---------|
-| U1 (Semanas 2-4) | Quiz 1 a 3 | menor nota | Média dos 2 melhores |
-| U2 (Semanas 5-9) | Quiz 4 a 7 | menor nota | Média dos 3 melhores |
+| U1 (Semanas 3-5) | Quiz 1 a 3 | menor nota | Média dos 2 melhores |
+| U2 (Semanas 5-9) | Quiz 4 a 6 | menos nota | Média dos 2 melhores |
 
 > **Nota**: A U3 não possui quizzes — o foco é na finalização do projeto, apresentação e proposta de melhoria.
 
@@ -491,19 +493,17 @@ Cada equipe deve produzir um **documento de análise e proposta de melhoria** do
 
 | # | Semana | Tema | Leituras |
 |---|--------|------|----------|
-| 1 | 2 | Modelos de ciclo de vida + Scrum + Manifesto Ágil | Royce (1970), Boehm (1988), Guia do Scrum 2020, Manifesto Ágil |
-| 2 | 3 | XP e Lean | Fowler — *Is Design Dead?*, Poppendieck (2003) |
-| 3 | 4 | Kanban e fluxo | Atlassian — Kanban, Scrum.org — WIP Limits |
-| 4 | 5 | DevOps e CI/CD | Fowler — *Continuous Integration*, GitHub Actions Quickstart |
-| 5 | 6 | Containers e IaC | Docker Docs, Fowler — *Infrastructure As Code* |
-| 6 | 8 | Métricas DORA + VSM | DORA Metrics Guide, DORA Report 2024 (PT-BR), DORA VSM Guide, Atlassian VSM |
-| 7 | 9 | Revisões e qualidade | Google Code Review Guide, Bacchelli & Bird (ICSE 2013) |
-| 8 | 11 | Topologias de Equipe | Conway (1968), Fowler — *Team Topologies* |
-| 9 | 12 | SRE e Eng. de Plataformas | Google SRE Book Ch. 1, Microsoft — Platform Engineering |
-| 10 | 13 | IA e produtividade | METR (2025), Brynjolfsson et al. (2018) |
-| 11 | 14 | Maturidade e melhoria | Microsoft — CMMI, Humphrey (SEI/CMU) |
+| 1 | 3 | Modelos de ciclo de vida + Scrum + Manifesto Ágil | Royce (1970), Boehm (1988), Guia do Scrum 2020, Manifesto Ágil |
+| 2 | 4 | XP e Lean | Fowler — *Is Design Dead?*, Poppendieck (2003) |
+| 3 | 5 | Kanban e fluxo | Atlassian — Kanban, Scrum.org — WIP Limits |
+| 4 | 6 | DevOps e CI/CD | Fowler — *Continuous Integration*, GitHub Actions Quickstart |
+| 5 | 8 | Containers + IaC + DORA + VSM | Docker Docs, Fowler — IaC, DORA Metrics, DORA Report (PT-BR), DORA VSM, Atlassian VSM |
+| 6 | 9 | Revisões e qualidade | Google Code Review Guide, Bacchelli & Bird (ICSE 2013) |
+| 7 | 12 | Topologias de Equipe + Conway | Conway (1968), Fowler — *Team Topologies* |
+| 8 | 13 | SRE e Eng. de Plataformas | Google SRE Book Ch. 1, Microsoft — Platform Engineering |
+| 9 | 14 | IA e produtividade | METR (2025), Brynjolfsson et al. (2018) |
 
-> **Importante**: Os quizzes 8-11 (U3) não contam na nota de unidade, mas as leituras correspondentes são matéria da prova e essenciais para a proposta de melhoria de processo. A presença e participação nos quizzes da U3 demonstra engajamento.
+> **Importante**: Os quizzes 7-9 (U3) não contam na nota de unidade, mas as leituras correspondentes são matéria da prova e essenciais para a proposta de melhoria de processo.
 
 ### Política de Faltas em Quizzes
 

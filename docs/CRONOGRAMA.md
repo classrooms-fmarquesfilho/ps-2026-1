@@ -17,8 +17,8 @@
 | 🚀 | Entrega de sprint/projeto |
 | 📚 | Prova |
 | 🔴 | Feriado/Sem aula |
-| 📖 | Leitura obrigatória (ler antes da aula de terça) |
-| 🧩 | Quiz presencial (início da aula de terça) |
+| 📖 | Leitura obrigatória (ler antes do quiz) |
+| 🧩 | Quiz no Multiprova (laboratório, início da aula de terça) |
 
 ---
 
@@ -50,7 +50,7 @@
 **Leitura 3**: Schwaber & Sutherland (2020) — *Guia do Scrum* (13 pág.) — [PDF (PT-BR)](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-3.0.pdf)  
 **Leitura 4**: *Manifesto Ágil* + 12 Princípios — [agilemanifesto.org (PT-BR)](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
-> **Nota**: As leituras 1-2 cobrem os modelos clássicos discutidos na aula de 12/03. As leituras 3-4 preparam o conteúdo de Scrum da Semana 2. O Quiz 1 (terça 17/03) cobrirá as 4 leituras.
+> **Nota**: As leituras 1-4 serão avaliadas no **Quiz 1 (terça 24/03)**. As leituras 1-2 cobrem os modelos clássicos discutidos na aula de 12/03. As leituras 3-4 preparam o conteúdo de Scrum da Semana 2.
 
 ---
 
@@ -59,7 +59,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 15/03 | Dom | 📺 | **Vídeo 1**: Scrum — papéis, cerimônias, artefatos (Guia do Scrum 2020) |
-| 17/03 | Ter | 🟢 | **🧩 Quiz 1** (Modelos de ciclo de vida + Scrum + Manifesto Ágil) + Simulação: Sprint Planning |
+| 17/03 | Ter | 🟢 | Simulação: Sprint Planning com user stories fictícias + Discussão sobre leituras |
 | 19/03 | Qui | 🟢 | Prática: Backlog do Produto, estimativas, Definição de Pronto |
 
 **Conteúdo**: Scrum Guide 2020, Product Owner, Scrum Master, Developers, Sprint, Daily, Review, Retro, Backlog Refinement
@@ -74,7 +74,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 22/03 | Dom | 📺 | **Vídeo 2**: XP (práticas técnicas) + Lean Software Development (7 princípios) |
-| 24/03 | Ter | 🟢 | **🧩 Quiz 2** (XP + Lean) + Discussão: quais práticas de XP vocês já usam? TDD, pair programming, CI |
+| 24/03 | Ter | 🟢 | **🧩 Quiz 1** (Modelos de ciclo de vida + Scrum + Manifesto Ágil) + Discussão XP e Lean |
 | 26/03 | Qui | 🔵 | **Acompanhamento Online** — Sprint 0 (Proposta do projeto) |
 
 **Conteúdo**: XP values/practices, TDD, pair programming, refactoring, CI, Lean (eliminar desperdício, amplificar aprendizado, decidir o mais tarde possível)  
@@ -90,7 +90,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 29/03 | Dom | 📺 | **Vídeo 3**: Kanban — visualizar, limitar WIP, gerenciar fluxo. Scrumban e abordagens híbridas |
-| 31/03 | Ter | 🟢 | **🧩 Quiz 3** (Kanban + fluxo) + Prática: configurando o quadro Kanban do projeto no GitHub Projects |
+| 31/03 | Ter | 🟢 | **🧩 Quiz 2** (XP + Lean) + Prática: configurando o quadro Kanban do projeto no GitHub Projects |
 | 02/04 | Qui | 🔴 | **Quinta-feira Santa** — Sem aula |
 
 **Conteúdo**: Sistema Kanban, WIP limits, tempo de espera (lead time) vs tempo de ciclo (cycle time), métricas de fluxo, Scrumban  
@@ -106,7 +106,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 06/04 | Dom | 📺 | **Vídeo 4**: DevOps — cultura, princípios, os Três Caminhos. Introdução a CI/CD com GitHub Actions |
-| 07/04 | Ter | 🟢 | **🧩 Quiz 4** (DevOps + CI/CD) + Prática: criando o primeiro workflow de CI no projeto |
+| 07/04 | Ter | 🟢 | **🧩 Quiz 3** (Kanban + fluxo) + Prática: criando o primeiro workflow de CI no projeto |
 | 09/04 | Qui | 🔵 | **Acompanhamento Online** — Sprint 1 |
 
 **Conteúdo**: DevOps como movimento cultural (CALMS), integração contínua, entrega contínua, deploy contínuo, GitHub Actions  
@@ -122,7 +122,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 13/04 | Dom | 📺 | **Vídeo 5**: Docker — containers, imagens, docker-compose. Conceitos de IaC |
-| 14/04 | Ter | 🟢 | **🧩 Quiz 5** (Containers + IaC) + Prática: containerizando o projeto da equipe |
+| 14/04 | Ter | 🟢 | **🧩 Quiz 4** (DevOps + CI/CD) + Prática: containerizando o projeto da equipe |
 | 16/04 | Qui | 🟢 | Prática: docker-compose para desenvolvimento local + portões de qualidade |
 
 **Conteúdo**: Containers vs VMs, Dockerfile, docker-compose, conceitos de IaC, GitOps, portões de qualidade
@@ -148,7 +148,7 @@
 **Leitura 3**: DORA — *Value Stream Mapping for Software Delivery* — [dora.dev](https://dora.dev/guides/value-stream-management/)  
 **Leitura 4**: Atlassian — *What Is Value Stream Mapping?* — [atlassian.com](https://www.atlassian.com/continuous-delivery/principles/value-stream-mapping)
 
-> **Nota**: Sem quiz esta semana (feriado na terça). As leituras 1-4 cobrem DORA + VSM e serão avaliadas no Quiz 6 (terça 28/04).
+> **Nota**: Sem quiz esta semana (feriado na terça). As leituras 1-4 cobrem DORA + VSM e serão avaliadas no **Quiz 5 (terça 28/04)**.
 
 ---
 
@@ -156,7 +156,7 @@
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 28/04 | Ter | 🟢 | **🧩 Quiz 6** (DORA + VSM) + Revisão de métricas + Introdução ao VSM |
+| 28/04 | Ter | 🟢 | **🧩 Quiz 5** (Containers + IaC + DORA + VSM) + Introdução ao VSM |
 | 30/04 | Qui | 🟢 | Workshop: cada equipe mapeia o VSM do seu próprio projeto, identifica gargalos, calcula tempos de espera |
 
 **Conteúdo**: Conceitos de fluxo de valor, mapeamento de estado atual, identificação de desperdícios (muda), estado futuro
@@ -171,7 +171,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 04/05 | Dom | 📺 | **Vídeo 7**: Controle de qualidade em processos — revisões, inspeções, métricas. Preparação para prova |
-| 05/05 | Ter | 🟢 | **🧩 Quiz 7** (Revisões + qualidade) + Revisão geral para prova |
+| 05/05 | Ter | 🟢 | **🧩 Quiz 6** (Revisões + qualidade de processos) + Revisão geral para prova |
 | 07/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 3 + Revisão para prova |
 
 **Conteúdo**: Revisões e inspeções (Fagan), métricas de processo vs produto, revisão de todo conteúdo U1+U2  
@@ -200,7 +200,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 18/05 | Dom | 📺 | **Vídeo 8**: Topologias de Equipe — 4 tipos de equipe, 3 modos de interação, Lei de Conway |
-| 19/05 | Ter | 🟢 | **🧩 Quiz 8** (Topologias de Equipe + Conway) + Exercício: mapear case real |
+| 19/05 | Ter | 🟢 | Exercício: mapear a organização de um case real usando Topologias de Equipe |
 | 21/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 4 + Devolutiva da prova |
 
 **Conteúdo**: Alinhada ao fluxo (stream-aligned), Plataforma, Habilitadora, Subsistema complicado; modos de interação: Colaboração, X-como-Serviço, Facilitação; Lei de Conway e Manobra Inversa de Conway  
@@ -217,7 +217,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 25/05 | Dom | 📺 | **Vídeo 9**: Engenharia de Plataformas + SRE — SLOs, SLIs, orçamentos de erro |
-| 26/05 | Ter | 🟢 | **🧩 Quiz 9** (SRE + Engenharia de Plataformas) + Discussão |
+| 26/05 | Ter | 🟢 | **🧩 Quiz 7** (Topologias de Equipe + Conway) + Discussão sobre plataformas internas |
 | 28/05 | Qui | 🔵 | **Acompanhamento Online** — Dúvidas + Progresso dos projetos |
 
 **Conteúdo**: Plataformas Internas de Desenvolvimento, SRE, SLOs/SLIs/orçamentos de erro, observabilidade
@@ -232,7 +232,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 01/06 | Dom | 📺 | **Vídeo 10**: O Paradoxo da Produtividade com IA — DORA 2024, estudo METR |
-| 02/06 | Ter | 🟢 | **🧩 Quiz 10** (IA + produtividade) + Debate |
+| 02/06 | Ter | 🟢 | **🧩 Quiz 8** (SRE + Engenharia de Plataformas) + Debate sobre IA e processos |
 | 04/06 | Qui | 🔴 | **Corpus Christi** — Sem aula |
 
 **Conteúdo**: Paradoxo da Produtividade com IA, 90% de adoção vs métricas estagnadas, impacto em revisão de código, testes, integração; Modelo de Capacidades de IA do DORA; governança de IA em processos
@@ -247,7 +247,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 08/06 | Dom | 📺 | **Vídeo 11**: CMMI, ISO/IEC 12207, IEEE. Melhoria contínua: kaizen, PDCA |
-| 09/06 | Ter | 🟢 | **🧩 Quiz 11** (Maturidade + melhoria contínua) + Atividade: conectando padrões com práticas ágeis |
+| 09/06 | Ter | 🟢 | **🧩 Quiz 9** (IA + produtividade) + Atividade: conectando padrões com práticas ágeis |
 | 11/06 | Qui | 🔵 | **Acompanhamento Online** — Sprint 5 (final) |
 
 **Conteúdo**: Modelos de maturidade (CMMI V3.0), ISO/IEC 12207:2017, IEEE standards, relação com práticas ágeis modernas, PDCA, kaizen  
