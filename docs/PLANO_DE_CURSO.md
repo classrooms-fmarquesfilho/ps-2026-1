@@ -5,7 +5,7 @@
 **Carga Horária**: 60 horas  
 **Modalidade**: Presencial com Sala de Aula Invertida  
 **Horário**: Terças e Quintas, 10:30 às 12:00 (M56)  
-**Período**: 2026.1 (02/03/2026 a 11/07/2026)
+**Período**: 2026.1 (12/03/2026 a 11/07/2026)
 
 ---
 
@@ -86,37 +86,36 @@ O curso é centrado no desenvolvimento de um **projeto integrador** ao longo do 
 
 ## Conteúdo Programático
 
-### Unidade 1: Fundamentos e Frameworks Ágeis (Semanas 1-5)
+### Unidade 1: Fundamentos e Frameworks Ágeis (Semanas 1-4)
 
 | Semana | Tópico |
 |--------|--------|
-| 1 | Introdução a Processos de Software — por que processos importam na era da IA |
-| 2 | Modelos de Ciclo de Vida (cascata, espiral, V, iterativo/incremental) |
-| 3 | Scrum — framework, papéis, cerimônias, artefatos |
-| 4 | Extreme Programming e Lean Software Development |
-| 5 | Kanban, fluxo e sistemas puxados |
+| 1 | Introdução a Processos de Software + Modelos de Ciclo de Vida |
+| 2 | Scrum — framework, papéis, cerimônias, artefatos |
+| 3 | Extreme Programming e Lean Software Development |
+| 4 | Kanban, fluxo e sistemas puxados |
 
-### Unidade 2: Práticas Modernas e Medição (Semanas 6-11)
-
-| Semana | Tópico |
-|--------|--------|
-| 6 | DevOps — cultura, princípios e CI/CD com GitHub Actions |
-| 7 | Containerização com Docker e Infraestrutura como Código (Infrastructure as Code) |
-| 8 | Métricas DORA e medição de desempenho de entrega |
-| 9 | Value Stream Mapping — mapeando e melhorando o fluxo |
-| 10 | Revisão e preparação para prova |
-| 11 | **Prova Escrita** + Correção |
-
-### Unidade 3: Organizações, IA e Melhoria Contínua (Semanas 12-17)
+### Unidade 2: Práticas Modernas e Medição (Semanas 5-10)
 
 | Semana | Tópico |
 |--------|--------|
-| 12 | Team Topologies e design organizacional |
-| 13 | Engenharia de Plataformas e SRE |
-| 14 | IA e Processos de Software — o Paradoxo da Produtividade |
-| 15 | Padrões e modelos de maturidade (CMMI, ISO, IEEE) + Melhoria contínua |
-| 16 | Apresentações finais dos projetos |
-| 17 | Encerramento e consolidação |
+| 5 | DevOps — cultura, princípios e CI/CD com GitHub Actions |
+| 6 | Containerização com Docker e Infraestrutura como Código |
+| 7 | Métricas DORA e medição de desempenho de entrega |
+| 8 | Mapeamento de Fluxo de Valor — mapeando e melhorando o fluxo |
+| 9 | Revisão e preparação para prova |
+| 10 | **Prova Escrita** + Correção |
+
+### Unidade 3: Organizações, IA e Melhoria Contínua (Semanas 11-16)
+
+| Semana | Tópico |
+|--------|--------|
+| 11 | Topologias de Equipe e design organizacional |
+| 12 | Engenharia de Plataformas e SRE |
+| 13 | IA e Processos de Software — o Paradoxo da Produtividade |
+| 14 | Padrões e modelos de maturidade (CMMI, ISO, IEEE) + Melhoria contínua |
+| 15 | Apresentações finais dos projetos |
+| 16 | Encerramento e consolidação |
 
 ---
 

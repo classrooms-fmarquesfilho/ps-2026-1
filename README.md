@@ -50,16 +50,16 @@ Este repositório contém todo o material didático para a disciplina de Process
 ### Visão Geral do Conteúdo
 
 ```
-Semanas 1-2:   Fundamentos — por que processos importam + modelos de ciclo de vida
-Semanas 3-5:   Frameworks ágeis — Scrum, XP, Lean, Kanban
-Semanas 6-7:   DevOps — cultura, CI/CD, containerização
-Semanas 8-9:   Medição — métricas DORA, Value Stream Mapping
-Semana 10:     Qualidade de processos + Revisão
-Semana 11:     Prova Escrita (12/05)
-Semanas 12-13: Organizações — Topologias de Equipe, Engenharia de Plataformas, SRE
-Semana 14:     IA e Processos — o Paradoxo da Produtividade
-Semana 15:     Padrões, maturidade e melhoria contínua
-Semanas 16-17: Apresentações finais + Encerramento
+Semana 1:      Fundamentos — por que processos importam + modelos de ciclo de vida
+Semanas 2-4:   Frameworks ágeis — Scrum, XP, Lean, Kanban
+Semanas 5-6:   DevOps — cultura, CI/CD, containerização
+Semanas 7-8:   Medição — métricas DORA, Value Stream Mapping
+Semana 9:      Qualidade de processos + Revisão
+Semana 10:     Prova Escrita (12/05)
+Semanas 11-12: Organizações — Topologias de Equipe, Engenharia de Plataformas, SRE
+Semana 13:     IA e Processos — o Paradoxo da Produtividade
+Semana 14:     Padrões, maturidade e melhoria contínua
+Semanas 15-16: Apresentações finais + Encerramento
 ```
 
 ---
@@ -69,7 +69,7 @@ Semanas 16-17: Apresentações finais + Encerramento
 - **Horário**: Terças e Quintas, 10:30 às 12:00 (M56)
 - **Modalidade**: Presencial com Sala de Aula Invertida
 - **Carga horária**: 60 horas
-- **Período**: 02/03/2026 a 11/07/2026
+- **Período**: 12/03/2026 a 11/07/2026
 
 ### Discord da Disciplina
 

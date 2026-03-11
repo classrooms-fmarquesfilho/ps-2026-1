@@ -66,7 +66,7 @@ A avaliação combina três dimensões:
 
 | Unidade | Período | Entrega Final |
 |---------|---------|---------------|
-| U1 | 02/03 a 03/04 | 03/04 (sex) |
+| U1 | 12/03 a 03/04 | 03/04 (sex) |
 | U2 | 06/04 a 08/05 | 08/05 (sex) + Prova 12/05 |
 | U3 | 18/05 a 26/06 | 26/06 (sex) |
 
@@ -89,7 +89,7 @@ A avaliação combina três dimensões:
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
 | Sprint 0 | 60% | Grupo | Proposta do projeto (vídeo 5min + documento) |
-| Quiz de Leitura | 40% | Individual | Quizzes 1-4 (média dos melhores 3 de 4) |
+| Quiz de Leitura | 40% | Individual | Quizzes 1-3 (média dos melhores 2 de 3) |
 
 ### Fórmula
 
@@ -107,7 +107,7 @@ U1 = (Sprint0 × 0.60) + (Quiz × 0.40)
 |------------|------|------|-----------|
 | **Prova Escrita** | **50%** | Individual | Em sala (12/05), consulta a 1 folha A4 |
 | Sprints 1-3 | 30% | Grupo | Vídeos de sprint (8min cada) + artefatos de processo |
-| Quiz de Leitura | 20% | Individual | Quizzes 5-9 (média dos melhores 4 de 5) |
+| Quiz de Leitura | 20% | Individual | Quizzes 4-7 (média dos melhores 3 de 4) |
 
 ### Fórmula
 
@@ -482,8 +482,8 @@ Cada equipe deve produzir um **documento de análise e proposta de melhoria** do
 
 | Unidade | Quizzes | Descarte | Cálculo |
 |---------|---------|----------|---------|
-| U1 (Semanas 2-5) | Quiz 1 a 4 | 1 pior nota | Média dos 3 melhores |
-| U2 (Semanas 6-10) | Quiz 5 a 9 | 1 pior nota | Média dos 4 melhores |
+| U1 (Semanas 2-4) | Quiz 1 a 3 | menor nota | Média dos 2 melhores |
+| U2 (Semanas 5-9) | Quiz 4 a 7 | menor nota | Média dos 3 melhores |
 
 > **Nota**: A U3 não possui quizzes — o foco é na finalização do projeto, apresentação e proposta de melhoria.
 
@@ -491,21 +491,19 @@ Cada equipe deve produzir um **documento de análise e proposta de melhoria** do
 
 | # | Semana | Tema | Leituras |
 |---|--------|------|----------|
-| 1 | 2 | Modelos de ciclo de vida | Royce (1970), Boehm (1988) |
-| 2 | 3 | Scrum e Manifesto Ágil | Guia do Scrum 2020, Manifesto Ágil |
-| 3 | 4 | XP e Lean | Fowler — *Is Design Dead?*, Poppendieck (2003) |
-| 4 | 5 | Kanban e fluxo | Atlassian — Kanban, Scrum.org — WIP Limits |
-| 5 | 6 | DevOps e CI/CD | Fowler — *Continuous Integration*, GitHub Actions Quickstart |
-| 6 | 7 | Containers e IaC | Docker Docs, Fowler — *Infrastructure As Code* |
-| 7 | 8 | Métricas DORA | DORA Metrics Guide, DORA Report 2024 (PT-BR) |
-| 8 | 9 | Mapeamento de Fluxo de Valor | DORA — VSM Guide, Atlassian — VSM |
-| 9 | 10 | Revisões e qualidade | Google Code Review Guide, Bacchelli & Bird (ICSE 2013) |
-| 10 | 12 | Topologias de Equipe | Conway (1968), Fowler — *Team Topologies* |
-| 11 | 13 | SRE e Eng. de Plataformas | Google SRE Book Ch. 1, Microsoft — Platform Engineering |
-| 12 | 14 | IA e produtividade | METR (2025), Brynjolfsson et al. (2018) |
-| 13 | 15 | Maturidade e melhoria | Microsoft — CMMI, Humphrey (SEI/CMU) |
+| 1 | 2 | Modelos de ciclo de vida + Scrum + Manifesto Ágil | Royce (1970), Boehm (1988), Guia do Scrum 2020, Manifesto Ágil |
+| 2 | 3 | XP e Lean | Fowler — *Is Design Dead?*, Poppendieck (2003) |
+| 3 | 4 | Kanban e fluxo | Atlassian — Kanban, Scrum.org — WIP Limits |
+| 4 | 5 | DevOps e CI/CD | Fowler — *Continuous Integration*, GitHub Actions Quickstart |
+| 5 | 6 | Containers e IaC | Docker Docs, Fowler — *Infrastructure As Code* |
+| 6 | 8 | Métricas DORA + VSM | DORA Metrics Guide, DORA Report 2024 (PT-BR), DORA VSM Guide, Atlassian VSM |
+| 7 | 9 | Revisões e qualidade | Google Code Review Guide, Bacchelli & Bird (ICSE 2013) |
+| 8 | 11 | Topologias de Equipe | Conway (1968), Fowler — *Team Topologies* |
+| 9 | 12 | SRE e Eng. de Plataformas | Google SRE Book Ch. 1, Microsoft — Platform Engineering |
+| 10 | 13 | IA e produtividade | METR (2025), Brynjolfsson et al. (2018) |
+| 11 | 14 | Maturidade e melhoria | Microsoft — CMMI, Humphrey (SEI/CMU) |
 
-> **Importante**: Os quizzes 10-13 (U3) não contam na nota de unidade, mas as leituras correspondentes são matéria da prova e essenciais para a proposta de melhoria de processo. A presença e participação nos quizzes da U3 demonstra engajamento.
+> **Importante**: Os quizzes 8-11 (U3) não contam na nota de unidade, mas as leituras correspondentes são matéria da prova e essenciais para a proposta de melhoria de processo. A presença e participação nos quizzes da U3 demonstra engajamento.
 
 ### Política de Faltas em Quizzes
 
