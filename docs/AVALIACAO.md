@@ -56,7 +56,7 @@ A avaliação combina três dimensões:
 
 | Evento | Data | Observação |
 |--------|------|------------|
-| Formação de grupos | 12/03 | Registrar no Discord |
+| Formação de grupos | 26/03 | Registrar em formulário (a ser disponibilizado) |
 | **Prova Escrita** | **12/05 (ter)** | Sala de aula, 10:30-12:00 |
 | Apresentações Finais | 16 e 18/06 | 12 min + 3 min perguntas |
 | Entrega Final U3 | 26/06 (sex) | ZIP no SIGAA |
@@ -531,15 +531,7 @@ Dois livros-texto abertos podem ser consultados ao longo de todo o semestre como
 ### Requisitos
 
 - **Tamanho**: 3 a 4 pessoas
-- **Formação**: Até 12/03/2026
-- **Comunicação**: Grupo próprio no Discord
-
-### Processo
-
-1. **Até 10/03**: Encontre sua equipe
-2. **Até 12/03**: Registre no formulário (link no Discord)
-3. **Até 15/03**: Crie o grupo no Discord da disciplina e o repositório no GitHub
-4. **Até 26/03**: Defina o tema do projeto (Sprint 0)
+- **Formação**: Até 26/03/2026
 
 > **Dica para quem cursa Web II simultaneamente**: Forme o mesmo grupo em ambas as disciplinas. Você pode usar o mesmo projeto, desde que os entregáveis de cada disciplina sejam distintos (processo vs produto).
 

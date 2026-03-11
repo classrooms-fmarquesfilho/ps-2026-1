@@ -39,7 +39,7 @@
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 12/03 | Qui | 🟢 | Introdução a Processos de Software + Modelos de Ciclo de Vida (cascata, espiral, V). Apresentação do curso, formação de grupos |
+| 12/03 | Qui | 🟢 | Introdução a Processos de Software + Modelos de Ciclo de Vida (cascata, espiral, V). Apresentação do curso. |
 
 **Conteúdo**: Motivação, definições, o paradoxo da produtividade com IA, caso XZ Utils. Waterfall (Royce), Espiral (Boehm), Modelo V, transição para métodos ágeis  
 **Entregas**: Nenhuma (semana de ambientação)  
