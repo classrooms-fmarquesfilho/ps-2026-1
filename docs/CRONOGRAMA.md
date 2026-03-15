@@ -26,7 +26,7 @@
 
 | Unidade | Semanas | Período | Conteúdo Principal |
 |---------|---------|---------|-------------------|
-| **U1** | 1-4 | 17/03 - 03/04 | Fundamentos + Scrum + XP + Lean + Kanban |
+| **U1** | 1-4 | 17/03 - 10/04 | Fundamentos + Scrum + XP + Lean + Kanban |
 | **U2** | 5-9 | 07/04 - 08/05 | DevOps + CI/CD + DORA + VSM + Qualidade |
 | **Prova** | 10 | 12/05 | **Prova Escrita** |
 | **U3** | 11-16 | 19/05 - 26/06 | Topologias de Equipe + Plataformas + IA + Padrões + Apresentações |
