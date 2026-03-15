@@ -33,7 +33,7 @@
 
 ---
 
-## UNIDADE 1: Fundamentos e Frameworks Ágeis (Semanas 1-4)
+## UNIDADE 1: Fundamentos e Frameworks Ágeis (Semanas 1-5)
 
 ### Semana 1 (17-19/03): Introdução + Modelos de Ciclo de Vida + Scrum
 
@@ -63,8 +63,7 @@
 | 24/03 | Ter | 🟢 | **🧩 Quiz 1** (Modelos de ciclo de vida + Scrum + Manifesto Ágil) + Discussão XP e Lean |
 | 26/03 | Qui | 🔵 | **Acompanhamento Online** — Sprint 0 (Proposta do projeto) |
 
-**Conteúdo**: XP values/practices, TDD, pair programming, refactoring, CI, Lean (eliminar desperdício, amplificar aprendizado, decidir o mais tarde possível)  
-**Entregas**: 🚀 Sprint 0 — Proposta do projeto (vídeo 5min + documento PDF) — até 26/03
+**Conteúdo**: XP values/practices, TDD, pair programming, refactoring, CI, Lean (eliminar desperdício, amplificar aprendizado, decidir o mais tarde possível)
 
 **Leitura 1**: Atlassian — *Kanban: A brief introduction* — [atlassian.com](https://www.atlassian.com/agile/kanban)  
 **Leitura 2**: Scrum.org — *Limiting WIP in Scrum with Kanban* — [scrum.org](https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how)
@@ -80,12 +79,8 @@
 | 02/04 | Qui | 🔴 | **Quinta-feira Santa** — Sem aula |
 
 **Conteúdo**: Sistema Kanban, WIP limits, tempo de espera (lead time) vs tempo de ciclo (cycle time), métricas de fluxo, Scrumban  
-**Entregas**:  
-- 🚀 **Entrega U1** Sprint 0 — até 03/04 (sex)
 
 ---
-
-## UNIDADE 2: Práticas Modernas e Medição (Semanas 4-9)
 
 ### Semana 4 (07-09/04): DevOps — Cultura e CI/CD
 
@@ -93,15 +88,17 @@
 |------|-----|------|-----------|
 | 06/04 | Dom | 📺 | **Vídeo 4**: DevOps — cultura, princípios, os Três Caminhos. Introdução a CI/CD com GitHub Actions |
 | 07/04 | Ter | 🟢 | **🧩 Quiz 3** (Kanban + fluxo) + Prática: criando o primeiro workflow de CI no projeto |
-| 09/04 | Qui | 🔵 | **Acompanhamento Online** — Sprint 1 |
+| 09/04 | Qui | 🔵 | **Acompanhamento Online** — Sprint 0 |
 
 **Conteúdo**: DevOps como movimento cultural (CALMS), integração contínua, entrega contínua, deploy contínuo, GitHub Actions  
-**Entregas**: 🚀 Sprint 1 (vídeo 8min) — até 10/04 (sex)
+**Entrega U1** 🚀 Sprint 0 — até 10/04 (sex)
 
 **Leitura 1**: Fowler (2024) — *Continuous Integration* — [martinfowler.com](https://martinfowler.com/articles/continuousIntegration.html)  
 **Leitura 2**: GitHub Docs — *Quickstart for GitHub Actions* — [docs.github.com](https://docs.github.com/en/actions/get-started/quickstart)
 
 ---
+
+## UNIDADE 2: Práticas Modernas e Medição (Semanas 5-9)
 
 ### Semana 5 (14-16/04): Containerização e Infraestrutura como Código
 
@@ -124,10 +121,10 @@
 |------|-----|------|-----------|
 | 20/04 | Dom | 📺 | **Vídeo 6**: DORA Metrics — as 5 métricas + framework SPACE + 7 arquétipos de equipe |
 | 21/04 | Ter | 🔴 | **Tiradentes** — Sem aula |
-| 23/04 | Qui | 🔵 | **Acompanhamento Online** — Sprint 2 |
+| 23/04 | Qui | 🔵 | **Acompanhamento Online** — Sprint 1 |
 
 **Conteúdo**: Frequência de implantação, tempo de espera para mudanças, taxa de retrabalho, taxa de falha em mudanças, tempo de recuperação, SPACE framework, os 7 arquétipos DORA 2024  
-**Entregas**: 🚀 Sprint 2 (vídeo 8min) — até 24/04 (sex)
+**Entregas**: 🚀 Sprint 1 (vídeo 8min) — até 24/04 (sex)
 
 **Leitura 1**: DORA Team — *Software Delivery Performance Metrics* — [dora.dev](https://dora.dev/guides/dora-metrics-four-keys/)  
 **Leitura 2**: DORA (2024) — *Accelerate State of DevOps Report* (PT-BR) — [PDF](https://dora.dev/research/2024/dora-report/2024-dora-accelerate-state-of-devops-report-ptbr.pdf)  
@@ -158,12 +155,11 @@
 |------|-----|------|-----------|
 | 04/05 | Dom | 📺 | **Vídeo 7**: Qualidade de Processos — revisões, inspeções de Fagan, métricas de processo |
 | 05/05 | Ter | 🟢 | **🧩 Quiz 6** (Revisão de código) + Revisão geral U1+U2 |
-| 07/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 3 + Revisão para prova |
+| 07/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 2 |
 
 **Conteúdo**: Revisões e inspeções (Fagan), métricas de processo vs produto, revisão de todo conteúdo U1+U2  
-**Entregas**:  
-- 🚀 Sprint 3 (vídeo 8min) — até 08/05 (sex)  
-- 🚀 **Entrega U2** (Sprints 1-3 + Quiz de Leitura) — até 08/05 (sex)
+**Entregas**: 🚀 Sprint 2 (vídeo 8min) — até 08/05 (sex)
+
 
 ---
 
@@ -172,7 +168,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | **12/05** | **Ter** | 📚 | **PROVA ESCRITA — Unidades 1 e 2** (10:30-12:00) |
-| 14/05 | Qui | 🟢 | Sem aula — Professor corrigindo provas |
+| 14/05 | Qui |  | Sem aula — Professor corrigindo provas |
 
 **Conteúdo da Prova**: Todo material das Unidades 1 e 2  
 **Formato**: Individual, com consulta a uma folha A4 (frente e verso, manuscrita)
@@ -187,11 +183,11 @@
 |------|-----|------|-----------|
 | 18/05 | Dom | 📺 | **Vídeo 8**: Topologias de Equipe — 4 tipos de equipe, 3 modos de interação, Lei de Conway |
 | 19/05 | Ter | 🟢 | Exercício: mapear a organização de um case real usando Topologias de Equipe |
-| 21/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 4 + Devolutiva da prova |
+| 21/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 3  |
 
 **Conteúdo**: Alinhada ao fluxo (stream-aligned), Plataforma, Habilitadora, Subsistema complicado; modos de interação: Colaboração, X-como-Serviço, Facilitação; Lei de Conway e Manobra Inversa de Conway  
 **Entregas**:  
-- 🚀 Sprint 4 (vídeo 8min) — até 22/05 (sex)
+- 🚀 Sprint 3 (vídeo 8min) — até 22/05 (sex)
 
 **Leitura 1**: Conway (1968) — *How Do Committees Invent?* — [melconway.com](https://www.melconway.com/research/committees.html)  
 **Leitura 2**: Fowler (2023) — *Team Topologies* — [martinfowler.com](https://martinfowler.com/bliki/TeamTopologies.html)
@@ -234,10 +230,10 @@
 |------|-----|------|-----------|
 | 08/06 | Dom | 📺 | **Vídeo 11**: CMMI, ISO/IEC 12207, IEEE. Melhoria contínua: kaizen, PDCA |
 | 09/06 | Ter | 🟢 | **🧩 Quiz 9** (IA + produtividade) + Atividade: conectando padrões com práticas ágeis |
-| 11/06 | Qui | 🔵 | **Acompanhamento Online** — Sprint 5 (final) |
+| 11/06 | Qui | 🔵 | **Acompanhamento Online** — Sprint 4 (final) |
 
 **Conteúdo**: Modelos de maturidade (CMMI V3.0), ISO/IEC 12207:2017, IEEE standards, relação com práticas ágeis modernas, PDCA, kaizen  
-**Entregas**: 🚀 Sprint 5 — MVP completo (vídeo 10min) — até 12/06 (sex)
+**Entregas**: 🚀 Sprint 4 — MVP completo (vídeo 10min) — até 12/06 (sex)
 
 **Leitura 1**: Microsoft — *CMMI: Background Notes* — [learn.microsoft.com](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/cmmi/guidance-background-to-cmmi?view=azure-devops)  
 **Leitura 2**: Humphrey (SEI/CMU) — *The Watts New? Collection* — [PDF](https://www.sei.cmu.edu/documents/1869/2009_003_001_15035.pdf)
@@ -275,20 +271,19 @@
 
 | Sprint | Conteúdo | Prazo | Vídeo |
 |--------|----------|-------|-------|
-| Sprint 0 | Proposta do projeto | 26/03 (qui) | 5 min |
-| Sprint 1 | Backlog + primeiras funcionalidades + CI configurado | 10/04 (sex) | 8 min |
+| Sprint 0 | Proposta do projeto | 10/04 | 5 min |
+| Sprint 1 | Backlog + primeiras funcionalidades + CI configurado | 24/04 (sex) | 8 min |
 | Sprint 2 | Funcionalidades core + Docker + métricas DORA | 24/04 (sex) | 8 min |
-| Sprint 3 | Funcionalidades completas + VSM do pipeline | 08/05 (sex) | 8 min |
-| Sprint 4 | Refinamento + qualidade + testes | 22/05 (sex) | 8 min |
-| Sprint 5 | MVP completo + proposta de melhoria | 12/06 (sex) | 10 min |
+| Sprint 3 | Funcionalidades completas + VSM do pipeline | 22/05 (sex) | 8 min |
+| Sprint 4 | MVP completo + proposta de melhoria | 12/06 (sex) | 10 min |
 
 ### Entregas por Unidade
 
 | Unidade | Prazo | Componentes |
 |---------|-------|-------------|
-| U1 | 03/04 (sex) | Sprint 0 + Quiz de Leitura |
-| U2 | 08/05 (sex) | Sprints 1-3 + Prova (12/05) + Quiz de Leitura |
-| U3 | 26/06 (sex) | Sprints 4-5 + Apresentação Final + Proposta de Melhoria |
+| U1 | 10/04 (sex) | Sprint 0 |
+| U2 | 15/05 (sex) | Sprints 1-2 + Prova (12/05)|
+| U3 | 26/06 (sex) | Sprints 3-4 + Apresentação Final + Proposta de Melhoria |
 
 ---
 
@@ -306,8 +301,7 @@
 
 | Data | Evento |
 |------|--------|
-| 26/03 | Prazo para formação de grupos + Sprint 0 |
-| 03/04 (sex) | Entrega U1 |
+| 09/04 (sex) | Entrega U1 |
 | 08/05 (sex) | Entrega U2 |
 | **12/05 (ter)** | **PROVA ESCRITA** |
 | 16 e 18/06 | Apresentações finais |
@@ -320,13 +314,12 @@
 
 | # | Data | Foco |
 |---|------|------|
-| 1 | 26/03 | Sprint 0 — Proposta do projeto |
-| 2 | 09/04 | Sprint 1 — Backlog + CI |
-| 3 | 23/04 | Sprint 2 — Docker + DORA |
-| 4 | 07/05 | Sprint 3 — VSM + Revisão para prova |
-| 5 | 21/05 | Sprint 4 — Devolutiva da prova + Progresso |
+| 1 | 09/04 | Sprint 0 — Proposta do projeto |
+| 2 | 23/04 | Sprint 1 — Backlog + CI |
+| 3 | 07/05 | Sprint 2 — Docker + DORA |
+| 4 | 21/05 | Sprint 3 — VSM + Revisão para prova |
 | 6 | 28/05 | Dúvidas + Progresso dos projetos |
-| 7 | 11/06 | Sprint 5 — MVP final |
+| 7 | 11/06 | Sprint 4 — MVP final |
 | 8 | 25/06 | Dúvidas sobre correção e notas |
 
 **Horário**: 10:30-12:00 (mesmo horário das aulas presenciais)  
