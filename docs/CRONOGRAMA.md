@@ -2,7 +2,7 @@
 
 ## Bacharelado em Engenharia de Software — UFRN/DIMAp
 
-**Período**: 2026.1 (12/03/2026 a 11/07/2026)  
+**Período**: 2026.1 (17/03/2026 a 11/07/2026)  
 **Horário**: Terças e Quintas, 10:30 às 12:00 (M56)
 
 ---
@@ -26,7 +26,7 @@
 
 | Unidade | Semanas | Período | Conteúdo Principal |
 |---------|---------|---------|-------------------|
-| **U1** | 1-4 | 12/03 - 03/04 | Fundamentos + Scrum + XP + Lean + Kanban |
+| **U1** | 1-4 | 17/03 - 03/04 | Fundamentos + Scrum + XP + Lean + Kanban |
 | **U2** | 5-9 | 07/04 - 08/05 | DevOps + CI/CD + DORA + VSM + Qualidade |
 | **Prova** | 10 | 12/05 | **Prova Escrita** |
 | **U3** | 11-16 | 19/05 - 26/06 | Topologias de Equipe + Plataformas + IA + Padrões + Apresentações |
@@ -35,13 +35,14 @@
 
 ## UNIDADE 1: Fundamentos e Frameworks Ágeis (Semanas 1-4)
 
-### Semana 1 (12/03): Introdução + Modelos de Ciclo de Vida
+### Semana 1 (17-19/03): Introdução + Modelos de Ciclo de Vida + Scrum
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 12/03 | Qui | 🟢 | Introdução a Processos de Software + Modelos de Ciclo de Vida (cascata, espiral, V). Apresentação do curso. |
+| 17/03 | Ter | 🟢 | Introdução a Processos de Software + Modelos de Ciclo de Vida (cascata, espiral, V). Apresentação do curso. |
+| 19/03 | Qui | 🟢 | Simulação: Sprint Planning com user stories fictícias + Discussão sobre leituras |
 
-**Conteúdo**: Motivação, definições, o paradoxo da produtividade com IA, caso XZ Utils. Waterfall (Royce), Espiral (Boehm), Modelo V, transição para métodos ágeis  
+**Conteúdo**: Motivação, definições, o paradoxo da produtividade com IA, caso XZ Utils. Waterfall (Royce), Espiral (Boehm), Modelo V, transição para métodos ágeis, Scrum.
 **Entregas**: Nenhuma (semana de ambientação)  
 **Importante**: Formação dos grupos de projeto até 26/03.
 
@@ -50,26 +51,11 @@
 **Leitura 3**: Schwaber & Sutherland (2020) — *Guia do Scrum* (13 pág.) — [PDF (PT-BR)](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-3.0.pdf)  
 **Leitura 4**: *Manifesto Ágil* + 12 Princípios — [agilemanifesto.org (PT-BR)](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
-> **Nota**: As leituras 1-4 serão avaliadas no **Quiz 1 (terça 24/03)**. As leituras 1-2 cobrem os modelos clássicos discutidos na aula de 12/03. As leituras 3-4 preparam o conteúdo de Scrum da Semana 2.
+> **Nota**: As leituras 1-4 serão avaliadas no **Quiz 1 (terça 24/03)**. As leituras 1-2 cobrem os modelos clássicos discutidos na aula de 17/03. As leituras 3-4 são sobre Scrum.
 
 ---
 
-### Semana 2 (17-19/03): Scrum
-
-| Data | Dia | Tipo | Atividade |
-|------|-----|------|-----------|
-| 15/03 | Dom | 📺 | **Vídeo 1**: Scrum — papéis, cerimônias, artefatos (Guia do Scrum 2020) |
-| 17/03 | Ter | 🟢 | Simulação: Sprint Planning com user stories fictícias + Discussão sobre leituras |
-| 19/03 | Qui | 🟢 | Prática: Backlog do Produto, estimativas, Definição de Pronto |
-
-**Conteúdo**: Scrum Guide 2020, Product Owner, Scrum Master, Developers, Sprint, Daily, Review, Retro, Backlog Refinement
-
-**Leitura 1**: Fowler (2004) — *Is Design Dead?* — [martinfowler.com](https://martinfowler.com/articles/designDead.html)  
-**Leitura 2**: Poppendieck (2003) — *Lean Software Development* (capítulo de amostra) — [PDF](https://ptgmedia.pearsoncmg.com/images/9780321150783/samplepages/0321150783.pdf)
-
----
-
-### Semana 3 (24-26/03): Extreme Programming e Lean
+### Semana 2 (24-26/03): Extreme Programming e Lean
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -85,7 +71,7 @@
 
 ---
 
-### Semana 4 (31/03 - 02/04): Kanban e Fluxo
+### Semana 3 (31/03 - 02/04): Kanban e Fluxo
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -99,9 +85,9 @@
 
 ---
 
-## UNIDADE 2: Práticas Modernas e Medição (Semanas 5-9)
+## UNIDADE 2: Práticas Modernas e Medição (Semanas 4-9)
 
-### Semana 5 (07-09/04): DevOps — Cultura e CI/CD
+### Semana 4 (07-09/04): DevOps — Cultura e CI/CD
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -117,7 +103,7 @@
 
 ---
 
-### Semana 6 (14-16/04): Containerização e Infraestrutura como Código
+### Semana 5 (14-16/04): Containerização e Infraestrutura como Código
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -132,7 +118,7 @@
 
 ---
 
-### Semana 7 (21-23/04): Métricas DORA e Medição de Desempenho
+### Semana 6 (21-23/04): Métricas DORA e Medição de Desempenho
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -152,7 +138,7 @@
 
 ---
 
-### Semana 8 (28-30/04): Mapeamento de Fluxo de Valor
+### Semana 7 (28-30/04): Mapeamento de Fluxo de Valor
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -166,12 +152,12 @@
 
 ---
 
-### Semana 9 (05-07/05): Revisão e Qualidade de Processos
+### Semana 8 (05-07/05): Revisão e Qualidade de Processos
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 04/05 | Dom | 📺 | **Vídeo 7**: Controle de qualidade em processos — revisões, inspeções, métricas. Preparação para prova |
-| 05/05 | Ter | 🟢 | **🧩 Quiz 6** (Revisões + qualidade de processos) + Revisão geral para prova |
+| 04/05 | Dom | 📺 | **Vídeo 7**: Qualidade de Processos — revisões, inspeções de Fagan, métricas de processo |
+| 05/05 | Ter | 🟢 | **🧩 Quiz 6** (Revisão de código) + Revisão geral U1+U2 |
 | 07/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 3 + Revisão para prova |
 
 **Conteúdo**: Revisões e inspeções (Fagan), métricas de processo vs produto, revisão de todo conteúdo U1+U2  
@@ -181,7 +167,7 @@
 
 ---
 
-### Semana 10 (12-14/05): PROVA ESCRITA
+### Semana 9 (12/05): PROVA ESCRITA
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -193,9 +179,9 @@
 
 ---
 
-## UNIDADE 3: Organizações, IA e Melhoria Contínua (Semanas 11-16)
+## UNIDADE 3: Organizações, IA e Melhoria Contínua (Semanas 10-15)
 
-### Semana 11 (19-21/05): Topologias de Equipe e Design Organizacional
+### Semana 10 (19-21/05): Topologias de Equipe e Design Organizacional
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -212,7 +198,7 @@
 
 ---
 
-### Semana 12 (26-28/05): Engenharia de Plataformas e SRE
+### Semana 11 (26-28/05): Engenharia de Plataformas e SRE
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -227,7 +213,7 @@
 
 ---
 
-### Semana 13 (02-04/06): IA e Processos de Software
+### Semana 12 (02-04/06): IA e Processos de Software
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -242,7 +228,7 @@
 
 ---
 
-### Semana 14 (09-11/06): Padrões, Maturidade e Melhoria Contínua
+### Semana 13 (09-11/06): Padrões, Maturidade e Melhoria Contínua
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -258,7 +244,7 @@
 
 ---
 
-### Semana 15 (16-18/06): Apresentações Finais
+### Semana 14 (16-18/06): Apresentações Finais
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
@@ -271,7 +257,7 @@
 
 ---
 
-### Semana 16 (23-25/06): Encerramento
+### Semana 15 (23-25/06): Encerramento
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
