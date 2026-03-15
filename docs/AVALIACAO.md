@@ -66,7 +66,7 @@ A avaliação combina três dimensões:
 
 | Unidade | Período | Entrega Final |
 |---------|---------|---------------|
-| U1 | 12/03 a 03/04 | 03/04 (sex) |
+| U1 | 17/03 a 03/04 | 03/04 (sex) |
 | U2 | 06/04 a 08/05 | 08/05 (sex) + Prova 12/05 |
 | U3 | 18/05 a 26/06 | 26/06 (sex) |
 

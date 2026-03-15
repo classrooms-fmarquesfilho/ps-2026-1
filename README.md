@@ -69,7 +69,7 @@ Semanas 15-16: Apresentações finais + Encerramento
 - **Horário**: Terças e Quintas, 10:30 às 12:00 (M56)
 - **Modalidade**: Presencial com Sala de Aula Invertida
 - **Carga horária**: 60 horas
-- **Período**: 12/03/2026 a 11/07/2026
+- **Período**: 17/03/2026 a 11/07/2026
 
 ### Discord da Disciplina
 
