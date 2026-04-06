@@ -7,72 +7,78 @@ color: #1a1a2e
 style: |
   section {
     font-family: 'Calibri', sans-serif;
-    padding: 32px 44px;
-    font-size: 0.88em;
+    padding: 36px 48px;
+    font-size: 1.3em;
   }
   h1 {
     font-family: 'Consolas', monospace;
     color: #1a56db;
-    font-size: 1.35em;
-    margin-bottom: 0.25em;
+    font-size: 1.6em;
+    margin-bottom: 0.3em;
     border-bottom: 2px solid #e5e7eb;
-    padding-bottom: 0.15em;
+    padding-bottom: 0.2em;
   }
   h2 {
     font-family: 'Consolas', monospace;
     color: #374151;
-    font-size: 1.0em;
-    margin-bottom: 0.2em;
+    font-size: 1.2em;
+    margin-bottom: 0.25em;
   }
-  h3 { color: #6b7280; font-size: 0.88em; margin: 0.15em 0; }
+  h3 { color: #6b7280; font-size: 0.9em; margin: 0.2em 0; }
   strong { color: #b45309; }
-  em { color: #6b7280; font-style: normal; }
+  em { color: #6b7280; }
   code {
     font-family: 'Consolas', monospace;
     background: #e5e7eb;
     color: #1e3a5f;
-    padding: 0.06em 0.25em;
+    padding: 0.08em 0.3em;
     border-radius: 3px;
-    font-size: 0.82em;
+    font-size: 1.00em;
   }
   pre {
     background: #f3f4f6 !important;
     border: 1px solid #d1d5db;
     border-left: 3px solid #1a56db;
     border-radius: 6px;
-    padding: 0.6em 0.9em;
-    margin: 0.3em 0;
+    padding: 0.7em 1em;
+    margin: 0.4em 0;
   }
   pre code {
-    background: transparent; color: #1e3a5f;
-    font-size: 0.7em; padding: 0; line-height: 1.45;
+    background: transparent;
+    color: #1e3a5f;
+    font-size: 0.9em;
+    padding: 0;
+    line-height: 1.5;
   }
-  table { font-size: 0.76em; width: 100%; border-collapse: collapse; }
+  table { font-size: 0.95em; width: 100%; border-collapse: collapse; }
   th {
-    background: #e5e7eb; color: #1a56db;
+    background: #e5e7eb;
+    color: #1a56db;
     font-family: 'Consolas', monospace;
-    padding: 0.3em 0.6em; border: 1px solid #d1d5db;
+    padding: 0.35em 0.7em;
+    border: 1px solid #d1d5db;
   }
-  td { background: #fff; padding: 0.25em 0.6em; border: 1px solid #d1d5db; }
-  ul { margin: 0.2em 0; padding-left: 1.2em; }
-  li { margin: 0.15em 0; font-size: 0.86em; line-height: 1.35; }
+  td { background: #ffffff; padding: 0.28em 0.7em; border: 1px solid #d1d5db; color: #1a1a2e; }
+  tr:nth-child(even) td { background: #f9fafb; }
+  ul { margin: 0.25em 0; padding-left: 1.3em; }
+  li { margin: 0.18em 0; font-size: 0.88em; line-height: 1.4; }
   blockquote {
     border-left: 3px solid #1a56db;
     background: #eff6ff;
-    padding: 0.35em 0.8em;
-    margin: 0.4em 0;
-    font-style: italic;
+    padding: 0.4em 0.9em;
+    margin: 0.5em 0;
+    font-style: normal;
     color: #1e3a5f;
     border-radius: 0 5px 5px 0;
-    font-size: 0.82em;
+    font-size: 1.00em;
   }
-  .cite {
-    font-size: 0.72em;
-    color: #9ca3af;
-    text-align: right;
-    margin-top: 0.3em;
-  }
-  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2em; }
+  .columns { display: flex; gap: 1.8em; }
+  .col { flex: 1; }
+  .pill-red   { display:inline-block; background:#fee2e2; border:1.5px solid #dc2626; color:#dc2626; font-family:'Consolas',monospace; font-weight:bold; font-size:0.85em; padding:0.12em 0.6em; border-radius:20px; }
+  .pill-green { display:inline-block; background:#dcfce7; border:1.5px solid #16a34a; color:#16a34a; font-family:'Consolas',monospace; font-weight:bold; font-size:0.85em; padding:0.12em 0.6em; border-radius:20px; }
+  .pill-blue  { display:inline-block; background:#dbeafe; border:1.5px solid #1a56db; color:#1a56db; font-family:'Consolas',monospace; font-weight:bold; font-size:0.85em; padding:0.12em 0.6em; border-radius:20px; }
+  .tag { display:inline-block; background:#f3f4f6; border:1px solid #d1d5db; color:#374151; font-size:0.85em; padding:0.1em 0.5em; border-radius:4px; font-family:'Consolas',monospace; }
+
 ---
 
 # Extreme Programming e Lean Software Development
@@ -340,7 +346,7 @@ O sistema inteiro depende de **disciplina técnica** — não de processos buroc
 | Equívoco | Realidade |
 |----------|-----------|
 | Lean = Kanban | Kanban é uma **ferramenta**. Lean é cultura + pilares + 14 princípios |
-| Lean = eliminar desperdício | Desperdício é mencionado apenas **vários níveis** dentro do Toyota Way |
+| Lean = eliminar desperdício | Desperdício é uma consequência com causas raíz. Identifique a causa e corrija o quanto antes |
 | Lean = Lean Six Sigma | Toyota vê Lean Six Sigma como ferramentas de Six Sigma, não Lean real |
 | Lean = fazer mais com menos | Lean é sobre **entregar mais valor**, não cortar custos cegamente |
 | Lean = implementar rápido | Adoção de Lean leva **anos** — requer mudança cultural profunda |
@@ -727,23 +733,6 @@ A metáfora Toyota:
 - Muda/Mura/Muri — 3 fontes de desperdício
 - Fluxo, pull, lotes pequenos, gestão visual — princípios operacionais
 - O bastão, não os corredores — otimize o sistema, não as partes
-
----
-
-# Próximos passos
-
-**Esta semana (07-09/04):**
-- Quinta 09/04: 🔵 **Acompanhamento online** — revisão Sprint 0 + planejamento Sprint 1
-- 🚀 Sprint 0 — prazo estendido até **06/04** (já no SIGAA)
-
-**Semana que vem (14-16/04):**
-- 📖 Leituras para o quiz: Fowler "Is Design Dead?", Poppendieck "Lean SD", Atlassian "Kanban", Scrum.org "Limiting WIP"
-- Terça: **🧩 Quiz 2 fundido** (XP + Lean + Kanban) no Multiprova
-- Terça: Introdução a DevOps (cultura, CI/CD)
-- Quinta: 🔵 Acompanhamento — **Sprint 1**
-- 🚀 Sprint 1 — prazo **17/04 (sex)**
-
-**Ajuste de calendário**: Sprint 1 adiado para 17/04, Sprint 2 para 01/05. Prova 12/05 mantida.
 
 ---
 
