@@ -83,7 +83,8 @@
 | 31/03 | Ter | 🔴 | **Aula cancelada** — professor doente |
 | 02/04 | Qui | 🔴 | **Quinta-feira Santa** — Sem aula |
 
-**Conteúdo movido para Semana 4.**
+**Conteúdo movido para Semana 4.**  
+**Entregas**: 🚀 **Entrega U1** (Sprint 0) — prazo estendido até 06/04 (seg)
 
 ---
 
@@ -140,8 +141,8 @@
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 28/04 | Ter | 🟢 | **🧩 Quiz 3** (Containers + IaC + DORA + VSM) + Introdução ao VSM |
-| 30/04 | Qui | 🟢 | Workshop VSM + check-in Sprint 2: cada equipe mapeia o VSM do seu projeto, identifica gargalos, e revisa progresso da Sprint 2 |
+| 28/04 | Ter | 🟢 | **🧩 Quiz 3** (Containers + IaC + DORA + VSM) + Workshop VSM: cada equipe mapeia o VSM do seu projeto, identifica gargalos |
+| 30/04 | Qui | 🔵 | **Acompanhamento Online** — Sprint 2 |
 
 **Conteúdo**: Conceitos de fluxo de valor, mapeamento de estado atual, identificação de desperdícios (muda), estado futuro
 
@@ -319,14 +320,13 @@
 | # | Data | Foco |
 |---|------|------|
 | 1 | 26/03 | Sprint 0 — Proposta do projeto |
-| 2 | 16/04 | Sprint 1 — Backlog + CI |
-| 3 | 07/05 | Sprint 3 — VSM + Revisão para prova |
-| 4 | 21/05 | Sprint 4 — Progresso dos projetos |
-| 5 | 28/05 | Dúvidas + Progresso dos projetos |
-| 6 | 11/06 | Sprint 5 — MVP final |
-| 7 | 25/06 | Dúvidas sobre correção e notas |
-
-**Nota**: Sprint 2 (acompanhamento) acontece presencialmente em 30/04 durante o workshop de VSM.
+| 2 | 16/04 | Sprint 1 — Endpoints / Backlog + CI |
+| 3 | 30/04 | Sprint 2 — Persistência / Revisão DORA |
+| 4 | 07/05 | Sprint 3 — Revisão para prova |
+| 5 | 21/05 | Sprint 4 — Progresso dos projetos |
+| 6 | 28/05 | Dúvidas + Progresso dos projetos |
+| 7 | 11/06 | Sprint 5 — MVP final |
+| 8 | 25/06 | Dúvidas sobre correção e notas |
 
 **Horário**: 10:30-12:00 (mesmo horário das aulas presenciais)  
 **Formato**: ~10 minutos por equipe para tirar dúvidas e revisar progresso
