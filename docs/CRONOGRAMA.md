@@ -7,6 +7,10 @@
 
 ---
 
+> **⚠️ Atualização 06/04/2026**: Quiz 2 e Quiz 3 foram unificados em um único quiz na Semana 5 (14/04). Sprint 1 adiado para 17/04 e Sprint 2 para 01/05. Demais datas mantidas.
+
+
+
 ## Legenda
 
 | Símbolo | Significado |
@@ -61,7 +65,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 22/03 | Dom | 📺 | **Vídeo 2**: XP (práticas técnicas) + Lean Software Development (7 princípios) |
-| 24/03 | Ter | 🟢 | **🧩 Quiz 1** (Modelos de ciclo de vida + Scrum + Manifesto Ágil) + Discussão XP e Lean |
+| 24/03 | Ter | 🟢 | Discussão sobre XP e Lean (Quiz 1 não foi aplicado — agendado para 23/04) |
 | 26/03 | Qui | 🔵 | **Acompanhamento Online** — Sprint 0 (Proposta do projeto) |
 
 **Conteúdo**: XP values/practices, TDD, pair programming, refactoring, CI, Lean (eliminar desperdício, amplificar aprendizado, decidir o mais tarde possível)  
@@ -72,63 +76,56 @@
 
 ---
 
-### Semana 3 (31/03 - 02/04): Kanban e Fluxo
+### Semana 3 (31/03 - 02/04): Não houve aula
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 29/03 | Dom | 📺 | **Vídeo 3**: Kanban — visualizar, limitar WIP, gerenciar fluxo. Scrumban e abordagens híbridas |
-| 31/03 | Ter | 🟢 | **🧩 Quiz 2** (XP + Lean) + Prática: configurando o quadro Kanban do projeto no GitHub Projects |
+| 31/03 | Ter | 🔴 | **Aula cancelada** — professor doente |
 | 02/04 | Qui | 🔴 | **Quinta-feira Santa** — Sem aula |
 
-**Conteúdo**: Sistema Kanban, WIP limits, tempo de espera (lead time) vs tempo de ciclo (cycle time), métricas de fluxo, Scrumban  
-**Entregas**:  
-- 🚀 **Entrega U1** (Sprint 0 + Quiz de Leitura) — até 03/04 (sex)
+**Conteúdo movido para Semana 4.**
 
 ---
 
 ## UNIDADE 2: Práticas Modernas e Medição (Semanas 4-9)
 
-### Semana 4 (07-09/04): DevOps — Cultura e CI/CD
+### Semana 4 (07-09/04): XP + Lean (aprofundamento) + Kanban
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 06/04 | Dom | 📺 | **Vídeo 4**: DevOps — cultura, princípios, os Três Caminhos. Introdução a CI/CD com GitHub Actions |
-| 07/04 | Ter | 🟢 | **🧩 Quiz 3** (Kanban + fluxo) + Prática: criando o primeiro workflow de CI no projeto |
-| 09/04 | Qui | 🔵 | **Acompanhamento Online** — Sprint 1 |
+| 07/04 | Ter | 🟢 | Aula: XP e Lean em profundidade + Introdução ao Kanban (conteúdo da Sem 3 cancelada) |
+| 09/04 | Qui | 🟢 | Kanban (continuação) + Introdução a DevOps e CI/CD |
 
-**Conteúdo**: DevOps como movimento cultural (CALMS), integração contínua, entrega contínua, deploy contínuo, GitHub Actions  
-**Entregas**: 🚀 Sprint 1 (vídeo 8min) — até 10/04 (sex)
+**Conteúdo**: XP (design evolutivo, práticas habilitadoras, TDD, CI), Lean (2 pilares, 7 princípios Poppendieck, muda/mura/muri), Kanban (visualizar, limitar WIP, gerenciar fluxo)  
+**Entregas**: Nenhuma esta semana
+
+**Leituras para o Quiz 2 (14/04)**: Todas as leituras das semanas 2 e 3 — Fowler "Is Design Dead?", Poppendieck "Lean SD", Atlassian "Kanban", Scrum.org "Limiting WIP"
+
+---
+
+### Semana 5 (14-16/04): Quiz + DevOps — Cultura e CI/CD
+
+| Data | Dia | Tipo | Atividade |
+|------|-----|------|-----------|
+| 14/04 | Ter | 🟢 | **🧩 Quiz 2** (XP + Lean + Kanban) + Introdução a DevOps (cultura, CI/CD) |
+| 16/04 | Qui | 🔵 | **Acompanhamento Online** — Sprint 1 |
+
+**Conteúdo**: DevOps (CALMS, CI/CD, GitHub Actions). Quiz cobre XP, Lean e Kanban  
+**Entregas**: 🚀 Sprint 1 (vídeo 8min) — até 17/04 (sex)
 
 **Leitura 1**: Fowler (2024) — *Continuous Integration* — [martinfowler.com](https://martinfowler.com/articles/continuousIntegration.html)  
 **Leitura 2**: GitHub Docs — *Quickstart for GitHub Actions* — [docs.github.com](https://docs.github.com/en/actions/get-started/quickstart)
 
 ---
 
-### Semana 5 (14-16/04): Containerização e Infraestrutura como Código
+### Semana 6 (21-23/04): Quiz 1 + Containerização e IaC
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 13/04 | Dom | 📺 | **Vídeo 5**: Docker — containers, imagens, docker-compose. Conceitos de IaC |
-| 14/04 | Ter | 🟢 | **🧩 Quiz 4** (DevOps + CI/CD) + Prática: containerizando o projeto da equipe |
-| 16/04 | Qui | 🟢 | Prática: docker-compose para desenvolvimento local + portões de qualidade |
-
-**Conteúdo**: Containers vs VMs, Dockerfile, docker-compose, conceitos de IaC, GitOps, portões de qualidade
-
-**Leitura 1**: Docker Docs — *Get Started: Introduction* — [docs.docker.com](https://docs.docker.com/get-started/introduction/)  
-**Leitura 2**: Fowler (2016) — *Infrastructure As Code* — [martinfowler.com](https://martinfowler.com/bliki/InfrastructureAsCode.html)
-
----
-
-### Semana 6 (21-23/04): Métricas DORA e Medição de Desempenho
-
-| Data | Dia | Tipo | Atividade |
-|------|-----|------|-----------|
-| 20/04 | Dom | 📺 | **Vídeo 6**: DORA Metrics — as 5 métricas + framework SPACE + 7 arquétipos de equipe |
 | 21/04 | Ter | 🔴 | **Tiradentes** — Sem aula |
-| 23/04 | Qui | 🔵 | **Acompanhamento Online** — Sprint 2 |
+| 23/04 | Qui | 🟢 | **🧩 Quiz 1** (Modelos + Scrum + Manifesto Ágil) + Introdução a Containers e IaC |
 
-**Conteúdo**: Frequência de implantação, tempo de espera para mudanças, taxa de retrabalho, taxa de falha em mudanças, tempo de recuperação, SPACE framework, os 7 arquétipos DORA 2024  
-**Entregas**: 🚀 Sprint 2 (vídeo 8min) — até 24/04 (sex)
+**Conteúdo**: Containers vs VMs, Dockerfile, docker-compose, conceitos de IaC. **Quiz 1** (não foi possível aplicá-lo na Semana 1 devido a aulas canceladas).
 
 **Leitura 1**: DORA Team — *Software Delivery Performance Metrics* — [dora.dev](https://dora.dev/guides/dora-metrics-four-keys/)  
 **Leitura 2**: DORA (2024) — *Accelerate State of DevOps Report* (PT-BR) — [PDF](https://dora.dev/research/2024/dora-report/2024-dora-accelerate-state-of-devops-report-ptbr.pdf)  
@@ -143,8 +140,8 @@
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 28/04 | Ter | 🟢 | **🧩 Quiz 5** (Containers + IaC + DORA + VSM) + Introdução ao VSM |
-| 30/04 | Qui | 🟢 | Workshop: cada equipe mapeia o VSM do seu próprio projeto, identifica gargalos, calcula tempos de espera |
+| 28/04 | Ter | 🟢 | **🧩 Quiz 3** (Containers + IaC + DORA + VSM) + Introdução ao VSM |
+| 30/04 | Qui | 🟢 | Workshop VSM + check-in Sprint 2: cada equipe mapeia o VSM do seu projeto, identifica gargalos, e revisa progresso da Sprint 2 |
 
 **Conteúdo**: Conceitos de fluxo de valor, mapeamento de estado atual, identificação de desperdícios (muda), estado futuro
 
@@ -158,7 +155,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 04/05 | Dom | 📺 | **Vídeo 7**: Qualidade de Processos — revisões, inspeções de Fagan, métricas de processo |
-| 05/05 | Ter | 🟢 | **🧩 Quiz 6** (Revisão de código) + Revisão geral U1+U2 |
+| 05/05 | Ter | 🟢 | **🧩 Quiz 4** (Revisão de código) + Revisão geral U1+U2 |
 | 07/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 3 + Revisão para prova |
 
 **Conteúdo**: Revisões e inspeções (Fagan), métricas de processo vs produto, revisão de todo conteúdo U1+U2  
@@ -204,7 +201,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 25/05 | Dom | 📺 | **Vídeo 9**: Engenharia de Plataformas + SRE — SLOs, SLIs, orçamentos de erro |
-| 26/05 | Ter | 🟢 | **🧩 Quiz 7** (Topologias de Equipe + Conway) + Discussão sobre plataformas internas |
+| 26/05 | Ter | 🟢 | **🧩 Quiz 5** (Topologias de Equipe + Conway) + Discussão sobre plataformas internas |
 | 28/05 | Qui | 🔵 | **Acompanhamento Online** — Dúvidas + Progresso dos projetos |
 
 **Conteúdo**: Plataformas Internas de Desenvolvimento, SRE, SLOs/SLIs/orçamentos de erro, observabilidade
@@ -219,7 +216,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 01/06 | Dom | 📺 | **Vídeo 10**: O Paradoxo da Produtividade com IA — DORA 2024, estudo METR |
-| 02/06 | Ter | 🟢 | **🧩 Quiz 8** (SRE + Engenharia de Plataformas) + Debate sobre IA e processos |
+| 02/06 | Ter | 🟢 | **🧩 Quiz 6** (SRE + Engenharia de Plataformas) + Debate sobre IA e processos |
 | 04/06 | Qui | 🔴 | **Corpus Christi** — Sem aula |
 
 **Conteúdo**: Paradoxo da Produtividade com IA, 90% de adoção vs métricas estagnadas, impacto em revisão de código, testes, integração; Modelo de Capacidades de IA do DORA; governança de IA em processos
@@ -234,7 +231,7 @@
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 08/06 | Dom | 📺 | **Vídeo 11**: CMMI, ISO/IEC 12207, IEEE. Melhoria contínua: kaizen, PDCA |
-| 09/06 | Ter | 🟢 | **🧩 Quiz 9** (IA + produtividade) + Atividade: conectando padrões com práticas ágeis |
+| 09/06 | Ter | 🟢 | **🧩 Quiz 7** (IA + produtividade) + Atividade: conectando padrões com práticas ágeis |
 | 11/06 | Qui | 🔵 | **Acompanhamento Online** — Sprint 5 (final) |
 
 **Conteúdo**: Modelos de maturidade (CMMI V3.0), ISO/IEC 12207:2017, IEEE standards, relação com práticas ágeis modernas, PDCA, kaizen  
@@ -276,9 +273,9 @@
 
 | Sprint | Conteúdo | Prazo | Vídeo |
 |--------|----------|-------|-------|
-| Sprint 0 | Proposta do projeto | 26/03 (qui) | 5 min |
-| Sprint 1 | Backlog + primeiras funcionalidades + CI configurado | 10/04 (sex) | 8 min |
-| Sprint 2 | Funcionalidades core + Docker + métricas DORA | 24/04 (sex) | 8 min |
+| Sprint 0 | Proposta do projeto | 06/04 (seg) | 5 min |
+| Sprint 1 | Backlog + primeiras funcionalidades + CI configurado | 17/04 (sex) | 8 min |
+| Sprint 2 | Funcionalidades core + Docker + métricas DORA | 01/05 (sex) | 8 min |
 | Sprint 3 | Funcionalidades completas + VSM do pipeline | 08/05 (sex) | 8 min |
 | Sprint 4 | Refinamento + qualidade + testes | 22/05 (sex) | 8 min |
 | Sprint 5 | MVP completo + proposta de melhoria | 12/06 (sex) | 10 min |
@@ -287,7 +284,7 @@
 
 | Unidade | Prazo | Componentes |
 |---------|-------|-------------|
-| U1 | 03/04 (sex) | Sprint 0 + Quiz de Leitura |
+| U1 | 06/04 (dom) | Sprint 0 + Quiz de Leitura |
 | U2 | 08/05 (sex) | Sprints 1-3 + Prova (12/05) + Quiz de Leitura |
 | U3 | 26/06 (sex) | Sprints 4-5 + Apresentação Final + Proposta de Melhoria |
 
@@ -322,13 +319,14 @@
 | # | Data | Foco |
 |---|------|------|
 | 1 | 26/03 | Sprint 0 — Proposta do projeto |
-| 2 | 09/04 | Sprint 1 — Backlog + CI |
-| 3 | 23/04 | Sprint 2 — Docker + DORA |
-| 4 | 07/05 | Sprint 3 — VSM + Revisão para prova |
-| 5 | 21/05 | Sprint 4 — Progresso dos projetos|
-| 6 | 28/05 | Dúvidas + Progresso dos projetos |
-| 7 | 11/06 | Sprint 5 — MVP final |
-| 8 | 25/06 | Dúvidas sobre correção e notas |
+| 2 | 16/04 | Sprint 1 — Backlog + CI |
+| 3 | 07/05 | Sprint 3 — VSM + Revisão para prova |
+| 4 | 21/05 | Sprint 4 — Progresso dos projetos |
+| 5 | 28/05 | Dúvidas + Progresso dos projetos |
+| 6 | 11/06 | Sprint 5 — MVP final |
+| 7 | 25/06 | Dúvidas sobre correção e notas |
+
+**Nota**: Sprint 2 (acompanhamento) acontece presencialmente em 30/04 durante o workshop de VSM.
 
 **Horário**: 10:30-12:00 (mesmo horário das aulas presenciais)  
 **Formato**: ~10 minutos por equipe para tirar dúvidas e revisar progresso
