@@ -5,7 +5,7 @@
 **Carga Horária**: 60 horas  
 **Modalidade**: Presencial com Sala de Aula Invertida  
 **Horário**: Terças e Quintas, 10:30 às 12:00 (M56)  
-**Período**: 2026.1 (12/03/2026 a 11/07/2026)
+**Período**: 2026.1 (17/03/2026 a 11/07/2026)
 
 ---
 
@@ -49,12 +49,12 @@ O curso é fortemente influenciado pelo **DORA Report 2025**, que demonstra que 
 ### Sala de Aula Invertida (Flipped Classroom)
 
 ```
-📖 ANTES DA AULA
-   └── Leia os 2 textos indicados para a semana (artigos, guias, documentação)
-   └── Assista ao vídeo semanal (liberado até o domingo anterior)
+📖 ANTES DA AULA (em casa)
+   └── Faça as leituras da sprint (artigos, guias, documentação)
+   └── Anote dúvidas
 
 🏫 TERÇA-FEIRA (presencial, 10:30-12:00)
-   └── 🧩 Quiz presencial sobre as leituras (10-15 min, início da aula)
+   └── 🧩 Quiz no Multiprova sobre as leituras (10-15 min)
    └── Revisão rápida + Esclarecimento de dúvidas
    └── Atividade prática ou discussão guiada
 
@@ -67,12 +67,13 @@ Todos os materiais de leitura são **gratuitos e abertos**: artigos científicos
 
 ### Aprendizagem Baseada em Projetos (Project-Based Learning) com Scrum
 
-O curso é centrado no desenvolvimento de um **projeto integrador** ao longo do semestre, onde as equipes vivenciam na prática os processos que estudam em teoria:
+O curso é centrado no desenvolvimento de um **projeto integrador** organizado em sprints, onde as equipes vivenciam na prática os processos que estudam em teoria:
 
-- **Equipes de 3-4 estudantes** (formação nas primeiras 2 semanas)
-- **Sprints de 2 semanas** alinhadas com o conteúdo teórico
-- **Acompanhamento online** no último dia de cada sprint via Google Meet
-- **Avaliação por vídeo** gravado pela equipe
+- **Equipes de 3-4 estudantes** (já formadas)
+- **4 sprints de 2 semanas** (Sprint 1 a Sprint 4) após a proposta inicial (Sprint 0)
+- **Cada sprint com objetivo claro** alinhado ao conteúdo teórico da disciplina
+- **Acompanhamento online** ao final de cada sprint via Google Meet
+- **Avaliação por vídeo** gravado pela equipe + peer evaluation
 
 ### O que torna este curso diferente
 
@@ -84,38 +85,81 @@ O curso é centrado no desenvolvimento de um **projeto integrador** ao longo do 
 
 ---
 
-## Conteúdo Programático
+## Conteúdo Programático por Sprint
 
-### Unidade 1: Fundamentos e Frameworks Ágeis (Semanas 1-4)
+> **Atualização 09/04/2026**: O conteúdo teórico do curso está organizado por **sprint** do projeto, de modo que cada bloco de teoria habilite uma capacidade prática que a equipe aplicará no sprint correspondente.
 
-| Semana | Tópico |
-|--------|--------|
-| 1 | Introdução a Processos de Software + Modelos de Ciclo de Vida |
-| 2 | Scrum — framework, papéis, cerimônias, artefatos |
-| 3 | Extreme Programming e Lean Software Development |
-| 4 | Kanban, fluxo e sistemas puxados |
+### Sprint 0 (17/03 - 06/04): Proposta do Projeto
 
-### Unidade 2: Práticas Modernas e Medição (Semanas 5-10)
+**Objetivo**: Propor o projeto e definir o processo de trabalho.
 
-| Semana | Tópico |
-|--------|--------|
-| 5 | DevOps — cultura, princípios e CI/CD com GitHub Actions |
-| 6 | Containerização com Docker e Infraestrutura como Código |
-| 7 | Métricas DORA e medição de desempenho de entrega |
-| 8 | Mapeamento de Fluxo de Valor — mapeando e melhorando o fluxo |
-| 9 | Revisão e preparação para prova |
-| 10 | **Prova Escrita** + Correção |
+| Tópico |
+|--------|
+| Introdução a Processos de Software + Modelos de Ciclo de Vida |
+| Scrum — framework, papéis, cerimônias, artefatos |
+| Extreme Programming e Lean Software Development (visão geral) |
 
-### Unidade 3: Organizações, IA e Melhoria Contínua (Semanas 11-16)
+### Sprint 1 (14/04 - 24/04): Estabelecer o Fluxo de Trabalho
 
-| Semana | Tópico |
-|--------|--------|
-| 11 | Topologias de Equipe e design organizacional |
-| 12 | Engenharia de Plataformas e SRE |
-| 13 | IA e Processos de Software — o Paradoxo da Produtividade |
-| 14 | Padrões e modelos de maturidade (CMMI, ISO, IEEE) + Melhoria contínua |
-| 15 | Apresentações finais dos projetos |
-| 16 | Encerramento e consolidação |
+**Objetivo**: Primeira aplicação prática de Scrum + XP + Kanban no projeto.
+
+| Tópico |
+|--------|
+| XP em profundidade: práticas técnicas e design evolutivo |
+| Lean Software Development: 7 princípios e eliminação de desperdício |
+| Kanban, fluxo e sistemas puxados (WIP limits, Lei de Little) |
+| Retrospectivas eficazes |
+
+### Sprint 2 (25/04 - 08/05): Automatizar a Entrega com DevOps
+
+**Objetivo**: Introduzir CI/CD, containers e métricas DORA no projeto.
+
+| Tópico |
+|--------|
+| DevOps — cultura, princípios (CALMS, Três Caminhos) |
+| CI/CD com GitHub Actions na prática |
+| Containerização com Docker e Infrastructure as Code |
+| Métricas DORA (5 métricas) + SPACE framework + 7 arquétipos |
+
+### Sprint 3 (09/05 - 22/05): Analisar o Fluxo e Propor Melhorias
+
+**Objetivo**: Mapear o fluxo de valor (VSM) e propor melhorias baseadas em dados.
+
+| Tópico |
+|--------|
+| Value Stream Mapping — mapeando e melhorando o fluxo |
+| Controle de qualidade: revisões, inspeções (Fagan), métricas de processo |
+| Retrospectivas baseadas em dados |
+| Revisão e preparação para prova |
+
+### PROVA ESCRITA — 26/05 (ter)
+
+Avaliação individual de todo o conteúdo de U1 + U2.
+
+### Sprint 4 (27/05 - 12/06): Consolidar e Refletir Criticamente
+
+**Objetivo**: Finalizar o MVP e produzir a proposta de melhoria de processo.
+
+| Tópico |
+|--------|
+| Team Topologies e design organizacional |
+| Engenharia de Plataformas e SRE |
+| IA e Processos de Software — o Paradoxo da Produtividade |
+| Padrões e modelos de maturidade (CMMI, ISO, IEEE) + Melhoria contínua |
+
+### Apresentações Finais (16-18/06)
+
+Defesa dos projetos com foco em análise crítica do processo vivido.
+
+---
+
+## Mapeamento Unidade ↔ Sprint
+
+| Unidade | Sprints | Conteúdo Principal |
+|---------|---------|-------------------|
+| **U1** | Sprint 0 + Sprint 1 | Fundamentos ágeis (Scrum, XP, Lean, Kanban) |
+| **U2** | Sprint 2 + Sprint 3 + Prova | DevOps, DORA, VSM, Qualidade |
+| **U3** | Sprint 4 + Apresentações | Team Topologies, SRE, IA, Maturidade |
 
 ---
 
@@ -131,9 +175,9 @@ Nota Final = (U1 + U2 + U3) / 3
 
 | Unidade | Componentes |
 |---------|-------------|
-| **U1** | Sprint 0 (60%) + Quiz de Leitura (40%) |
-| **U2** | **Prova Escrita (50%)** + Sprints 1-3 (30%) + Quiz de Leitura (20%) |
-| **U3** | **Prova Escrita (50%)** + Projeto Final (35%) + Proposta de Melhoria de Processo (15%) |
+| **U1** | Sprint 0 (70%) + Participação (30%) |
+| **U2** | **Prova Escrita (40%)** + Sprints 1-3 (40%) + Participação (20%) |
+| **U3** | Projeto Final (60%) + Proposta de Melhoria de Processo (25%) + Participação (15%) |
 
 Detalhes completos em [docs/AVALIACAO.md](AVALIACAO.md).
 
@@ -146,6 +190,7 @@ Detalhes completos em [docs/AVALIACAO.md](AVALIACAO.md).
 | **GitHub** | Repositórios de projeto, GitHub Projects (Kanban/Scrum board) |
 | **GitHub Actions** | Pipelines de CI/CD |
 | **Docker** | Containerização |
+| **Multiprova** | Quizzes de leitura |
 | **Discord** | Comunicação da turma |
 | **Google Meet** | Acompanhamentos online de projeto |
 | **SIGAA** | Entregas oficiais e notas |
@@ -165,7 +210,7 @@ Detalhes completos em [docs/AVALIACAO.md](AVALIACAO.md).
 
 - **SCHWABER, Ken; SUTHERLAND, Jeff.** *Guia do Scrum 2020.* Disponível em: [scrumguides.org (PT-BR)](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-3.0.pdf)
 - **BECK, Kent et al.** *Manifesto Ágil.* 2001. Disponível em: [agilemanifesto.org (PT-BR)](https://agilemanifesto.org/iso/ptbr/manifesto.html)
-- **DORA Team.** *Accelerate State of DevOps Report 2024.* Google Cloud. Disponível em: [dora.dev (PT-BR)](https://dora.dev/research/2024/dora-report/2024-dora-accelerate-state-of-devops-report-ptbr.pdf)
+- **DORA Team.** *Accelerate State of DevOps Report 2025.* Google Cloud. Disponível em: [dora.dev](https://dora.dev/)
 
 ### Artigos Seminais (acesso aberto)
 
@@ -175,9 +220,9 @@ Detalhes completos em [docs/AVALIACAO.md](AVALIACAO.md).
 - **BACCHELLI, Alberto; BIRD, Christian.** Expectations, Outcomes, and Challenges of Modern Code Review. ICSE, 2013. [PDF](https://sback.it/publications/icse2013.pdf)
 - **BRYNJOLFSSON, Erik et al.** AI and the Modern Productivity Paradox. NBER, 2018. [PDF](https://www.nber.org/system/files/working_papers/w24001/w24001.pdf)
 
-### Artigos e Blog Posts de Referência (acesso gratuito)
+### Artigos e Blog Posts de Referência
 
-- **FOWLER, Martin.** *Continuous Integration* (2024), *Is Design Dead?* (2004), *Infrastructure As Code* (2016), *Team Topologies* (2023). Disponíveis em: [martinfowler.com](https://martinfowler.com/)
+- **FOWLER, Martin.** *Continuous Integration* (2024), *Is Design Dead?* (2004), *Team Topologies* (2023). Disponíveis em: [martinfowler.com](https://martinfowler.com/)
 - **Google Engineering.** *Code Review Developer Guide.* Disponível em: [google.github.io/eng-practices](https://google.github.io/eng-practices/review/)
 - **DORA.** Guias sobre métricas e VSM. Disponível em: [dora.dev/guides](https://dora.dev/guides/)
 
@@ -187,7 +232,7 @@ Detalhes completos em [docs/AVALIACAO.md](AVALIACAO.md).
 - CMMI V3.0 — Capability Maturity Model Integration
 - ACM/IEEE/AAAI CS2023 — Computer Science Curricula
 
-> **Nota**: Todas as leituras obrigatórias semanais são de acesso gratuito e estão listadas no [Cronograma](CRONOGRAMA.md). Não é necessário comprar nenhum livro para cursar esta disciplina.
+> **Nota**: Todas as leituras obrigatórias de cada sprint são de acesso gratuito e estão listadas no [Cronograma](CRONOGRAMA.md). Não é necessário comprar nenhum livro para cursar esta disciplina.
 
 ---
 
