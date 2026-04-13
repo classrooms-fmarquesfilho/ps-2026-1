@@ -29,10 +29,10 @@ A avaliação combina três dimensões:
 
 | Tipo | Componentes | Descrição |
 |------|-------------|-----------|
-| **Individual** | Prova, Quiz de Leitura | Conhecimento e compreensão próprios |
+| **Individual** | Prova, Participação | Trabalho e conhecimento próprio |
 | **Em grupo** | Sprints, Apresentação Final, Proposta de Melhoria | Equipes de 3-4 pessoas |
 
-> **Importante**: O **projeto é em grupo**, mas o conhecimento individual é avaliado através da prova escrita e dos quizzes de leitura semanais, que juntos representam a maior parte da nota.
+> **Importante**: O **projeto é em grupo**, mas a participação de cada membro é avaliada individualmente através de peer evaluation e análise de contribuições.
 
 ---
 
@@ -45,19 +45,17 @@ A avaliação combina três dimensões:
 
 | Sprint | Conteúdo | Prazo | Vídeo |
 |--------|----------|-------|-------|
-| Sprint 0 | Proposta do projeto | 26/03 (qui) | 5 min |
-| Sprint 1 | Backlog + primeiras funcionalidades + CI | 10/04 (sex) | 8 min |
-| Sprint 2 | Funcionalidades core + Docker + métricas DORA | 24/04 (sex) | 8 min |
-| Sprint 3 | Funcionalidades completas + VSM do pipeline | 08/05 (sex) | 8 min |
-| Sprint 4 | Refinamento + qualidade + testes | 22/05 (sex) | 8 min |
-| Sprint 5 | MVP completo + proposta de melhoria | 12/06 (sex) | 10 min |
+| Sprint 0 | Proposta do projeto | 06/04 (dom) ✓ | 5 min |
+| Sprint 1 | Estabelecer fluxo de trabalho (Scrum + XP + Kanban aplicados) | 24/04 (sex) | 8 min |
+| Sprint 2 | Automatizar entrega com DevOps (CI/CD + Docker + primeiras métricas DORA) | 08/05 (sex) | 8 min |
+| Sprint 3 | Analisar fluxo e propor melhorias (VSM + métricas + qualidade) | 22/05 (sex) | 8 min |
+| Sprint 4 | Consolidar MVP + proposta de melhoria de processo | 12/06 (sex) | 10 min |
 
 ### Datas Especiais
 
 | Evento | Data | Observação |
 |--------|------|------------|
-| Formação de grupos | 26/03 | Registrar em formulário (a ser disponibilizado) |
-| **Prova Escrita** | **12/05 (ter)** | Sala de aula, 10:30-12:00 |
+| **Prova Escrita** | **26/05 (ter)** | Sala de aula, 10:30-12:00 |
 | Apresentações Finais | 16 e 18/06 | 12 min + 3 min perguntas |
 | Entrega Final U3 | 26/06 (sex) | ZIP no SIGAA |
 | Consolidação SIGAA | 11/07 | Término oficial do período |
@@ -66,9 +64,9 @@ A avaliação combina três dimensões:
 
 | Unidade | Período | Entrega Final |
 |---------|---------|---------------|
-| U1 | 17/03 a 03/04 | 03/04 (sex) |
-| U2 | 06/04 a 08/05 | 08/05 (sex) + Prova 12/05 |
-| U3 | 18/05 a 26/06 | 26/06 (sex) |
+| U1 | 17/03 a 24/04 | 24/04 (sex) |
+| U2 | 25/04 a 22/05 | 22/05 (sex) + Prova 26/05 |
+| U3 | 27/05 a 26/06 | 26/06 (sex) |
 
 ---
 
@@ -76,43 +74,43 @@ A avaliação combina três dimensões:
 
 | Unidade | Componentes | Tipo |
 |---------|-------------|------|
-| **U1** | Sprint 0 (60%) + Quiz de Leitura (40%) | Grupo + Individual |
-| **U2** | **Prova Escrita (50%)** + Sprints 1-3 (30%) + Quiz de Leitura (20%) | Individual + Grupo + Individual |
-| **U3** | **Prova Escrita (50%)** + Projeto Final (35%) + Proposta de Melhoria (15%) | Individual + Grupo + Grupo |
+| **U1** | Sprint 0 (70%) + Participação (30%) | Grupo + Individual |
+| **U2** | **Prova Escrita (40%)** + Sprints 1-3 (40%) + Participação (20%) | Individual + Grupo + Individual |
+| **U3** | Projeto Final (60%) + Proposta de Melhoria (25%) + Participação (15%) | Grupo + Grupo + Individual |
 
 ---
 
-## Unidade 1 (Semanas 1-5)
+## Unidade 1 (Sprint 0 + Sprint 1)
 
 ### Componentes e Pesos
 
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
-| Sprint 0 | 60% | Grupo | Proposta do projeto (vídeo 5min + documento) |
-| Quiz de Leitura | 40% | Individual | Quizzes 1-3 (média dos 2 melhores de 3) |
+| Sprint 0 | 70% | Grupo | Proposta do projeto (vídeo 5min + documento) |
+| Participação | 30% | Individual | Presença + engajamento em aula e Discord |
 
 ### Fórmula
 
 ```
-U1 = (Sprint0 × 0.60) + (Quiz × 0.40)
+U1 = (Sprint0 × 0.70) + (Participação × 0.30)
 ```
 
 ---
 
-## Unidade 2 (Semanas 6-11)
+## Unidade 2 (Sprint 2 + Sprint 3 + Prova)
 
 ### Componentes e Pesos
 
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
-| **Prova Escrita** | **50%** | Individual | Em sala (12/05), consulta a 1 folha A4 |
-| Sprints 1-3 | 30% | Grupo | Vídeos de sprint (8min cada) + artefatos de processo |
-| Quiz de Leitura | 20% | Individual | Quizzes 4-6 (média dos 2 melhores de 3) |
+| **Prova Escrita** | **40%** | Individual | Em sala (26/05), consulta a 1 folha A4 |
+| Sprints 1-3 | 40% | Grupo | Vídeos de sprint (8min cada) + artefatos de processo |
+| Participação | 20% | Individual | Presença + peer evaluation + engajamento |
 
 ### Fórmula
 
 ```
-U2 = (Prova × 0.50) + (Sprints × 0.30) + (Quiz × 0.20)
+U2 = (Prova × 0.40) + (Sprints × 0.40) + (Participação × 0.20)
 ```
 
 ### Peso dos Sprints na nota de Sprints U2
@@ -129,47 +127,44 @@ Sprints_U2 = (Sprint1 × 0.30) + (Sprint2 × 0.35) + (Sprint3 × 0.35)
 
 ---
 
-## Unidade 3 (Semanas 12-17)
+## Unidade 3 (Sprint 4 + Apresentações)
 
 ### Componentes e Pesos
 
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
-| **Prova Escrita** | **50%** | Individual | Mesma prova da U2 (realizada em 12/05) |
-| Projeto Final | 35% | Grupo | Sprints 4-5 + Apresentação Final |
-| Proposta de Melhoria de Processo | 15% | Grupo | Documento VSM + análise DORA + recomendações |
+| Projeto Final | 60% | Grupo | Sprint 4 + Apresentação Final |
+| Proposta de Melhoria de Processo | 25% | Grupo | Documento VSM + análise DORA + recomendações |
+| Participação | 15% | Individual | Presença + peer evaluation + engajamento |
 
 ### Fórmula
 
 ```
-U3 = (Prova × 0.50) + (Projeto × 0.35) + (Proposta × 0.15)
+U3 = (Projeto × 0.60) + (Proposta × 0.25) + (Participação × 0.15)
 ```
 
 ### Peso do Projeto na U3
 
 | Componente | Peso na U3 |
 |------------|------------|
-| Sprint 4 | 10% |
-| Sprint 5 | 15% |
-| Apresentação Final | 10% |
+| Sprint 4 | 35% |
+| Apresentação Final | 25% |
 
 ```
-Projeto_U3 = Sprint4 (10%) + Sprint5 (15%) + Apresentação (10%) = 35%
+Projeto_U3 = Sprint4 (35%) + Apresentação (25%) = 60%
 ```
 
 ---
 
-## Prova Escrita (50% de U2 + 50% de U3 = 1 Unidade)
+## Prova Escrita (40% da U2)
 
 ### Informações Gerais
 
-- **Data**: 12/05/2026 (Terça-feira)
+- **Data**: 26/05/2026 (Terça-feira)
 - **Horário**: 10:30 às 12:00
 - **Local**: Laboratório A305 (IMD)
 - **Duração**: 1h30min
 - **Formato**: Individual, consulta permitida a **1 folha A4 (frente e verso, manuscrita)**
-
-A prova representa **uma unidade completa** do curso (50% de U2 + 50% de U3). Isso garante que cada estudante demonstre individualmente o domínio dos conceitos fundamentais de processos de software.
 
 ### Conteúdo
 
@@ -205,7 +200,7 @@ A prova combina questões de diferentes tipos:
 
 ## Projeto Integrador
 
-### Sprint 0: Proposta do Projeto (60% da U1)
+### Sprint 0: Proposta do Projeto (70% da U1)
 
 O Sprint 0 é a **fase de planejamento** onde a equipe define o que será construído e como o processo será organizado.
 
@@ -219,7 +214,7 @@ O Sprint 0 é a **fase de planejamento** onde a equipe define o que será constr
 
 O projeto desta disciplina é diferente de projetos de cursos de programação: aqui, **o processo é tão importante quanto o produto**. A equipe deve desenvolver um software funcional, mas será avaliada principalmente pela qualidade com que gerencia seu processo de desenvolvimento.
 
-**O que pode ser o projeto:**  
+**O que pode ser o projeto:**
 - Uma aplicação web (frontend + backend simples)
 - Um aplicativo mobile
 - Uma ferramenta CLI útil
@@ -311,7 +306,7 @@ Use formato de História de Usuário (User Story): "Como [papel], quero [ação]
 
 ---
 
-### Sprints 1-4: Desenvolvimento (8min cada)
+### Sprints 1-3: Desenvolvimento (8min cada)
 
 #### Critérios de Avaliação
 
@@ -355,7 +350,7 @@ Use formato de História de Usuário (User Story): "Como [papel], quero [ação]
 
 ---
 
-### Sprint 5: MVP Completo (10 minutos)
+### Sprint 4 (final): MVP Completo (10 minutos)
 
 | Critério | Peso |
 |----------|------|
@@ -368,7 +363,7 @@ Use formato de História de Usuário (User Story): "Como [papel], quero [ação]
 
 ---
 
-## Apresentação Final do Projeto (10% da U3)
+## Apresentação Final do Projeto (25% da U3)
 
 ### Informações Gerais
 
@@ -394,7 +389,7 @@ Use formato de História de Usuário (User Story): "Como [papel], quero [ação]
    - Value Stream Map do pipeline de entrega
    - Métricas DORA coletadas (com gráficos)
    - Principais decisões de processo e seus impactos
-   - O que mudou entre Sprint 1 e Sprint 5
+   - O que mudou entre Sprint 1 e Sprint 4
 
 4. Lições Aprendidas (2min)
    - O que funcionou e o que não funcionou
@@ -417,7 +412,7 @@ Use formato de História de Usuário (User Story): "Como [papel], quero [ação]
 
 ---
 
-## Proposta de Melhoria de Processo (15% da U3)
+## Proposta de Melhoria de Processo (25% da U3)
 
 ### Descrição
 
@@ -462,61 +457,28 @@ Cada equipe deve produzir um **documento de análise e proposta de melhoria** do
 
 ---
 
-## Leituras Semanais e Quiz Presencial
+## Participação
 
-### Como Funciona
+### Componentes da Nota de Participação
 
-1. **Antes da aula de terça**: o estudante lê os 2 textos indicados para a semana (disponíveis no cronograma)
-2. **No início da aula de terça**: quiz presencial de 10-15 minutos sobre as leituras
-3. **Após o quiz**: discussão em sala sobre os temas, conectando leitura + vídeo + prática
+| Item | Peso | Descrição |
+|------|------|-----------|
+| Presença | 30% | Frequência nas aulas presenciais e online |
+| Peer Evaluation | 30% | Avaliação pelos colegas de equipe (formulário ao final de cada unidade) |
+| Engajamento | 25% | Contribuição em discussões, atividades em sala, Discord |
+| Retrospectivas | 15% | Qualidade das contribuições nas retrospectivas de sprint |
 
-### Formato do Quiz
+### Peer Evaluation
 
-- **Plataforma**: Multiprova (sistema oficial da UFRN)
-- **Local**: Laboratório de sala de aula (presencial obrigatório)
-- **Duração**: 15-20 minutos (início da aula de terça)
-- **Formato**: ~20 questões fechadas (múltipla escolha e V/F)
-- **Individual**: sem consulta
-- **Conteúdo**: baseado nas leituras indicadas na(s) semana(s) anterior(es)
-- **Nota**: 0 a 10 por quiz
+Ao final de cada unidade, cada membro da equipe avalia seus colegas nas seguintes dimensões (adaptado do modelo CATME):
 
-### Distribuição dos Quizzes
+1. **Contribuição ao trabalho** — faz sua parte, entrega no prazo
+2. **Interação com a equipe** — comunica, colabora, participa das cerimônias
+3. **Manutenção do processo** — mantém o quadro atualizado, segue o DoD, participa de reviews
+4. **Qualidade** — trabalho cuidadoso, atenção a detalhes
+5. **Conhecimento** — demonstra entendimento dos conceitos
 
-| Unidade | Quizzes | Descarte | Cálculo |
-|---------|---------|----------|---------|
-| U1 (Semanas 3-5) | Quiz 1 a 3 | menor nota | Média dos 2 melhores |
-| U2 (Semanas 5-9) | Quiz 4 a 6 | menos nota | Média dos 2 melhores |
-
-> **Nota**: A U3 não possui quizzes — o foco é na finalização do projeto, apresentação e proposta de melhoria.
-
-### Lista Completa de Quizzes
-
-| # | Semana | Tema | Leituras |
-|---|--------|------|----------|
-| 1 | 3 | Modelos de ciclo de vida + Scrum + Manifesto Ágil | Royce (1970), Boehm (1988), Guia do Scrum 2020, Manifesto Ágil |
-| 2 | 4 | XP e Lean | Fowler — *Is Design Dead?*, Poppendieck (2003) |
-| 3 | 5 | Kanban e fluxo | Atlassian — Kanban, Scrum.org — WIP Limits |
-| 4 | 6 | DevOps e CI/CD | Fowler — *Continuous Integration*, GitHub Actions Quickstart |
-| 5 | 8 | Containers + IaC + DORA + VSM | Docker Docs, Fowler — IaC, DORA Metrics, DORA Report (PT-BR), DORA VSM, Atlassian VSM |
-| 6 | 9 | Revisões e qualidade | Google Code Review Guide, Bacchelli & Bird (ICSE 2013) |
-| 7 | 12 | Topologias de Equipe + Conway | Conway (1968), Fowler — *Team Topologies* |
-| 8 | 13 | SRE e Eng. de Plataformas | Google SRE Book Ch. 1, Microsoft — Platform Engineering |
-| 9 | 14 | IA e produtividade | METR (2025), Brynjolfsson et al. (2018) |
-
-> **Importante**: Os quizzes 7-9 (U3) não contam na nota de unidade, mas as leituras correspondentes são matéria da prova e essenciais para a proposta de melhoria de processo.
-
-### Política de Faltas em Quizzes
-
-- Quiz perdido por falta não justificada: nota zero (por isso existe o descarte)
-- Falta justificada (via SIGAA até 48h): o quiz é descartado sem penalidade
-- Não há quiz de reposição
-
-### Textos-Base Complementares (consulta livre)
-
-Dois livros-texto abertos podem ser consultados ao longo de todo o semestre como referência complementar:
-
-- **Engenharia de Software Moderna** — Marco Tulio Valente (UFMG) — [engsoftmoderna.info](https://engsoftmoderna.info/) (PT-BR, Cap. 2: Processos)
-- **Handbook of Software Engineering Methods** — Lara Letaw (Oregon State) — [open.oregonstate.education/setextbook](https://open.oregonstate.education/setextbook/) (EN, CC BY-NC 4.0)
+A avaliação é confidencial e influencia a nota individual de participação.
 
 ### Frequência
 
@@ -571,8 +533,7 @@ equipe-nome-u2.zip
 equipe-nome-final.zip
 ├── README.md                    # Resumo e links
 ├── sprints/
-│   ├── sprint-4-video.txt       # Link do vídeo Sprint 4
-│   └── sprint-5-video.txt       # Link do vídeo Sprint 5
+│   └── sprint-4-video.txt       # Link do vídeo Sprint 4 (final)
 ├── projeto/
 │   └── repo-link.txt            # Link do repositório
 ├── proposta-melhoria/
@@ -631,8 +592,6 @@ R: Sim, a equipe precisa desenvolver software. Mas a avaliação enfatiza o proc
 **P: A prova é difícil?**  
 R: A prova cobre conceitos e aplicação. Se você acompanhou os vídeos e participou das atividades, estará preparado. A folha de consulta ajuda bastante.
 
-**P: O que acontece se um membro da equipe não contribui?**  
-R: A avaliação individual já é garantida pela prova (50% de U2 e U3) e pelos quizzes de leitura (40% de U1, 20% de U2). Para o componente de grupo, evidências como commits no repositório, contribuição nos vídeos e capacidade de responder perguntas na apresentação final permitem identificar membros que não contribuíram.
 
 **P: Como gravar o vídeo de sprint?**  
 R: OBS Studio, Zoom, Google Meet, ou qualquer ferramenta. O importante é a qualidade do conteúdo, não a produção.
