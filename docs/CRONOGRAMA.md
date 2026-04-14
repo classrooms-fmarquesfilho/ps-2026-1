@@ -7,7 +7,7 @@
 
 ---
 
-> **⚠️ Atualização 09/04/2026**: Cronograma reorganizado por **sprint** (não mais por semana). Sprints duram **2 semanas**. Prova adiada para **26/05 (ter)**. Total de **4 sprints** (Sprint 1 a Sprint 4) após a entrega da proposta (Sprint 0).
+> **⚠️ Atualização 09/04/2026**: Cronograma reorganizado por **sprint** (não mais por semana). Cada sprint tem **objetivo claro** alinhado ao conteúdo teórico. Sprints duram **2 semanas**. Prova adiada para **26/05 (ter)**. Total de **4 sprints** (Sprint 1 a Sprint 4) após a entrega da proposta (Sprint 0).
 
 ---
 
@@ -91,8 +91,8 @@ A equipe coloca o processo em operação: primeira aplicação prática de Scrum
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 14/04 | Ter | 🟢 | **🧩 Quiz 2** (XP + Lean + Kanban) + XP em profundidade: práticas técnicas como sistema |
-| 16/04 | Qui | 🟢 | Kanban aplicado ao projeto: configurando o quadro, WIP limits, métricas de fluxo |
+| 14/04 | Ter | 🟢 | Fechamento de Lean (princípios Lean Software + fluxo + pull + gestão visual) + Kanban como método (4 princípios, 6 práticas, **WIP limits**, GitHub Projects) |
+| 16/04 | Qui | 🟢 | **🧩 Quiz 2** (XP + Lean + Kanban) + Kanban aplicado ao projeto: revisão dos quadros das equipes + retrospectiva de sprint |
 | 21/04 | Ter | 🔴 | **Tiradentes** — Sem aula |
 | 23/04 | Qui | 🟢 | **🧩 Quiz 1** (recuperação — Modelos + Scrum + Manifesto Ágil) + Retrospectiva de sprint: como fazer bem |
 
@@ -302,7 +302,7 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 | Quiz | Conteúdo | Data | Sprint |
 |------|----------|------|--------|
 | Quiz 1 | Modelos + Scrum + Manifesto (recuperação) | 23/04 (qui) | Sprint 1 |
-| Quiz 2 | XP + Lean + Kanban | 14/04 (ter) | Sprint 1 |
+| Quiz 2 | XP + Lean + Kanban | 16/04 (qui) | Sprint 1 |
 | Quiz 3 | DevOps + CI/CD | 28/04 (ter) | Sprint 2 |
 | Quiz 4 | Containers + IaC + DORA | 05/05 (ter) | Sprint 2 |
 | Quiz 5 | VSM + qualidade | 12/05 (ter) | Sprint 3 |
