@@ -148,9 +148,8 @@ A equipe introduz automação e medição no projeto: **pipeline CI/CD funcionan
 ### Leituras da Sprint
 
 - **L8**: Fowler (2024) — *Continuous Integration* — [martinfowler.com](https://martinfowler.com/articles/continuousIntegration.html)
-- **L9**: Kim et al. — *The DevOps Handbook* (capítulos 1-3)
+- **L9**: Kim et al. — *The DevOps Handbook* (capítulos 1-3, no SIGAA)
 - **L10**: DORA Team — *Software Delivery Performance Metrics* — [dora.dev](https://dora.dev/guides/dora-metrics-four-keys/)
-- **L11**: DORA (2025) — *Accelerate State of DevOps Report* (executive summary + arquétipos)
 
 ### Entrega do Sprint
 
