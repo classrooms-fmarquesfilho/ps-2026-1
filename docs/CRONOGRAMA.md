@@ -30,7 +30,7 @@
 | Sprint | Período | Objetivo | Entrega |
 |--------|---------|----------|---------|
 | **Sprint 0** | 17/03 - 06/04 | Propor o projeto e definir o processo de trabalho | 06/04 (dom) ✓ |
-| **Sprint 1** | 14/04 - 24/04 | Estabelecer o fluxo de trabalho e entregar o primeiro incremento | **24/04 (sex)** |
+| **Sprint 1** | 14/04 - 24/04 | Estabelecer o fluxo de trabalho e entregar o primeiro incremento | **30/04 (qui)** ⚠️ |
 | **Sprint 2** | 25/04 - 08/05 | Automatizar a entrega com DevOps e começar a medir desempenho | **08/05 (sex)** |
 | **Sprint 3** | 09/05 - 22/05 | Analisar o fluxo de valor e propor melhorias baseadas em dados | **22/05 (sex)** |
 | 📚 **PROVA** | 26/05 (ter) | Avaliação individual dos conceitos de U1+U2 | — |
@@ -67,7 +67,7 @@ Cada equipe propõe seu projeto, define o produto, forma o backlog inicial e con
 | 31/03 | Ter | 🔴 | ~~Sem aula — professor doente~~ |
 | 02/04 | Qui | 🔴 | ~~Quinta-feira Santa~~ |
 | 07/04 | Ter | 🟢 | XP e Lean |
-| 09/04 | Qui | 🟢 | Acompanhamento presencial + revisão da aula anterior |
+| 09/04 | Qui | 🔵 | **Acompanhamento Online** |
 
 ### Leituras da Sprint
 
@@ -94,7 +94,7 @@ A equipe coloca o processo em operação: primeira aplicação prática de Scrum
 | 14/04 | Ter | 🟢 | Fechamento de Lean (princípios Lean Software + fluxo + pull + gestão visual) + Kanban como método (4 princípios, 6 práticas, **WIP limits**, GitHub Projects) |
 | 16/04 | Qui | 🟢 | **🧩 Quiz 2** (XP + Lean + Kanban) + Kanban aplicado ao projeto: revisão dos quadros das equipes + retrospectiva de sprint |
 | 21/04 | Ter | 🔴 | **Tiradentes** — Sem aula |
-| 23/04 | Qui | 🟢 | **🧩 Quiz 1** (recuperação — Modelos + Scrum + Manifesto Ágil) + Retrospectiva de sprint: como fazer bem |
+| 23/04 | Qui | 🔵 | **Acompanhamento Online** — Sprint 1 (revisão de projetos, feedback sobre quadros Kanban) |
 
 ### Conteúdo Habilitador
 
@@ -112,7 +112,7 @@ A equipe coloca o processo em operação: primeira aplicação prática de Scrum
 
 ### Entrega do Sprint
 
-🚀 **Sprint 1** (vídeo 8min + retrospectiva documentada) — até **24/04 (sex)**
+🚀 **Sprint 1** (vídeo 8min + retrospectiva documentada) — prazo estendido até **30/04 (qui)**
 
 **Esperado no vídeo**:
 1. Demonstração do primeiro incremento funcional
@@ -132,10 +132,10 @@ A equipe introduz automação e medição no projeto: **pipeline CI/CD funcionan
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 28/04 | Ter | 🟢 | **🧩 Quiz 3** (DevOps + CI/CD) + Cultura DevOps (CALMS, Três Caminhos) + GitHub Actions na prática |
-| 30/04 | Qui | 🟢 | Containerização com Docker + Infrastructure as Code |
-| 05/05 | Ter | 🟢 | **🧩 Quiz 4** (Containers + IaC + DORA) + Métricas DORA (5 métricas + SPACE + 7 arquétipos 2025) |
-| 07/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 2 check-in |
+| 28/04 | Ter | 🟢 | Cultura DevOps: o que é, o que NÃO é, CALMS, CI/CD |
+| 30/04 | Qui | 🟢 | **🧩 Quiz 1** (Modelos + Scrum + Manifesto Ágil, **Multiprova 24h**, 25 min) |
+| 05/05 | Ter | 🟢 | **🧩 Quiz 3** (DevOps + CI/CD + Docker) + Métricas DORA (5 métricas + SPACE + 7 arquétipos) |
+| 07/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 2 |
 
 ### Conteúdo Habilitador
 
@@ -301,13 +301,13 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 
 | Quiz | Conteúdo | Data | Sprint |
 |------|----------|------|--------|
-| Quiz 1 | Modelos + Scrum + Manifesto (recuperação) | 23/04 (qui) | Sprint 1 |
+| Quiz 1 | Modelos + Scrum + Manifesto | **30/04 (qui)** — Multiprova 24h | Sprint 2 |
 | Quiz 2 | XP + Lean + Kanban | 16/04 (qui) | Sprint 1 |
-| Quiz 3 | DevOps + CI/CD | 28/04 (ter) | Sprint 2 |
-| Quiz 4 | Containers + IaC + DORA | 05/05 (ter) | Sprint 2 |
-| Quiz 5 | VSM + qualidade | 12/05 (ter) | Sprint 3 |
-| Quiz 6 | Team Topologies + SRE | 02/06 (ter) | Sprint 4 |
-| Quiz 7 | IA + processos | 09/06 (ter) | Sprint 4 |
+| Quiz 3 | DevOps + CI/CD + Docker | 05/05 (ter) | Sprint 2 |
+
+| Quiz 4 | VSM + qualidade | 12/05 (ter) | Sprint 3 |
+| Quiz 5 | Team Topologies + SRE | 02/06 (ter) | Sprint 4 |
+| Quiz 6 | IA + processos | 09/06 (ter) | Sprint 4 |
 
 ### Entregas por Unidade
 
@@ -336,7 +336,7 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 |------|--------|
 | 19/03 | Prazo para formação de grupos |
 | **06/04 (dom)** | Entrega Sprint 0 |
-| **24/04 (sex)** | Entrega Sprint 1 (fim da U1) |
+| **30/04 (sex)** | Entrega Sprint 1  |
 | **08/05 (sex)** | Entrega Sprint 2 |
 | **22/05 (sex)** | Entrega Sprint 3 |
 | **26/05 (ter)** | **PROVA ESCRITA** |
@@ -351,13 +351,14 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 
 Os acompanhamentos acontecem às quintas-feiras, sincronizados com a turma de Web II:
 
-| # | Data | Foco | Sprint |
-|---|------|------|--------|
-| 1 | 26/03 | Sprint 0 — Proposta do projeto | Sprint 0 |
-| 2 | 07/05 | Sprint 2 — Pipeline + DORA | Sprint 2 |
-| 3 | 21/05 | Sprint 3 + Revisão para prova | Sprint 3 |
-| 4 | 11/06 | Sprint 4 final + preparação de apresentações | Sprint 4 |
-| 5 | 25/06 | Dúvidas sobre correção e notas | — |
+| # | Data | Foco |
+|---|------|------|
+| 1 | 26/03 | Sprint 0 — Proposta do projeto |
+| 2 | 23/04 | Sprint 1 - Primeira versão do projeto |
+| 2 | 07/05 | Sprint 2 — Pipeline + DORA |
+| 3 | 21/05 | Sprint 3 + Revisão para prova | 
+| 4 | 11/06 | Sprint 4 final + preparação de apresentações |
+| 5 | 25/06 | Dúvidas sobre correção e notas |
 
 **Horário**: 10:30-12:00 (mesmo horário das aulas presenciais)  
 **Formato**: ~10 minutos por equipe para tirar dúvidas e revisar progresso
