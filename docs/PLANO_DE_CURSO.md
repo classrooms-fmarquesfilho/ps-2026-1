@@ -88,6 +88,8 @@ O curso é centrado no desenvolvimento de um **projeto integrador** organizado e
 ## Conteúdo Programático por Sprint
 
 > **Atualização 09/04/2026**: O conteúdo teórico do curso está organizado por **sprint** do projeto, de modo que cada bloco de teoria habilite uma capacidade prática que a equipe aplicará no sprint correspondente.
+>
+> **Atualização 05/05/2026**: Datas ajustadas para reposição de aulas não realizadas (03/03, 05/03, 10/03, 12/03, 31/03, 28/04 e 30/04). Prova adiada para **02/06 (ter)**. Apresentações finais adiadas para **30/06 (ter) e 02/07 (qui)**.
 
 ### Sprint 0 (17/03 - 06/04): Proposta do Projeto
 
@@ -110,7 +112,7 @@ O curso é centrado no desenvolvimento de um **projeto integrador** organizado e
 | Kanban, fluxo e sistemas puxados (WIP limits, Lei de Little) |
 | Retrospectivas eficazes |
 
-### Sprint 2 (25/04 - 08/05): Automatizar a Entrega com DevOps
+### Sprint 2 (05/05 - 19/05): Automatizar a Entrega com DevOps
 
 **Objetivo**: Introduzir CI/CD, containers e métricas DORA no projeto.
 
@@ -121,7 +123,7 @@ O curso é centrado no desenvolvimento de um **projeto integrador** organizado e
 | Containerização com Docker e Infrastructure as Code |
 | Métricas DORA (5 métricas) + SPACE framework + 7 arquétipos |
 
-### Sprint 3 (09/05 - 22/05): Analisar o Fluxo e Propor Melhorias
+### Sprint 3 (20/05 - 02/06): Analisar o Fluxo e Propor Melhorias
 
 **Objetivo**: Mapear o fluxo de valor (VSM) e propor melhorias baseadas em dados.
 
@@ -132,11 +134,11 @@ O curso é centrado no desenvolvimento de um **projeto integrador** organizado e
 | Retrospectivas baseadas em dados |
 | Revisão e preparação para prova |
 
-### PROVA ESCRITA — 26/05 (ter)
+### PROVA ESCRITA — 02/06 (ter)
 
 Avaliação individual de todo o conteúdo de U1 + U2.
 
-### Sprint 4 (27/05 - 12/06): Consolidar e Refletir Criticamente
+### Sprint 4 (03/06 - 19/06): Consolidar e Refletir Criticamente
 
 **Objetivo**: Finalizar o MVP e produzir a proposta de melhoria de processo.
 
@@ -147,7 +149,7 @@ Avaliação individual de todo o conteúdo de U1 + U2.
 | IA e Processos de Software — o Paradoxo da Produtividade |
 | Padrões e modelos de maturidade (CMMI, ISO, IEEE) + Melhoria contínua |
 
-### Apresentações Finais (16-18/06)
+### Apresentações Finais (30/06 e 02/07)
 
 Defesa dos projetos com foco em análise crítica do processo vivido.
 
