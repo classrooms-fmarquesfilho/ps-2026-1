@@ -5,6 +5,8 @@
 **Período**: 2026.1  
 **Prof. Fernando Figueira**
 
+> **⚠️ Atualização 05/05/2026**: Datas ajustadas para reposição de aulas não realizadas. Prova adiada para **02/06 (ter)**. Apresentações finais adiadas para **30/06 (ter) e 02/07 (qui)**. Entrega U3 passa a ser **04/07 (sex)**.
+
 ---
 
 ## Estrutura Geral
@@ -46,27 +48,27 @@ A avaliação combina três dimensões:
 | Sprint | Conteúdo | Prazo | Vídeo |
 |--------|----------|-------|-------|
 | Sprint 0 | Proposta do projeto | 06/04 (dom) ✓ | 5 min |
-| Sprint 1 | Estabelecer fluxo de trabalho (Scrum + XP + Kanban aplicados) | 24/04 (sex) | 8 min |
-| Sprint 2 | Automatizar entrega com DevOps (CI/CD + Docker + primeiras métricas DORA) | 08/05 (sex) | 8 min |
-| Sprint 3 | Analisar fluxo e propor melhorias (VSM + métricas + qualidade) | 22/05 (sex) | 8 min |
-| Sprint 4 | Consolidar MVP + proposta de melhoria de processo | 12/06 (sex) | 10 min |
+| Sprint 1 | Estabelecer fluxo de trabalho (Scrum + XP + Kanban aplicados) | 24/04 (sex) ✓ | 8 min |
+| Sprint 2 | Automatizar entrega com DevOps (CI/CD + Docker + primeiras métricas DORA) | **19/05 (ter)** | 8 min |
+| Sprint 3 | Analisar fluxo e propor melhorias (VSM + métricas + qualidade) | **29/05 (sex)** | 8 min |
+| Sprint 4 | Consolidar MVP + proposta de melhoria de processo | **19/06 (sex)** | 10 min |
 
 ### Datas Especiais
 
 | Evento | Data | Observação |
 |--------|------|------------|
-| **Prova Escrita** | **26/05 (ter)** | Sala de aula, 10:30-12:00 |
-| Apresentações Finais | 16 e 18/06 | 12 min + 3 min perguntas |
-| Entrega Final U3 | 26/06 (sex) | ZIP no SIGAA |
+| **Prova Escrita** | **02/06 (ter)** | Sala de aula, 10:30-12:00 |
+| Apresentações Finais | 30/06 e 02/07 | 12 min + 3 min perguntas |
+| Entrega Final U3 | 04/07 (sex) | ZIP no SIGAA |
 | Consolidação SIGAA | 11/07 | Término oficial do período |
 
 ### Consolidação por Unidade
 
 | Unidade | Período | Entrega Final |
 |---------|---------|---------------|
-| U1 | 17/03 a 24/04 | 24/04 (sex) |
-| U2 | 25/04 a 22/05 | 22/05 (sex) + Prova 26/05 |
-| U3 | 27/05 a 26/06 | 26/06 (sex) |
+| U1 | 17/03 a 24/04 | 24/04 (sex) ✓ |
+| U2 | 25/04 a 29/05 | 29/05 (sex) + Prova 02/06 |
+| U3 | 03/06 a 04/07 | 04/07 (sex) |
 
 ---
 
@@ -103,7 +105,7 @@ U1 = (Sprint0 × 0.70) + (Participação × 0.30)
 
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
-| **Prova Escrita** | **40%** | Individual | Em sala (26/05), consulta a 1 folha A4 |
+| **Prova Escrita** | **40%** | Individual | Em sala (02/06), consulta a 1 folha A4 |
 | Sprints 1-3 | 40% | Grupo | Vídeos de sprint (8min cada) + artefatos de processo |
 | Participação | 20% | Individual | Presença + peer evaluation + engajamento |
 
@@ -160,7 +162,7 @@ Projeto_U3 = Sprint4 (35%) + Apresentação (25%) = 60%
 
 ### Informações Gerais
 
-- **Data**: 26/05/2026 (Terça-feira)
+- **Data**: 02/06/2026 (Terça-feira)
 - **Horário**: 10:30 às 12:00
 - **Local**: Laboratório A305 (IMD)
 - **Duração**: 1h30min
@@ -367,7 +369,7 @@ Use formato de História de Usuário (User Story): "Como [papel], quero [ação]
 
 ### Informações Gerais
 
-- **Datas**: 16/06 (terça) e 18/06 (quinta)
+- **Datas**: 30/06 (terça) e 02/07 (quinta)
 - **Horário**: 10:30 às 12:00
 - **Local**: Sala de aula com projetor
 - **Duração**: 12 minutos + 3 minutos de perguntas (15 min total)
@@ -514,7 +516,7 @@ equipe-nome-u1.zip
     └── github-projects.txt    # Link para o quadro Kanban
 ```
 
-#### U2: Entrega até 08/05
+#### U2: Entrega até 29/05
 
 ```
 equipe-nome-u2.zip
@@ -527,7 +529,7 @@ equipe-nome-u2.zip
     └── repo-link.txt            # Link do repositório
 ```
 
-#### U3: Entrega Final até 26/06
+#### U3: Entrega Final até 04/07
 
 ```
 equipe-nome-final.zip
