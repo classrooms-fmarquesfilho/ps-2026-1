@@ -352,18 +352,20 @@ Isso é o **1º Caminho em ação**: fluxo da esquerda para a direita, sem passa
 # Sprint 2: o que vocês precisam fazer
 
 1. **Pipeline de CI/CD** funcionando no GitHub Actions
-   - Build, testes, linting a cada push
 2. **Docker** para reprodutibilidade
    - Dockerfile multi-stage, docker-compose
 3. **Primeiras métricas DORA** coletadas
    - Frequência de deploy, lead time (pelo menos 2 métricas)
-4. **Vídeo 8min** mostrando pipeline + Docker + métricas
+4. **Retrospectiva da Sprint 2** documentada com ações concretas
+5. **Vídeo 8min** mostrando pipeline + Docker + métricas + reflexão sobre impacto no fluxo
 
-**Prazo**: 08/05 (sex)
+**Prazo**: 19/05 (ter) às 23:59
 
 ---
 
 # Leituras
+
+- **Aula gravada**: DevOps, CI/CD e Cultura de Entrega — [youtu.be/nBd0vsnODp8](https://youtu.be/nBd0vsnODp8)
 
 - **L8**: Fowler — *Continuous Integration* — [martinfowler.com/articles/continuousIntegration.html](https://martinfowler.com/articles/continuousIntegration.html)
 
@@ -375,7 +377,7 @@ Isso é o **1º Caminho em ação**: fluxo da esquerda para a direita, sem passa
 
 # Referências
 
-- Kim, G. et al. (2016) — *The DevOps Handbook*
+- Kim, G. et al. (2016) — *The DevOps Handbook* (no SIGAA)
 - Humble, J. & Farley, D. (2010) — *Continuous Delivery*
 - Forsgren, N. et al. (2018) — *Accelerate*
 - DORA Team (2025) — *State of DevOps Report* — [dora.dev](https://dora.dev)
