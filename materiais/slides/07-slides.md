@@ -234,7 +234,7 @@ Eficiência de fluxo = ───────────────────
 ```
 
 ```
-Exemplo:   7h de trabalho / 4,7 dias de lead time ≈ 7 / 56  ≈  12%
+Exemplo:   7h de trabalho / 4,7 dias úteis (~37,6h) ≈ 18%
 ```
 
 | Eficiência típica | Leitura |
@@ -242,8 +242,6 @@ Exemplo:   7h de trabalho / 4,7 dias de lead time ≈ 7 / 56  ≈  12%
 | 5–15% | Comum — muito tempo em fila |
 | 25–40% | Fluxo bem cuidado |
 | > 40% | Raro — fluxo muito enxuto |
-
-> Não se assuste com 12%. É **normal**. O valor do número não é a nota — é o **ponto de partida**: agora você sabe que há ~88% de tempo de fila para investigar.
 
 ---
 
@@ -261,20 +259,6 @@ Não são ferramentas concorrentes — uma alimenta a outra:
 
 ---
 
-# Estado atual vs estado futuro
-
-O VSM se usa em duas versões:
-
-| Estado atual | Estado futuro |
-|---|---|
-| O fluxo **como ele é hoje** | O fluxo **como deveria ser** |
-| Honesto, sem maquiar | Realista, com melhorias concretas |
-| Entregável de **hoje** (Sprint 3) | Entregável da **Sprint 4** |
-
-> Hoje e no workshop de 21/05 vocês desenham o **estado atual**. A regra é uma só: **sem maquiar**. Um VSM bonito e falso não serve para nada — o objetivo é enxergar o problema, não escondê-lo.
-
----
-
 # Atividade: mapear o estado atual
 
 Em equipe, agora — desenhem o VSM do **seu projeto** (papel, quadro ou Miro):
@@ -285,7 +269,7 @@ Em equipe, agora — desenhem o VSM do **seu projeto** (papel, quadro ou Miro):
 4. Calculem o **lead time total** e a **eficiência de fluxo**.
 5. Anotem: onde está a **maior fila**?
 
-> Usem dados **reais** do projeto — histórico de PRs no GitHub, datas de commit e merge (igual à coleta DORA da Sprint 2). Estimativa honesta vale mais que precisão inventada.
+> Usem dados **reais** do projeto — histórico de PRs no GitHub, datas de commit e merge (igual à coleta DORA da Sprint 2). 
 
 ---
 
@@ -324,32 +308,16 @@ git log --pretty="%h %ci %s" main
 | Ignorar %C&A | Não enxerga o retrabalho escondido |
 | Fazer sozinho, sem o time | Cada um conhece um pedaço do fluxo |
 
-> Comece grosso: 5–7 etapas. Dá para refinar depois. Um VSM com 15 caixas costuma ser bonito e inútil.
 
 ---
 
-# Checklist antes de ir embora
-
-Atividade VSM — base para a Sprint 3 <span class="tag">prazo sprint: 29/05</span>:
+# Checklist
 
 - [ ] Etapas do fluxo do projeto listadas (5–7 caixas)
 - [ ] Filas marcadas entre as etapas
 - [ ] PT e LT estimados por etapa, com dados reais
 - [ ] Lead time total e eficiência de fluxo calculados
 - [ ] Maior fila identificada — candidata a gargalo
-
-> Se a equipe sai daqui com um rascunho honesto do estado atual e sabe **qual é a maior fila**, a aula cumpriu o objetivo.
-
----
-
-# Próximos passos
-
-- **21/05 (qui)** — VSM (continuação): refinar o mapa, **quantificar gargalos** e propor 1–2 melhorias mensuráveis.
-- **26/05 (ter)** — Controle de qualidade de processos: code review estruturado, inspeções Fagan, métricas de processo.
-- **Sprint 3** (prazo 29/05) — vídeo 8 min com o VSM do estado atual e a análise de gargalos.
-- **Pergunta para levar**: "Se a equipe pudesse eliminar **uma única fila** do mapa, qual daria o maior ganho de lead time — e por quê?"
-
-> Acompanhamento online: **28/05 (qui)** — Sprint 3 + revisão para a prova de 02/06.
 
 ---
 
