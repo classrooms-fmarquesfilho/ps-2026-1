@@ -6,6 +6,16 @@
 **Prof. Fernando Figueira**
 
 > **⚠️ Atualização 05/05/2026**: Datas ajustadas para reposição de aulas não realizadas. Prova adiada para **02/06 (ter)**. Apresentações finais adiadas para **30/06 (ter) e 02/07 (qui)**. Entrega U3 passa a ser **04/07 (sex)**.
+>
+> **⚠️ Atualização 25/05/2026**:
+> - **Sprint 3** com prazo prorrogado para **11/06 (qui)**.
+> - **Sprint 4** mesclada com a Apresentação Final em um único entregável: o **Vídeo Final**, com prazo **30/06 (ter) às 23:59** (substitui a apresentação presencial).
+> - **Participação removida** como componente avaliativo nas três unidades. Permanece como requisito de aprovação a frequência mínima de 75%.
+> - **Pesos redistribuídos** nas três unidades. Os componentes passam a ser:
+>   - **U1**: Sprint 0 (50%) + Sprint 1 (40%) + Quiz 2 (10%)
+>   - **U2**: Prova (25%) + Sprint 2 (30%) + Sprint 3 (30%) + Quiz 1 (5%) + Quiz 3 (5%) + Quiz 4 (5%)
+>   - **U3**: Prova (50%) + Vídeo Final (30%) + Proposta de Melhoria (20%)
+> - A **Sprint 1** passa a contar apenas em U1 (deixa de pesar em U2). A **Prova** continua sendo uma única prova realizada em 02/06, com pesos diferentes em U2 (25%) e U3 (50%).
 
 ---
 
@@ -25,50 +35,49 @@ A avaliação combina três dimensões:
 
 1. **Processo vivido** (sprints, cerimônias, artefatos) — o que a equipe faz
 2. **Reflexão crítica** (proposta de melhoria, retrospectivas) — o que a equipe aprende
-3. **Conhecimento individual** (prova, participação) — o que cada pessoa entende
+3. **Conhecimento individual** (prova, quizzes) — o que cada pessoa entende
 
 ### Tipos de Avaliação
 
 | Tipo | Componentes | Descrição |
 |------|-------------|-----------|
-| **Individual** | Prova, Participação | Trabalho e conhecimento próprio |
-| **Em grupo** | Sprints, Apresentação Final, Proposta de Melhoria | Equipes de 3-4 pessoas |
+| **Individual** | Prova, Quizzes | Trabalho e conhecimento próprio |
+| **Em grupo** | Sprints, Vídeo Final, Proposta de Melhoria | Equipes de 3-4 pessoas |
 
-> **Importante**: O **projeto é em grupo**, mas a participação de cada membro é avaliada individualmente através de peer evaluation e análise de contribuições.
+> **Importante**: O **projeto é em grupo**, mas a contribuição individual de cada membro é avaliada através de commits, presença nos vídeos e capacidade de responder perguntas sobre o processo da equipe.
 
 ---
 
 ## Calendário de Entregas
 
 > Todas as datas de entrega do curso estão consolidadas aqui.  
-> Prazos encerram às **23:59** do dia indicado. Entregas até **sexta-feira** para evitar trabalho no fim de semana.
+> Prazos encerram às **23:59** do dia indicado.
 
 ### Sprints do Projeto (Grupo)
 
 | Sprint | Conteúdo | Prazo | Vídeo |
 |--------|----------|-------|-------|
 | Sprint 0 | Proposta do projeto | 06/04 (dom) ✓ | 5 min |
-| Sprint 1 | Estabelecer fluxo de trabalho (Scrum + XP + Kanban aplicados) | 24/04 (sex) ✓ | 8 min |
-| Sprint 2 | Automatizar entrega com DevOps (CI/CD + Docker + primeiras métricas DORA) | **19/05 (ter)** | 8 min |
-| Sprint 3 | Analisar fluxo e propor melhorias (VSM + métricas + qualidade) | **29/05 (sex)** | 8 min |
-| Sprint 4 | Consolidar MVP + proposta de melhoria de processo | **19/06 (sex)** | 10 min |
+| Sprint 1 | Estabelecer fluxo de trabalho (Scrum + XP + Kanban aplicados) | 30/04 (qui) ✓ | 8 min |
+| Sprint 2 | Automatizar entrega com DevOps (CI/CD + Docker + primeiras métricas DORA) | 19/05 (ter) ✓ | 8 min |
+| Sprint 3 | Analisar fluxo e propor melhorias (VSM + métricas + qualidade) | **11/06 (qui)** | 8 min |
+| **🎥 Vídeo Final** | MVP completo + reflexão crítica final (mescla Sprint 4 + apresentação) | **30/06 (ter)** | 12 min |
 
 ### Datas Especiais
 
 | Evento | Data | Observação |
 |--------|------|------------|
 | **Prova Escrita** | **02/06 (ter)** | Sala de aula, 10:30-12:00 |
-| Apresentações Finais | 30/06 e 02/07 | 12 min + 3 min perguntas |
-| Entrega Final U3 | 04/07 (sex) | ZIP no SIGAA |
+| **Vídeo Final + Proposta de Melhoria** | **30/06 (ter)** | Substitui apresentação presencial |
 | Consolidação SIGAA | 11/07 | Término oficial do período |
 
 ### Consolidação por Unidade
 
 | Unidade | Período | Entrega Final |
 |---------|---------|---------------|
-| U1 | 17/03 a 24/04 | 24/04 (sex) ✓ |
-| U2 | 25/04 a 29/05 | 29/05 (sex) + Prova 02/06 |
-| U3 | 03/06 a 04/07 | 04/07 (sex) |
+| U1 | 17/03 a 30/04 | 30/04 (qui) ✓ |
+| U2 | 05/05 a 11/06 | **11/06 (qui)** + Prova 02/06 |
+| U3 | 12/06 a 30/06 | **30/06 (ter)** |
 
 ---
 
@@ -76,26 +85,29 @@ A avaliação combina três dimensões:
 
 | Unidade | Componentes | Tipo |
 |---------|-------------|------|
-| **U1** | Sprint 0 (70%) + Participação (30%) | Grupo + Individual |
-| **U2** | **Prova Escrita (40%)** + Sprints 1-3 (40%) + Participação (20%) | Individual + Grupo + Individual |
-| **U3** | Projeto Final (60%) + Proposta de Melhoria (25%) + Participação (15%) | Grupo + Grupo + Individual |
+| **U1** | Sprint 0 (50%) + Sprint 1 (40%) + Quiz 2 (10%) | Grupo + Individual |
+| **U2** | Prova (25%) + Sprint 2 (30%) + Sprint 3 (30%) + Quizzes 1, 3 e 4 (5% cada) | Individual + Grupo + Individual |
+| **U3** | **Prova (50%)** + Vídeo Final (30%) + Proposta de Melhoria (20%) | Individual + Grupo + Grupo |
 
 ---
 
-## Unidade 1 (Sprint 0 + Sprint 1)
+## Unidade 1 (Sprint 0 + Sprint 1 + Quiz 2) ✓
 
 ### Componentes e Pesos
 
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
-| Sprint 0 | 70% | Grupo | Proposta do projeto (vídeo 5min + documento) |
-| Participação | 30% | Individual | Presença + engajamento em aula e Discord |
+| Sprint 0 | 50% | Grupo | Proposta do projeto (vídeo 5min + documento) |
+| Sprint 1 | 40% | Grupo | Primeiro incremento + Scrum/XP/Kanban aplicados (vídeo 8min) |
+| Quiz 2 | 10% | Individual | XP + Lean + Kanban — aplicado em 16/04 (Multiprova) |
 
 ### Fórmula
 
 ```
-U1 = (Sprint0 × 0.70) + (Participação × 0.30)
+U1 = (Sprint0 × 0.50) + (Sprint1 × 0.40) + (Quiz2 × 0.10)
 ```
+
+> Mudança 25/05: a Sprint 1 passa a contar **em U1** (antes contava apenas como parte do bloco "Sprints 1-3" em U2). O Quiz 2 agora compõe a nota de U1.
 
 ---
 
@@ -105,60 +117,45 @@ U1 = (Sprint0 × 0.70) + (Participação × 0.30)
 
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
-| **Prova Escrita** | **40%** | Individual | Em sala (02/06), consulta a 1 folha A4 |
-| Sprints 1-3 | 40% | Grupo | Vídeos de sprint (8min cada) + artefatos de processo |
-| Participação | 20% | Individual | Presença + peer evaluation + engajamento |
+| Prova | 25% | Individual | Em sala (02/06), consulta a 1 folha A4 |
+| Sprint 2 | 30% | Grupo | DevOps + CI/CD + Docker + DORA (vídeo 8min) |
+| Sprint 3 | 30% | Grupo | VSM + qualidade + análise de gargalos (vídeo 8min) |
+| Quiz 1 | 5% | Individual | Modelos + Scrum + Manifesto — aplicado em 07/05 (Multiprova) |
+| Quiz 3 | 5% | Individual | DevOps + CI/CD + Docker — aplicado em 12/05 (Multiprova) |
+| Quiz 4 | 5% | Individual | VSM + qualidade — aplicado em 26/05 (Multiprova) |
 
 ### Fórmula
 
 ```
-U2 = (Prova × 0.40) + (Sprints × 0.40) + (Participação × 0.20)
+U2 = (Prova × 0.25)
+   + (Sprint2 × 0.30) + (Sprint3 × 0.30)
+   + (Quiz1 × 0.05) + (Quiz3 × 0.05) + (Quiz4 × 0.05)
 ```
 
-### Peso dos Sprints na nota de Sprints U2
-
-| Sprint | Peso |
-|--------|------|
-| Sprint 1 | 30% |
-| Sprint 2 | 35% |
-| Sprint 3 | 35% |
-
-```
-Sprints_U2 = (Sprint1 × 0.30) + (Sprint2 × 0.35) + (Sprint3 × 0.35)
-```
+> Mudança 25/05: a **Prova** vale agora 25% de U2. Cada sprint de U2 vale 30% (Sprint 1 saiu para U1). Os três quizzes de U2 (Quiz 1, 3 e 4) entram com 5% cada.
 
 ---
 
-## Unidade 3 (Sprint 4 + Apresentações)
+## Unidade 3 (Vídeo Final + Proposta de Melhoria)
 
 ### Componentes e Pesos
 
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
-| Projeto Final | 60% | Grupo | Sprint 4 + Apresentação Final |
-| Proposta de Melhoria de Processo | 25% | Grupo | Documento VSM + análise DORA + recomendações |
-| Participação | 15% | Individual | Presença + peer evaluation + engajamento |
+| **Prova** | **50%** | Individual | Mesma prova realizada em 02/06 (vale 50% de U3) |
+| Vídeo Final | 30% | Grupo | MVP + reflexão crítica do processo (mescla Sprint 4 + Apresentação) |
+| Proposta de Melhoria de Processo | 20% | Grupo | Documento VSM + análise DORA + recomendações |
 
 ### Fórmula
 
 ```
-U3 = (Projeto × 0.60) + (Proposta × 0.25) + (Participação × 0.15)
+U3 = (Prova × 0.50) + (VídeoFinal × 0.30) + (Proposta × 0.20)
 ```
 
-### Peso do Projeto na U3
-
-| Componente | Peso na U3 |
-|------------|------------|
-| Sprint 4 | 35% |
-| Apresentação Final | 25% |
-
-```
-Projeto_U3 = Sprint4 (35%) + Apresentação (25%) = 60%
-```
 
 ---
 
-## Prova Escrita (40% da U2)
+## Prova Escrita (25% da U2 + 50% da U3)
 
 ### Informações Gerais
 
@@ -181,7 +178,8 @@ Todo o material das **Unidades 1 e 2**:
 - DevOps (cultura, CI/CD, containerização)
 - Métricas DORA (5 métricas, arquétipos)
 - Mapeamento de Fluxo de Valor (Value Stream Mapping)
-- Controle de qualidade (revisões, inspeções)
+
+> Nota: O tópico **controle de qualidade** (revisões, inspeções Fagan) será coberto na aula extra de **09/06**, **após** a prova. A prova foca em VSM e nos demais tópicos das unidades 1 e 2.
 
 ### Formato da Prova
 
@@ -202,7 +200,7 @@ A prova combina questões de diferentes tipos:
 
 ## Projeto Integrador
 
-### Sprint 0: Proposta do Projeto (70% da U1)
+### Sprint 0: Proposta do Projeto
 
 O Sprint 0 é a **fase de planejamento** onde a equipe define o que será construído e como o processo será organizado.
 
@@ -352,27 +350,17 @@ Use formato de História de Usuário (User Story): "Como [papel], quero [ação]
 
 ---
 
-### Sprint 4 (final): MVP Completo (10 minutos)
+## Vídeo Final (30% da U3)
 
-| Critério | Peso |
-|----------|------|
-| MVP funcional completo | 20% |
-| Qualidade do processo ao longo do projeto | 25% |
-| Evolução demonstrada (melhoria sprint-a-sprint) | 20% |
-| CI/CD e práticas técnicas | 15% |
-| Métricas DORA coletadas e analisadas | 10% |
-| Comunicação | 10% |
+### Descrição
 
----
-
-## Apresentação Final do Projeto (25% da U3)
+O Vídeo Final é a **defesa do projeto** da equipe. Ele substitui tanto a antiga Sprint 4 (entrega de processo final) quanto a antiga apresentação presencial — agora unificadas em um único vídeo de 12 minutos.
 
 ### Informações Gerais
 
-- **Datas**: 30/06 (terça) e 02/07 (quinta)
-- **Horário**: 10:30 às 12:00
-- **Local**: Sala de aula com projetor
-- **Duração**: 12 minutos + 3 minutos de perguntas (15 min total)
+- **Prazo**: **30/06/2026 (terça) às 23:59**
+- **Formato**: Vídeo gravado (link YouTube/Drive acessível)
+- **Duração**: **12 minutos**
 
 ### Estrutura Sugerida (12 minutos)
 
@@ -391,7 +379,8 @@ Use formato de História de Usuário (User Story): "Como [papel], quero [ação]
    - Value Stream Map do pipeline de entrega
    - Métricas DORA coletadas (com gráficos)
    - Principais decisões de processo e seus impactos
-   - O que mudou entre Sprint 1 e Sprint 4
+   - O que mudou entre Sprint 1 e o fim do semestre
+   - Conexão com os conceitos finais (Team Topologies, IA em processos)
 
 4. Lições Aprendidas (2min)
    - O que funcionou e o que não funcionou
@@ -402,19 +391,28 @@ Use formato de História de Usuário (User Story): "Como [papel], quero [ação]
    - Resumo das contribuições e aprendizados
 ```
 
-### Critérios de Avaliação da Apresentação
+### Critérios de Avaliação do Vídeo Final
 
 | Critério | Peso | Descrição |
 |----------|------|-----------|
 | **Análise de processo** | **35%** | Qualidade da reflexão sobre o processo vivido, uso de métricas |
 | Demonstração do MVP | 20% | Software funcionando |
-| Comunicação | 20% | Clareza, domínio do conteúdo, participação de todos |
-| Organização | 15% | Respeito ao tempo, estrutura da apresentação |
-| Perguntas | 10% | Qualidade das respostas da equipe |
+| Evolução demonstrada (Sprint 1 → fim) | 15% | Mostra mudança concreta de práticas e métricas |
+| Comunicação | 15% | Clareza, domínio do conteúdo, participação de todos |
+| Organização | 10% | Respeito ao tempo, estrutura do vídeo, edição |
+| Aplicação dos conceitos finais | 5% | Team Topologies, IA em processos — onde se conectam à equipe |
+
+### Dicas de Preparação
+
+1. **Ensaie com timer** — 12 minutos passam rápido
+2. **Edite o vídeo** — corte pausas muito longas, mantenha o ritmo
+3. **Divida as falas** — é positivo que todos os membros participem
+4. **Reaproveite material** — métricas, VSMs e screenshots das sprints anteriores
+5. **Teste antes de enviar** — verifique que o arquivo abre e tem áudio
 
 ---
 
-## Proposta de Melhoria de Processo (25% da U3)
+## Proposta de Melhoria de Processo (20% da U3)
 
 ### Descrição
 
@@ -448,6 +446,10 @@ Cada equipe deve produzir um **documento de análise e proposta de melhoria** do
    - Conexão com os conceitos do curso (quais frameworks/princípios informaram as melhorias)
    - O que a equipe aprendeu sobre melhoria de processos
 
+### Prazo
+
+Entrega junto ao Vídeo Final, **30/06 (ter) às 23:59**.
+
 ### Critérios de Avaliação
 
 | Critério | Peso |
@@ -459,30 +461,7 @@ Cada equipe deve produzir um **documento de análise e proposta de melhoria** do
 
 ---
 
-## Participação
-
-### Componentes da Nota de Participação
-
-| Item | Peso | Descrição |
-|------|------|-----------|
-| Presença | 30% | Frequência nas aulas presenciais e online |
-| Peer Evaluation | 30% | Avaliação pelos colegas de equipe (formulário ao final de cada unidade) |
-| Engajamento | 25% | Contribuição em discussões, atividades em sala, Discord |
-| Retrospectivas | 15% | Qualidade das contribuições nas retrospectivas de sprint |
-
-### Peer Evaluation
-
-Ao final de cada unidade, cada membro da equipe avalia seus colegas nas seguintes dimensões (adaptado do modelo CATME):
-
-1. **Contribuição ao trabalho** — faz sua parte, entrega no prazo
-2. **Interação com a equipe** — comunica, colabora, participa das cerimônias
-3. **Manutenção do processo** — mantém o quadro atualizado, segue o DoD, participa de reviews
-4. **Qualidade** — trabalho cuidadoso, atenção a detalhes
-5. **Conhecimento** — demonstra entendimento dos conceitos
-
-A avaliação é confidencial e influencia a nota individual de participação.
-
-### Frequência
+## Frequência
 
 - **Mínimo**: 75% de presença para aprovação
 - **Justificativas**: Via SIGAA até 48h após a falta
@@ -505,18 +484,9 @@ A avaliação é confidencial e influencia a nota individual de participação.
 
 ### Entregas de Unidade (SIGAA)
 
-#### U1: Entrega até 03/04
+#### U1: Entregue ✓
 
-```
-equipe-nome-u1.zip
-├── README.md                 # Links e informações gerais
-└── sprint-0/
-    ├── video-link.txt        # Link para o vídeo (5min)
-    ├── proposta.pdf           # Documento de proposta (3-4 páginas)
-    └── github-projects.txt    # Link para o quadro Kanban
-```
-
-#### U2: Entrega até 29/05
+#### U2: Entrega até 11/06
 
 ```
 equipe-nome-u2.zip
@@ -529,19 +499,17 @@ equipe-nome-u2.zip
     └── repo-link.txt            # Link do repositório
 ```
 
-#### U3: Entrega Final até 04/07
+#### U3: Entrega Final até 30/06
 
 ```
 equipe-nome-final.zip
 ├── README.md                    # Resumo e links
-├── sprints/
-│   └── sprint-4-video.txt       # Link do vídeo Sprint 4 (final)
+├── video-final/
+│   └── video-link.txt           # Link do Vídeo Final (12min)
 ├── projeto/
 │   └── repo-link.txt            # Link do repositório
-├── proposta-melhoria/
-│   └── proposta-melhoria.pdf    # Documento de melhoria de processo (4-6 páginas)
-└── apresentacao/
-    └── slides.pdf               # Slides da apresentação
+└── proposta-melhoria/
+    └── proposta-melhoria.pdf    # Documento de melhoria de processo (4-6 páginas)
 ```
 
 ---
@@ -560,19 +528,19 @@ equipe-nome-final.zip
 
 A prova é **estritamente individual**. Consulta permitida apenas à folha A4 manuscrita.
 
-### Avaliações em Grupo (Projeto)
+### Avaliações em Grupo (Projeto e Vídeo Final)
 
-O projeto é desenvolvido em equipe. A participação individual é avaliada através de:
+O projeto é desenvolvido em equipe. A contribuição individual é avaliada através de:
 - Commits no repositório
-- Contribuição demonstrada nos vídeos
-- Capacidade de responder perguntas sobre o processo na apresentação
+- Contribuição demonstrada nos vídeos (todos devem aparecer no Vídeo Final)
+- Capacidade de responder perguntas sobre qualquer parte do processo da equipe
 
 ### Uso de IA
 
 O uso de ferramentas de IA (ChatGPT, Copilot, Claude etc.) é **permitido e até encorajado** para o desenvolvimento do projeto — afinal, um dos tópicos do curso é como integrar IA em processos de software. No entanto:
 
 - Na **prova**, o uso de IA não é permitido
-- Nos **vídeos de sprint**, mencione quais ferramentas de IA a equipe usou e como
+- Nos **vídeos de sprint e no Vídeo Final**, mencione quais ferramentas de IA a equipe usou e como
 - Na **proposta de melhoria**, reflita sobre o impacto da IA no processo da equipe
 
 ### Consequências
@@ -586,17 +554,25 @@ O uso de ferramentas de IA (ChatGPT, Copilot, Claude etc.) é **permitido e até
 ## Dúvidas Frequentes
 
 **P: Posso usar o mesmo projeto em Processos e Web II?**  
-R: Sim! Desde que os entregáveis sejam distintos. O vídeo de sprint de Processos foca no processo (métricas, retrospectivas, VSM), enquanto o de Web foca no produto (funcionalidades, código).
+R: Sim! Desde que os entregáveis sejam distintos. O Vídeo Final de Processos foca no **processo** (métricas, retrospectivas, VSM, evolução), enquanto o de Web II foca no **produto** (funcionalidades, código, gRPC/GraphQL).
+
+**P: Por que substituiu a apresentação presencial pelo Vídeo Final?**  
+R: Reorganização de cronograma após reposições. Vídeo dá mais flexibilidade para a equipe gravar com calma e permite janela maior para correção antes do fim do período.
+
+**P: Todos os membros precisam aparecer no Vídeo Final?**  
+R: A presença de todos os membros entra no critério "Comunicação" da avaliação do Vídeo Final.
+
+**P: Cadê a Sprint 4?**  
+R: Mesclada com a apresentação no Vídeo Final.
+
+**P: Os Quizzes 6 e 7 foram cancelados?**  
+R: Sim, na reorganização de 25/05. Permanecem os Quizzes 1, 2, 3 e 4.
 
 **P: Preciso saber programar para este curso?**  
 R: Sim, a equipe precisa desenvolver software. Mas a avaliação enfatiza o processo, não a complexidade técnica do código.
 
 **P: A prova é difícil?**  
 R: A prova cobre conceitos e aplicação. Se você acompanhou os vídeos e participou das atividades, estará preparado. A folha de consulta ajuda bastante.
-
-
-**P: Como gravar o vídeo de sprint?**  
-R: OBS Studio, Zoom, Google Meet, ou qualquer ferramenta. O importante é a qualidade do conteúdo, não a produção.
 
 ---
 
@@ -614,4 +590,4 @@ R: OBS Studio, Zoom, Google Meet, ou qualquer ferramenta. O importante é a qual
 
 - **Presencial**: Após as aulas (12:00-12:30)
 - **Online**: Discord, resposta até 24h em dias úteis
-- **Acompanhamento de projeto**: Última quinta-feira de cada sprint (online via Google Meet)
+- **Acompanhamentos**: ver cronograma.

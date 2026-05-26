@@ -10,6 +10,8 @@
 > **⚠️ Atualização 09/04/2026**: Cronograma reorganizado por **sprint** (não mais por semana). Cada sprint tem **objetivo claro** alinhado ao conteúdo teórico. Sprints duram **2 semanas**. Total de **4 sprints** (Sprint 1 a Sprint 4) após a entrega da proposta (Sprint 0).
 >
 > **⚠️ Atualização 05/05/2026**: Cronograma ajustado para reposição de aulas não realizadas (03/03, 05/03, 10/03, 12/03, 31/03, 28/04 e 30/04). **Sprint 2 inicia hoje (05/05)**. Prova adiada para **02/06 (ter)**. Apresentações finais adiadas para **30/06 (ter) e 02/07 (qui)**. Entregas de sprint passam a ocorrer na **terça-feira** que encerra cada sprint.
+>
+> **⚠️ Atualização 25/05/2026**: Aulas de 19/05 e 21/05 não foram realizadas. **Sprint 3 inicia amanhã (26/05)** e tem prazo de entrega prorrogado para **11/06 (qui)**. As aulas presenciais de 09/06 (ter) e o acompanhamento de 11/06 (qui) passam a fechar a Sprint 3. **A Sprint 4 deixa de existir como entrega independente** — é mesclada com a apresentação final, que passa a ser entregue como **vídeo até 30/06 (ter)**. 
 
 ---
 
@@ -22,6 +24,7 @@
 | 🔵 | Acompanhamento online (Google Meet) |
 | 🧩 | Quiz no Multiprova (início da aula de terça) |
 | 🚀 | Entrega de sprint do projeto |
+| 🎥 | Entrega de vídeo final (substitui apresentação presencial) |
 | 📚 | Prova |
 | 🔴 | Feriado/Sem aula |
 
@@ -33,12 +36,12 @@
 |--------|---------|----------|---------|
 | **Sprint 0** | 17/03 - 06/04 | Propor o projeto e definir o processo de trabalho | 06/04 (dom) ✓ |
 | **Sprint 1** | 14/04 - 24/04 | Estabelecer o fluxo de trabalho e entregar o primeiro incremento | 24/04 (sex) ✓ |
-| **Sprint 2** | 05/05 - 19/05 | Automatizar a entrega com DevOps e começar a medir desempenho | **19/05 (ter)** |
-| **Sprint 3** | 20/05 - 02/06 | Analisar o fluxo de valor e propor melhorias baseadas em dados | **29/05 (sex)** |
+| **Sprint 2** | 05/05 - 19/05 | Automatizar a entrega com DevOps e começar a medir desempenho | 19/05 (ter) ✓ |
+| **Sprint 3** | 26/05 - 11/06 | Analisar o fluxo de valor e propor melhorias baseadas em dados | **11/06 (qui)** |
 | 📚 **PROVA** | 02/06 (ter) | Avaliação individual dos conceitos de U1+U2 | — |
-| **Sprint 4** | 03/06 - 19/06 | Consolidar o MVP e refletir criticamente sobre o processo | **19/06 (sex)** |
-| **Apresentações** | 30/06 e 02/07 | Defesa final dos projetos | — |
-| **Encerramento** | 07-11/07 | Correção, notas, feedback | 04/07 (sex) |
+| **Conteúdo Final** | 09/06 - 18/06 | Team Topologies + IA em Processos (sem entrega de sprint) | — |
+| 🎥 **Vídeo Final** | 16/06 - 30/06 | Apresentação final do projeto em vídeo (mescla Sprint 4 + apresentação) | **30/06 (ter)** |
+| **Encerramento** | 01-11/07 | Correção, notas, feedback | — |
 
 ---
 
@@ -48,7 +51,7 @@
 |---------|---------|-------------------|
 | **U1** | Sprint 0 + Sprint 1 | Fundamentos ágeis (Scrum, XP, Lean, Kanban) |
 | **U2** | Sprint 2 + Sprint 3 + Prova | DevOps, DORA, VSM, Qualidade |
-| **U3** | Sprint 4 + Apresentações | Team Topologies, SRE, IA, Maturidade |
+| **U3** | Conteúdo Final + Vídeo Final | Team Topologies, IA em Processos |
 
 ---
 
@@ -83,7 +86,7 @@ Cada equipe propõe seu projeto, define o produto, forma o backlog inicial e con
 
 ---
 
-## SPRINT 1 (14/04 - 24/04): Estabelecer o Fluxo de Trabalho
+## SPRINT 1 (14/04 - 24/04): Estabelecer o Fluxo de Trabalho ✓
 
 ### Objetivo do Sprint
 
@@ -98,13 +101,6 @@ A equipe coloca o processo em operação: primeira aplicação prática de Scrum
 | 21/04 | Ter | 🔴 | **Tiradentes** — Sem aula |
 | 23/04 | Qui | 🔵 | **Acompanhamento Online** — Sprint 1 (revisão de projetos, feedback sobre quadros Kanban) |
 
-### Conteúdo Habilitador
-
-- **XP**: práticas técnicas (TDD, pair programming, refatoração, CI), design evolutivo, YAGNI
-- **Lean Software Development**: 2 pilares (respeito pelas pessoas + melhoria contínua), 7 princípios Poppendieck, muda/mura/muri
-- **Kanban**: 4 princípios, 6 práticas, WIP limits, Lei de Little, lead time vs cycle time, classes de serviço
-- **Retrospectivas eficazes**: formatos, técnicas, como evitar teatro
-
 ### Leituras da Sprint
 
 - **L4**: Fowler (2004) — *Is Design Dead?* — [martinfowler.com](https://martinfowler.com/articles/designDead.html)
@@ -114,17 +110,11 @@ A equipe coloca o processo em operação: primeira aplicação prática de Scrum
 
 ### Entrega do Sprint
 
-🚀 **Sprint 1** (vídeo 8min + retrospectiva documentada) — prazo estendido até **30/04 (qui)**
-
-**Esperado no vídeo**:
-1. Demonstração do primeiro incremento funcional
-2. Screenshot do quadro Kanban com WIP limits em uso
-3. Evidência de pelo menos 1 daily e 1 retrospectiva
-4. Reflexão sobre XP/Lean/Kanban aplicados na prática
+🚀 **Sprint 1** (vídeo 8min + retrospectiva documentada) — prazo estendido até **30/04 (qui)** ✓
 
 ---
 
-## SPRINT 2 (05/05 - 19/05): Automatizar a Entrega com DevOps
+## SPRINT 2 (05/05 - 19/05): Automatizar a Entrega com DevOps ✓
 
 ### Objetivo do Sprint
 
@@ -139,14 +129,6 @@ A equipe introduz automação e medição no projeto: **pipeline CI/CD funcionan
 | 12/05 | Ter | 🟢 | **🧩 Quiz 3** (DevOps + CI/CD + Docker) + Métricas DORA (5 métricas + SPACE + 7 arquétipos) |
 | 14/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 2 |
 
-### Conteúdo Habilitador
-
-- **DevOps**: cultura CALMS, Três Caminhos (Kim), integração contínua como prática habilitadora
-- **CI/CD com GitHub Actions**: workflows, actions, secrets, environments
-- **Docker**: imagens, containers, multi-stage builds, docker-compose
-- **Infrastructure as Code**: conceitos, GitOps, versionamento de infraestrutura
-- **DORA metrics**: frequência de deploy, lead time, change failure rate, time to restore, rework rate, SPACE framework
-
 ### Leituras da Sprint
 
 - **L8**: Fowler (2024) — *Continuous Integration* — [martinfowler.com](https://martinfowler.com/articles/continuousIntegration.html)
@@ -155,17 +137,11 @@ A equipe introduz automação e medição no projeto: **pipeline CI/CD funcionan
 
 ### Entrega do Sprint
 
-🚀 **Sprint 2** (vídeo 8min + pipeline funcionando + primeiras métricas DORA) — até **19/05 (ter)**
-
-**Esperado no vídeo**:
-1. Pipeline de CI/CD funcionando no GitHub Actions (screenshot da aba Actions)
-2. Imagem Docker buildada e rodando
-3. Primeiras 2-3 métricas DORA coletadas e apresentadas
-4. Reflexão sobre o impacto do DevOps no fluxo do time
+🚀 **Sprint 2** (vídeo 8min + pipeline funcionando + primeiras métricas DORA) — até 19/05 (ter) ✓
 
 ---
 
-## SPRINT 3 (20/05 - 02/06): Analisar o Fluxo e Propor Melhorias
+## SPRINT 3 (26/05 - 11/06): Analisar o Fluxo e Propor Melhorias
 
 ### Objetivo do Sprint
 
@@ -175,10 +151,12 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 19/05 | Ter | 🟢 | **🧩 Quiz 5** (VSM + qualidade) + Value Stream Mapping: mapeando o fluxo do próprio projeto |
-| 21/05 | Qui | 🟢 | Workshop VSM (continuação): identificar gargalos, calcular lead times, propor melhorias |
-| 26/05 | Ter | 🟢 | Controle de qualidade de processos: revisões, inspeções (Fagan), métricas de processo |
+| 26/05 | Ter | 🟢 | Value Stream Mapping (estado atual) + Workshop VSM: identificar gargalos, calcular lead times, propor melhorias |
 | 28/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 3 + Revisão para a prova |
+| 02/06 | Ter | 📚 | **PROVA ESCRITA** — Unidades 1 e 2 (10:30-12:00) |
+| 04/06 | Qui | 🔴 | **Corpus Christi** — Sem aula |
+| 09/06 | Ter | 🟢 | **Aula extra Sprint 3**: Controle de qualidade de processos (revisões, inspeções Fagan, métricas de processo) |
+| 11/06 | Qui | 🔵 | **Acompanhamento Online** — Sprint 3 (fechamento, dúvidas finais antes da entrega) |
 
 ### Conteúdo Habilitador
 
@@ -196,7 +174,7 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 
 ### Entrega do Sprint
 
-🚀 **Sprint 3** (vídeo 8min + VSM do estado atual + análise de gargalos) — até **29/05 (sex)**
+🚀 **Sprint 3** (vídeo 8min + VSM do estado atual + análise de gargalos) — até **11/06 (qui)**
 
 **Esperado no vídeo**:
 1. VSM do pipeline atual do projeto (diagrama)
@@ -219,69 +197,56 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 
 ---
 
-## SPRINT 4 (03/06 - 19/06): Consolidar e Refletir Criticamente
+## Unidade 3
 
-### Objetivo do Sprint
 
-Último sprint do projeto. A equipe **finaliza o MVP**, produz a **proposta de melhoria de processo** (entregável da U3) e se prepara para as apresentações finais. O conteúdo teórico amplia a discussão para organizações, IA e maturidade.
+> ⚠️ Mudança 25/05: a Sprint 4 deixou de existir como entrega independente. Foi mesclada com a apresentação final, agora entregue como vídeo.
 
-### Aulas do Sprint
+### Aulas
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 09/06 | Ter | 🟢 | Devolutiva da prova + Team Topologies: 4 tipos de equipe, 3 modos de interação, Lei de Conway |
-| 11/06 | Qui | 🔵 | **Acompanhamento Online** — Sprint 4 final + preparação de apresentações |
-| 16/06 | Ter | 🟢 | **🧩 Quiz 6** (Team Topologies + SRE) + Engenharia de Plataformas e SRE (SLOs, error budgets) |
-| 18/06 | Qui | 🟢 | **🧩 Quiz 7** (IA e processos) + IA e Processos de Software: o Paradoxo da Produtividade (DORA 2025) |
+| 16/06 | Ter | 🟢 | Topologias: 4 tipos de equipe, 3 modos de interação, Lei de Conway, Inverse Conway Maneuver |
+| 18/06 | Qui | 🟢 | IA e Processos de Software: o Paradoxo da Produtividade (DORA 2025), DORA AI Capabilities Model, governança de IA em processos |
 
 ### Conteúdo Habilitador
 
 - **Team Topologies**: stream-aligned, platform, enabling, complicated-subsystem teams; modos de interação; Inverse Conway Maneuver
-- **Engenharia de Plataformas e SRE**: Internal Developer Platforms, SLOs, SLIs, error budgets, toil reduction
 - **IA e Processos**: Paradoxo da Produtividade, DORA AI Capabilities Model, governança de IA em processos
-- **Modelos de maturidade**: CMMI V3.0, ISO/IEC 12207, IEEE standards — relação com práticas modernas
+- **Modelos de maturidade** (leitura): CMMI V3.0, ISO/IEC 12207 — relação com práticas modernas
 
-### Leituras da Sprint
+### Leituras
 
 - **L15**: Skelton & Pais — *Team Topologies* (capítulos 1-3)
 - **L16**: Conway (1968) — *How Do Committees Invent?*
-- **L17**: Google SRE Book — *Introducing Site Reliability Engineering* — [sre.google](https://sre.google/sre-book/introduction/)
 - **L18**: DORA (2025) — *AI Capabilities Model* (seções sobre IA e processos)
 
-### Entrega do Sprint
+### Entrega Final
 
-🚀 **Sprint 4** (vídeo 10min + MVP completo + proposta de melhoria de processo) — até **19/06 (sex)**
+🎥 **Vídeo Final** (12 min + 3 min de bloopers/perguntas opcionais — até 15 min) — até **30/06 (ter) às 23:59**
 
-**Esperado no vídeo** (sprint final):
-1. MVP completo funcionando
-2. Evolução do processo ao longo de todo o semestre (comparação Sprint 1 → Sprint 4)
-3. Métricas DORA finais coletadas
-4. VSM do estado futuro (melhorias propostas)
-5. Reflexão sobre o que a equipe aprendeu sobre processos
+**Substitui**: a antiga Sprint 4 (entrega de projeto) **e** a antiga apresentação presencial.
 
----
+**Esperado no vídeo** (12 minutos):
+1. **Introdução** (1 min) — equipe, projeto, problema
+2. **Demonstração do MVP** (3 min) — funcionalidades funcionando, fluxos completos
+3. **O processo da equipe** (5 min) — **FOCO PRINCIPAL**: evolução do processo ao longo do semestre, quadro Kanban final, VSM do pipeline, métricas DORA finais com gráficos, principais decisões de processo e seus impactos, comparação Sprint 1 → fim do semestre
+4. **Lições aprendidas** (2 min) — o que funcionou e o que não funcionou, conexão com os conceitos do curso (Team Topologies, IA, melhoria contínua)
+5. **Conclusão** (1 min) — resumo das contribuições
 
-## APRESENTAÇÕES FINAIS (30/06 e 02/07)
-
-| Data | Dia | Tipo | Atividade |
-|------|-----|------|-----------|
-| 30/06 | Ter | 🟢 | **Apresentações finais** (parte 1) |
-| 02/07 | Qui | 🟢 | **Apresentações finais** (parte 2) |
-
-**Formato**: 12 minutos por equipe + 3 minutos de perguntas (15 min total)  
-**Foco**: análise crítica do processo vivido, uso de métricas, reflexão sobre aprendizados
+Documento de **Proposta de Melhoria de Processo** (PDF, 4-6 páginas) entregue junto.
 
 ---
 
-## ENCERRAMENTO (07-11/07)
+## ENCERRAMENTO (01-11/07)
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
+| 30/06 | Ter | 🎥 | **Entrega do vídeo final** + Proposta de Melhoria (até 23:59) |
+| 02/07 | Qui | 🔵 | **Acompanhamento Online** — Dúvidas finais |
 | 07/07 | Ter | 🔴 | Sem aula — professor corrigindo trabalhos |
 | 09/07 | Qui | 🔵 | **Acompanhamento Online** — Dúvidas sobre correção e notas |
 
-**Prazo final**: Entrega U3 até **04/07 (sex) às 23:59**  
-**Consolidação**: Notas no SIGAA até 11/07
 
 ---
 
@@ -292,30 +257,30 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 | Sprint | Objetivo | Prazo | Duração Vídeo |
 |--------|----------|-------|---------------|
 | Sprint 0 | Proposta do projeto | 06/04 (dom) ✓ | 5 min |
-| Sprint 1 | Estabelecer fluxo de trabalho | 24/04 (sex) ✓ | 8 min |
-| Sprint 2 | Automatizar entrega com DevOps | **19/05 (ter)** | 8 min |
-| Sprint 3 | Analisar fluxo e propor melhorias | **29/05 (sex)** | 8 min |
-| Sprint 4 | Consolidar MVP + reflexão crítica | **19/06 (sex)** | 10 min |
+| Sprint 1 | Estabelecer fluxo de trabalho | 30/04 (qui) ✓ | 8 min |
+| Sprint 2 | Automatizar entrega com DevOps | 19/05 (ter) ✓ | 8 min |
+| Sprint 3 | Analisar fluxo e propor melhorias | **11/06 (qui)** | 8 min |
+| 🎥 Vídeo Final | MVP completo + reflexão crítica (substitui Sprint 4 + apresentação) | **30/06 (ter)** | 12 min |
 
 ### Quizzes (Multiprova)
 
 | Quiz | Conteúdo | Data | Sprint |
 |------|----------|------|--------|
-| Quiz 1 | Modelos + Scrum + Manifesto | 07/05 (qui) — Multiprova 24h | Sprint 2 |
+| Quiz 1 | Modelos + Scrum + Manifesto | 07/05 (qui) — Multiprova 24h ✓ | Sprint 2 |
 | Quiz 2 | XP + Lean + Kanban | 16/04 (qui) ✓ | Sprint 1 |
-| Quiz 3 | DevOps + CI/CD + Docker | 12/05 (ter) | Sprint 2 |
+| Quiz 3 | DevOps + CI/CD + Docker | 12/05 (ter) ✓ | Sprint 2 |
+| Quiz 4 | VSM + qualidade | **28/05 (qui)** | Sprint 3 |
 
-| Quiz 4 | VSM + qualidade | 19/05 (ter) | Sprint 3 |
-| Quiz 5 | Team Topologies + SRE | 16/06 (ter) | Sprint 4 |
-| Quiz 6 | IA + processos | 18/06 (qui) | Sprint 4 |
+> ~~Quiz 5 (Team Topologies + SRE)~~ — **removido** após reorganização de 25/05  
+> ~~Quiz 6 (IA + processos)~~ — **removido** após reorganização de 25/05
 
 ### Entregas por Unidade
 
 | Unidade | Sprints | Prazo Final | Componentes |
 |---------|---------|-------------|-------------|
-| **U1** | Sprint 0 + Sprint 1 | 24/04 (sex) ✓ | Proposta + primeiro incremento + Quizzes 1-2 |
-| **U2** | Sprint 2 + Sprint 3 + Prova | **29/05 (sex)** + 02/06 | CI/CD + DORA + VSM + Prova |
-| **U3** | Sprint 4 + Apresentação | **04/07 (sex)** | MVP + proposta de melhoria + defesa final |
+| **U1** | Sprint 0 + Sprint 1 | 30/04 (qui) ✓ | Proposta + primeiro incremento + Quizzes 1-2 |
+| **U2** | Sprint 2 + Sprint 3 + Prova | **11/06 (qui)** + 02/06 | CI/CD + DORA + VSM + Prova |
+| **U3** | Vídeo Final + Proposta de Melhoria | **30/06 (ter)** | MVP completo + proposta de melhoria |
 
 ---
 
@@ -326,7 +291,7 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 | 02/04 | Quinta-feira Santa | Sem aula (Sprint 0) |
 | 21/04 | Tiradentes | Sem aula (Sprint 1) |
 | 01/05 | Dia do Trabalho | Sexta — sem aula regular, sem impacto |
-| 04/06 | Corpus Christi | Sem aula (Sprint 4) |
+| 04/06 | Corpus Christi | Sem aula (Sprint 3) |
 
 ---
 
@@ -336,14 +301,12 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 |------|--------|
 | 19/03 | Prazo para formação de grupos |
 | 06/04 (dom) | Entrega Sprint 0 ✓ |
-| 24/04 (sex) | Entrega Sprint 1 ✓ |
-| **19/05 (ter)** | Entrega Sprint 2 |
-| **29/05 (sex)** | Entrega Sprint 3 |
+| 30/04 (qui) | Entrega Sprint 1 ✓ |
+| 19/05 (ter) | Entrega Sprint 2 ✓ |
 | **02/06 (ter)** | **PROVA ESCRITA** |
-| **19/06 (sex)** | Entrega Sprint 4 (MVP completo) |
-| 30/06 e 02/07 | Apresentações finais |
-| 04/07 (sex) | Entrega U3 (final) |
-| 11/07 | Término do período |
+| **11/06 (qui)** | **Entrega Sprint 3** |
+| **30/06 (ter)** | **Entrega do Vídeo Final + Proposta de Melhoria** (substitui Sprint 4 + apresentação presencial) |
+| 11/07 | Término do período (notas no SIGAA) |
 
 ---
 
@@ -355,10 +318,11 @@ Os acompanhamentos acontecem às quintas-feiras, sincronizados com a turma de We
 |---|------|------|
 | 1 | 26/03 | Sprint 0 — Proposta do projeto ✓ |
 | 2 | 23/04 | Sprint 1 — Primeira versão do projeto ✓ |
-| 3 | 14/05 | Sprint 2 — Pipeline + DORA |
+| 3 | 14/05 | Sprint 2 — Pipeline + DORA ✓ |
 | 4 | 28/05 | Sprint 3 + Revisão para prova |
-| 5 | 11/06 | Sprint 4 final + preparação de apresentações |
-| 6 | 09/07 | Dúvidas sobre correção e notas |
+| 5 | 11/06 | Sprint 3  |
+| 6 | 02/07 | Dúvidas finais |
+| 7 | 09/07 | Dúvidas sobre correção e notas |
 
 **Horário**: 10:30-12:00 (mesmo horário das aulas presenciais)  
 **Formato**: ~10 minutos por equipe para tirar dúvidas e revisar progresso
