@@ -16,6 +16,11 @@
 >   - **U2**: Prova (25%) + Sprint 2 (30%) + Sprint 3 (30%) + Quiz 1 (5%) + Quiz 3 (5%) + Quiz 4 (5%)
 >   - **U3**: Prova (50%) + Vídeo Final (30%) + Proposta de Melhoria (20%)
 > - A **Sprint 1** passa a contar apenas em U1 (deixa de pesar em U2). A **Prova** continua sendo uma única prova realizada em 02/06, com pesos diferentes em U2 (25%) e U3 (50%).
+>
+> **⚠️ Atualização 06/06/2026**:
+> - A **Prova foi adiada para 09/06 (ter)** e passa a ser aplicada no **Multiprova**. Pesos mantidos: 25% da U2 e 50% da U3.
+> - A **aula de 02/06 foi cancelada**; o conteúdo de **controle de qualidade** fica por conta das leituras L13/L14 e não é foco da prova.
+> - A **Sprint 3 ocorre junto à Entrega Final do Projeto**, a ser entregue em **23/06 (ter)**. Não há mais vídeo separado de Sprint 3: a mesma entrega final é avaliada como **Sprint 3 (30% da U2)** e como **Vídeo Final (30%) + Proposta de Melhoria (20%) da U3** — os pesos das duas unidades recaem sobre o mesmo conjunto de entregáveis.
 
 ---
 
@@ -60,15 +65,15 @@ A avaliação combina três dimensões:
 | Sprint 0 | Proposta do projeto | 06/04 (dom) ✓ | 5 min |
 | Sprint 1 | Estabelecer fluxo de trabalho (Scrum + XP + Kanban aplicados) | 30/04 (qui) ✓ | 8 min |
 | Sprint 2 | Automatizar entrega com DevOps (CI/CD + Docker + primeiras métricas DORA) | 19/05 (ter) ✓ | 8 min |
-| Sprint 3 | Analisar fluxo e propor melhorias (VSM + métricas + qualidade) | **11/06 (qui)** | 8 min |
-| **🎥 Vídeo Final** | MVP completo + reflexão crítica final (mescla Sprint 4 + apresentação) | **30/06 (ter)** | 12 min |
+| Sprint 3 | Analisar fluxo e propor melhorias (VSM + métricas + qualidade) — Entrega Final | **23/06 (ter)** | — |
+| **🎥 Vídeo** | MVP completo + reflexão crítica final (mescla Sprint 3 + Sprint 4 + apresentação) | **23/06 (ter)** | 12 min |
 
 ### Datas Especiais
 
 | Evento | Data | Observação |
 |--------|------|------------|
-| **Prova Escrita** | **02/06 (ter)** | Sala de aula, 10:30-12:00 |
-| **Vídeo Final + Proposta de Melhoria** | **30/06 (ter)** | Substitui apresentação presencial |
+| **Prova (Multiprova)** | **09/06 (ter)** | Laboratório, 10:30-12:00 |
+| **Vídeo Final + Proposta de Melhoria** | **23/06 (ter)** | Substitui apresentação presencial |
 | Consolidação SIGAA | 11/07 | Término oficial do período |
 
 ### Consolidação por Unidade
@@ -76,8 +81,8 @@ A avaliação combina três dimensões:
 | Unidade | Período | Entrega Final |
 |---------|---------|---------------|
 | U1 | 17/03 a 30/04 | 30/04 (qui) ✓ |
-| U2 | 05/05 a 11/06 | **11/06 (qui)** + Prova 02/06 |
-| U3 | 12/06 a 30/06 | **30/06 (ter)** |
+| U2 | 05/05 a 23/06 | **23/06 (ter)** + Prova 09/06 |
+| U3 | 12/06 a 23/06 | **23/06 (ter)** |
 
 ---
 
@@ -133,6 +138,8 @@ U2 = (Prova × 0.25)
 ```
 
 > Mudança 25/05: a **Prova** vale agora 25% de U2. Cada sprint de U2 vale 30% (Sprint 1 saiu para U1). Os três quizzes de U2 (Quiz 1, 3 e 4) entram com 5% cada.
+>
+> Mudança 06/06: a **Sprint 3 deixa de ter vídeo próprio** e é entregue dentro da **Entrega Final do Projeto (23/06)**.
 
 ---
 
@@ -142,7 +149,7 @@ U2 = (Prova × 0.25)
 
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
-| **Prova** | **50%** | Individual | Mesma prova realizada em 02/06 (vale 50% de U3) |
+| **Prova** | **50%** | Individual | Mesma prova realizada em 09/06 (vale 50% de U3) |
 | Vídeo Final | 30% | Grupo | MVP + reflexão crítica do processo (mescla Sprint 4 + Apresentação) |
 | Proposta de Melhoria de Processo | 20% | Grupo | Documento VSM + análise DORA + recomendações |
 
@@ -155,15 +162,15 @@ U3 = (Prova × 0.50) + (VídeoFinal × 0.30) + (Proposta × 0.20)
 
 ---
 
-## Prova Escrita (25% da U2 + 50% da U3)
+## Prova (25% da U2 + 50% da U3)
 
 ### Informações Gerais
 
-- **Data**: 02/06/2026 (Terça-feira)
+- **Data**: 09/06/2026 (Terça-feira)
 - **Horário**: 10:30 às 12:00
 - **Local**: Laboratório A305 (IMD)
 - **Duração**: 1h30min
-- **Formato**: Individual, consulta permitida a **1 folha A4 (frente e verso, manuscrita)**
+- **Formato**: Individual no Multiprova, consulta permitida a **1 folha A4 (frente e verso, manuscrita)**
 
 ### Conteúdo
 
@@ -177,9 +184,8 @@ Todo o material das **Unidades 1 e 2**:
 - Kanban (princípios, métricas de fluxo)
 - DevOps (cultura, CI/CD, containerização)
 - Métricas DORA (5 métricas, arquétipos)
-- Mapeamento de Fluxo de Valor (Value Stream Mapping)
 
-> Nota: O tópico **controle de qualidade** (revisões, inspeções Fagan) será coberto na aula extra de **09/06**, **após** a prova. A prova foca em VSM e nos demais tópicos das unidades 1 e 2.
+> Nota: **Value Stream Mapping (VSM) e controle de qualidade estão excluídos da prova** — os alunos não tiveram tempo de praticar esses conceitos. VSM continua sendo cobrado no projeto (Sprint 3/Entrega Final); controle de qualidade fica nas leituras L13/L14. A prova abrange os demais tópicos das unidades 1 e 2 (modelos de ciclo de vida, Scrum, XP, Lean, Kanban, DevOps, CI/CD, Docker, DORA).
 
 ### Formato da Prova
 
@@ -354,11 +360,11 @@ Use formato de História de Usuário (User Story): "Como [papel], quero [ação]
 
 ### Descrição
 
-O Vídeo Final é a **defesa do projeto** da equipe. Ele substitui tanto a antiga Sprint 4 (entrega de processo final) quanto a antiga apresentação presencial — agora unificadas em um único vídeo de 12 minutos.
+O Vídeo Final é a apresentação sobre a última evolução do projeto. Ele substitui a **Sprint 3** (VSM + análise de gargalos + qualidade), a antiga Sprint 4 e a antiga apresentação presencial — todas unificadas em um único vídeo de 12 minutos, entregue em **23/06** junto à Proposta de Melhoria. Como inclui os resultados da Sprint 3, o vídeo deve evidenciar o VSM do pipeline, os gargalos identificados e a evolução das métricas DORA.
 
 ### Informações Gerais
 
-- **Prazo**: **30/06/2026 (terça) às 23:59**
+- **Prazo**: **23/06/2026 (terça) às 23:59**
 - **Formato**: Vídeo gravado (link YouTube/Drive acessível)
 - **Duração**: **12 minutos**
 
@@ -448,7 +454,7 @@ Cada equipe deve produzir um **documento de análise e proposta de melhoria** do
 
 ### Prazo
 
-Entrega junto ao Vídeo Final, **30/06 (ter) às 23:59**.
+Entrega junto ao Vídeo Final, **23/06 (ter) às 23:59**.
 
 ### Critérios de Avaliação
 
@@ -486,7 +492,7 @@ Entrega junto ao Vídeo Final, **30/06 (ter) às 23:59**.
 
 #### U1: Entregue ✓
 
-#### U2: Entrega até 11/06
+#### U2: Entrega até 23/06 (Sprint 3) + Prova em 09/06
 
 ```
 equipe-nome-u2.zip
@@ -499,7 +505,7 @@ equipe-nome-u2.zip
     └── repo-link.txt            # Link do repositório
 ```
 
-#### U3: Entrega Final até 30/06
+#### U3: Entrega Final até 23/06
 
 ```
 equipe-nome-final.zip
@@ -571,8 +577,6 @@ R: Sim, na reorganização de 25/05. Permanecem os Quizzes 1, 2, 3 e 4.
 **P: Preciso saber programar para este curso?**  
 R: Sim, a equipe precisa desenvolver software. Mas a avaliação enfatiza o processo, não a complexidade técnica do código.
 
-**P: A prova é difícil?**  
-R: A prova cobre conceitos e aplicação. Se você acompanhou os vídeos e participou das atividades, estará preparado. A folha de consulta ajuda bastante.
 
 ---
 
