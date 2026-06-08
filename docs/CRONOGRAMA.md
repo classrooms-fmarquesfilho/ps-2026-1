@@ -158,11 +158,11 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 | 02/06 | Ter | 🔴 | ~~Aula cancelada~~ |
 | 04/06 | Qui | 🔴 | **Corpus Christi** — Sem aula |
 | 09/06 | Ter | 🔵 | **Acompanhamento Online** — Revisão para prova |
-| 11/06 | Qui | 📚 | **PROVA (Multiprova)** — Unidades 1 e 2 (laboratório, 13:00-14:40) |
+| 11/06 | Qui | 📚 | **PROVA (Multiprova)** — Unidades 1 e 2 (laboratório, 10:40-12:10) |
 
 **Conteúdo da prova**: Material das Unidades 1 e 2 — modelos de ciclo de vida, Scrum, XP, Lean, Kanban, DevOps, CI/CD, Docker, DORA. **Excluídos da prova**: Value Stream Mapping (VSM) e controle de qualidade — os alunos não tiveram tempo de praticar esses conceitos (cobrados no projeto/Sprint 3 e nas leituras).
 
-**Formato**: Individual, com consulta a **1 folha A4 (frente e verso, manuscrita)**.
+**Formato**: Individual, com consulta a **1 folha A4 (frente e verso, manuscrita)** e, eventualmente, à documentação do Docker.
 
 ### Conteúdo Habilitador
 
