@@ -157,8 +157,12 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 | 28/05 | Qui | 🔵 | **Acompanhamento Online** — Sprint 3 + Revisão para a prova |
 | 02/06 | Ter | 🔴 | ~~Aula cancelada~~ |
 | 04/06 | Qui | 🔴 | **Corpus Christi** — Sem aula |
-| 09/06 | Ter | 📚 | **PROVA (Multiprova)** — Unidades 1 e 2 (10:30-12:00) |
-| 11/06 | Qui | 🔵 | **Acompanhamento Online** — Sprint 3 / projeto |
+| 09/06 | Ter | 🔵 | **Acompanhamento Online** — Revisão para prova |
+| 11/06 | Qui | 📚 | **PROVA (Multiprova)** — Unidades 1 e 2 (laboratório, 13:00-14:40) |
+
+**Conteúdo da prova**: Material das Unidades 1 e 2 — modelos de ciclo de vida, Scrum, XP, Lean, Kanban, DevOps, CI/CD, Docker, DORA. **Excluídos da prova**: Value Stream Mapping (VSM) e controle de qualidade — os alunos não tiveram tempo de praticar esses conceitos (cobrados no projeto/Sprint 3 e nas leituras).
+
+**Formato**: Individual, com consulta a **1 folha A4 (frente e verso, manuscrita)**.
 
 ### Conteúdo Habilitador
 
@@ -183,20 +187,6 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 2. Identificação de pelo menos 2 gargalos com dados
 3. Proposta de 1-2 melhorias mensuráveis
 4. Evolução das métricas DORA entre Sprint 2 e Sprint 3
-
----
-
-## PROVA (Multiprova) — 09/06 (Terça)
-
-| Data | Dia | Tipo | Atividade |
-|------|-----|------|-----------|
-| 02/06 | Ter | 🔴 | ~~Aula cancelada~~ — Controle de qualidade nas leituras L13/L14 |
-| 04/06 | Qui | 🔴 | **Corpus Christi** — Sem aula |
-| 09/06 | Ter | 📚 | **PROVA (Multiprova)** — Unidades 1 e 2 (10:30-12:00) |
-
-**Conteúdo da prova**: Material das Unidades 1 e 2 — modelos de ciclo de vida, Scrum, XP, Lean, Kanban, DevOps, CI/CD, Docker, DORA. **Excluídos da prova**: Value Stream Mapping (VSM) e controle de qualidade — os alunos não tiveram tempo de praticar esses conceitos (cobrados no projeto/Sprint 3 e nas leituras).
-
-**Formato**: Individual, com consulta a **1 folha A4 (frente e verso, manuscrita)**.
 
 ---
 
@@ -246,9 +236,6 @@ Documento de **Proposta de Melhoria de Processo** (PDF, 4-6 páginas) entregue j
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
 | 23/06 | Ter | 🎥 | **Entrega Final do Projeto** (Sprint 3 + Vídeo Final + Proposta de Melhoria, até 23:59) |
-| 02/07 | Qui | 🔵 | **Acompanhamento Online** — Dúvidas finais |
-| 07/07 | Ter | 🔴 | Sem aula — professor corrigindo trabalhos |
-| 09/07 | Qui | 🔵 | **Acompanhamento Online** — Dúvidas sobre correção e notas |
 
 
 ---

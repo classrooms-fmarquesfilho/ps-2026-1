@@ -18,7 +18,7 @@
 > - A **Sprint 1** passa a contar apenas em U1 (deixa de pesar em U2). A **Prova** continua sendo uma única prova realizada em 02/06, com pesos diferentes em U2 (25%) e U3 (50%).
 >
 > **⚠️ Atualização 06/06/2026**:
-> - A **Prova foi adiada para 09/06 (ter)** e passa a ser aplicada no **Multiprova**. Pesos mantidos: 25% da U2 e 50% da U3.
+> - A **Prova foi adiada para 11/06 (qui)** e passa a ser aplicada no **Multiprova**. Pesos mantidos: 25% da U2 e 50% da U3.
 > - A **aula de 02/06 foi cancelada**; o conteúdo de **controle de qualidade** fica por conta das leituras L13/L14 e não é foco da prova.
 > - A **Sprint 3 ocorre junto à Entrega Final do Projeto**, a ser entregue em **23/06 (ter)**. Não há mais vídeo separado de Sprint 3: a mesma entrega final é avaliada como **Sprint 3 (30% da U2)** e como **Vídeo Final (30%) + Proposta de Melhoria (20%) da U3** — os pesos das duas unidades recaem sobre o mesmo conjunto de entregáveis.
 
@@ -72,7 +72,7 @@ A avaliação combina três dimensões:
 
 | Evento | Data | Observação |
 |--------|------|------------|
-| **Prova (Multiprova)** | **09/06 (ter)** | Laboratório, 10:30-12:00 |
+| **Prova (Multiprova)** | **11/06 (qui)** | Laboratório, 10:30-12:00 |
 | **Vídeo Final + Proposta de Melhoria** | **23/06 (ter)** | Substitui apresentação presencial |
 | Consolidação SIGAA | 11/07 | Término oficial do período |
 
@@ -81,7 +81,7 @@ A avaliação combina três dimensões:
 | Unidade | Período | Entrega Final |
 |---------|---------|---------------|
 | U1 | 17/03 a 30/04 | 30/04 (qui) ✓ |
-| U2 | 05/05 a 23/06 | **23/06 (ter)** + Prova 09/06 |
+| U2 | 05/05 a 23/06 | **23/06 (ter)** + Prova 11/06 |
 | U3 | 12/06 a 23/06 | **23/06 (ter)** |
 
 ---
@@ -149,7 +149,7 @@ U2 = (Prova × 0.25)
 
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
-| **Prova** | **50%** | Individual | Mesma prova realizada em 09/06 (vale 50% de U3) |
+| **Prova** | **50%** | Individual | Mesma prova realizada em 11/06 (vale 50% de U3) |
 | Vídeo Final | 30% | Grupo | MVP + reflexão crítica do processo (mescla Sprint 4 + Apresentação) |
 | Proposta de Melhoria de Processo | 20% | Grupo | Documento VSM + análise DORA + recomendações |
 
@@ -166,7 +166,7 @@ U3 = (Prova × 0.50) + (VídeoFinal × 0.30) + (Proposta × 0.20)
 
 ### Informações Gerais
 
-- **Data**: 09/06/2026 (Terça-feira)
+- **Data**: 11/06/2026 (Quinta-feira)
 - **Horário**: 10:30 às 12:00
 - **Local**: Laboratório A305 (IMD)
 - **Duração**: 1h30min
@@ -492,7 +492,7 @@ Entrega junto ao Vídeo Final, **23/06 (ter) às 23:59**.
 
 #### U1: Entregue ✓
 
-#### U2: Entrega até 23/06 (Sprint 3) + Prova em 09/06
+#### U2: Entrega até 23/06 (Sprint 3) + Prova em 11/06
 
 ```
 equipe-nome-u2.zip
