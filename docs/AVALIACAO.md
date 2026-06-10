@@ -123,11 +123,10 @@ U1 = (Sprint0 × 0.50) + (Sprint1 × 0.40) + (Quiz2 × 0.10)
 | Componente | Peso | Tipo | Descrição |
 |------------|------|------|-----------|
 | Prova | 25% | Individual | Em sala (02/06), consulta a 1 folha A4 |
-| Sprint 2 | 30% | Grupo | DevOps + CI/CD + Docker + DORA (vídeo 8min) |
-| Sprint 3 | 30% | Grupo | VSM + qualidade + análise de gargalos (vídeo 8min) |
-| Quiz 1 | 5% | Individual | Modelos + Scrum + Manifesto — aplicado em 07/05 (Multiprova) |
-| Quiz 3 | 5% | Individual | DevOps + CI/CD + Docker — aplicado em 12/05 (Multiprova) |
-| Quiz 4 | 5% | Individual | VSM + qualidade — aplicado em 26/05 (Multiprova) |
+| Sprint 2 | 25% | Grupo | DevOps + CI/CD + Docker + DORA (vídeo 8min) |
+| Sprint 3 | 25% | Grupo | VSM + qualidade + análise de gargalos (vídeo 8min) |
+| Quiz 1 | 10% | Individual | Modelos + Scrum + Manifesto — aplicado em 06/05 (Multiprova) |
+| Quiz 3 | 10% | Individual | DevOps + CI/CD + Docker — aplicado em 12/05 (Multiprova) |
 
 ### Fórmula
 
