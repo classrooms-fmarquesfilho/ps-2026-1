@@ -91,7 +91,7 @@ A avaliação combina três dimensões:
 | Unidade | Componentes | Tipo |
 |---------|-------------|------|
 | **U1** | Sprint 0 (50%) + Sprint 1 (40%) + Quiz 2 (10%) | Grupo + Individual |
-| **U2** | Prova (25%) + Sprint 2 (30%) + Sprint 3 (30%) + Quizzes 1, 3 e 4 (5% cada) | Individual + Grupo + Individual |
+| **U2** | Prova (25%) + Sprint 2 (25%) + Sprint 3 (25%) + Quizzes 1 e 3 (10% cada) | Individual + Grupo + Individual |
 | **U3** | **Prova (50%)** + Vídeo Final (30%) + Proposta de Melhoria (20%) | Individual + Grupo + Grupo |
 
 ---
