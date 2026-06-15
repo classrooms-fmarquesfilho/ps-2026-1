@@ -155,20 +155,6 @@ Livre! A equipe pode usar qualquer linguagem e/ou framework. O importante é que
 
 ## Avaliação
 
-A nota final é a **média aritmética das 3 unidades**:
-
-```
-Nota Final = (U1 + U2 + U3) / 3
-```
-
-| Unidade | Componentes |
-|---------|-------------|
-| **U1** | Sprint 0 (60%) + Quiz de Leitura (40%) |
-| **U2** | **Prova Escrita (50%)** + Sprints 1-3 (30%) + Quiz de Leitura (20%) |
-| **U3** | **Prova Escrita (50%)** + Projeto Final (35%) + Proposta de Melhoria (15%) |
-
-A **Prova Escrita** (12/05) vale 50% de U2 e 50% de U3 — equivalendo a uma unidade inteira. Cobre o conteúdo das Unidades 1 e 2, com consulta a 1 folha A4 manuscrita.
-
 Detalhes completos em [docs/AVALIACAO.md](docs/AVALIACAO.md).
 
 ---
