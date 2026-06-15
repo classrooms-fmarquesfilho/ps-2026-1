@@ -11,14 +11,14 @@
 > - **Sprint 3** com prazo prorrogado para **11/06 (qui)**.
 > - **Sprint 4** mesclada com a Apresentação Final em um único entregável: o **Vídeo Final**, com prazo **30/06 (ter) às 23:59** (substitui a apresentação presencial).
 > - **Participação removida** como componente avaliativo nas três unidades. Permanece como requisito de aprovação a frequência mínima de 75%.
-> - **Pesos redistribuídos** nas três unidades. Os componentes passam a ser:
->   - **U1**: Sprint 0 (50%) + Sprint 1 (40%) + Quiz 2 (10%)
->   - **U2**: Prova (25%) + Sprint 2 (30%) + Sprint 3 (30%) + Quiz 1 (5%) + Quiz 3 (5%) + Quiz 4 (5%)
->   - **U3**: Prova (50%) + Vídeo Final (30%) + Proposta de Melhoria (20%)
-> - A **Sprint 1** passa a contar apenas em U1 (deixa de pesar em U2). A **Prova** continua sendo uma única prova realizada em 02/06, com pesos diferentes em U2 (25%) e U3 (50%).
+> - Pesos redistribuídos nas três unidades. Os componentes passam a ser:
+> - U1: Sprint 0 (50%) + Sprint 1 (40%) + Quiz 2 (10%)
+> - U2: Prova (20%) + Sprint 2 (30%) + Sprint 3 (30%) + Quiz 1 (10%) + Quiz 3 (10%) 
+> - U3: Prova (50%) + Vídeo Final (30%) + Proposta de Melhoria (20%)
+> - A **Sprint 1** passa a contar apenas em U1 (deixa de pesar em U2). A **Prova** continua sendo uma única prova realizada em 02/06, com pesos diferentes em U2 (20%) e U3 (50%).
 >
 > **⚠️ Atualização 06/06/2026**:
-> - A **Prova foi adiada para 11/06 (qui)** e passa a ser aplicada no **Multiprova**. Pesos mantidos: 25% da U2 e 50% da U3.
+> - A **Prova foi adiada para 11/06 (qui)** e passa a ser aplicada no **Multiprova**. Pesos mantidos: 20% da U2 e 50% da U3.
 > - A **aula de 02/06 foi cancelada**; o conteúdo de **controle de qualidade** fica por conta das leituras L13/L14 e não é foco da prova.
 > - A **Sprint 3 ocorre junto à Entrega Final do Projeto**, a ser entregue em **23/06 (ter)**. Não há mais vídeo separado de Sprint 3: a mesma entrega final é avaliada como **Sprint 3 (30% da U2)** e como **Vídeo Final (30%) + Proposta de Melhoria (20%) da U3** — os pesos das duas unidades recaem sobre o mesmo conjunto de entregáveis.
 
