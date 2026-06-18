@@ -14,6 +14,10 @@
 > **⚠️ Atualização 25/05/2026**: Aulas de 19/05 e 21/05 não foram realizadas. **Sprint 3 inicia amanhã (26/05)** e tem prazo de entrega prorrogado para **11/06 (qui)**. As aulas presenciais de 09/06 (ter) e o acompanhamento de 11/06 (qui) passam a fechar a Sprint 3. **A Sprint 4 deixa de existir como entrega independente** — é mesclada com a apresentação final, que passa a ser entregue como **vídeo até 30/06 (ter)**. 
 >
 > **⚠️ Atualização 06/06/2026**: A **prova foi adiada de 02/06 para 09/06 (ter)** e será aplicada no **Multiprova** com direito a consulta a uma folha A4 escrita à mão. O conteúdo antes previsto para 09/06 (Controle de qualidade de processos) seria dado em 02/06, mas **a aula de 02/06 foi cancelada** — fica por conta das leituras **L13/L14** (não é foco da prova). A **Sprint 3 passa a ser entregue até 23/06 (ter), junto à Entrega Final do Projeto**: deixa de ter vídeo próprio e é avaliada tanto como Sprint 3 (U2) quanto como Vídeo Final/Proposta de Melhoria (U3). O **Vídeo Final + Proposta de Melhoria (última entrega de projeto) passa de 30/06 para 23/06 (ter)**.
+>
+> **⚠️ Atualização 18/06/2026**:
+> - A **Entrega Final do Projeto** (Sprint 3 + Vídeo Final + Proposta de Melhoria) foi adiada de 23/06 para **29/06 (seg) às 23:59**.
+> - O **vídeo do conteúdo final (Team Topologies + IA em Processos)** ainda será gravado e publicado **nesta semana**.
 
 ---
 
@@ -39,10 +43,10 @@
 | **Sprint 0** | 17/03 - 06/04 | Propor o projeto e definir o processo de trabalho | 06/04 (dom) ✓ |
 | **Sprint 1** | 14/04 - 24/04 | Estabelecer o fluxo de trabalho e entregar o primeiro incremento | 24/04 (sex) ✓ |
 | **Sprint 2** | 05/05 - 19/05 | Automatizar a entrega com DevOps e começar a medir desempenho | 19/05 (ter) ✓ |
-| **Sprint 3** | 26/05 - 23/06 | Analisar o fluxo de valor e propor melhorias (Entrega Final) | **23/06 (ter)** |
-| 📚 **PROVA** | 09/06 (ter) | Avaliação individual dos conceitos de U1+U2 (**Multiprova**) | — |
+| **Sprint 3** | 26/05 - 29/06 | Analisar o fluxo de valor e propor melhorias (Entrega Final) | **29/06 (seg)** |
+| 📚 **PROVA** | 11/06 (qui) ✓ | Avaliação individual dos conceitos de U1+U2 (**Multiprova**) | — |
 | **Conteúdo Final** | 16/06 | Team Topologies + IA em Processos | — |
-| 🎥 **Vídeo Final** | 16/06 - 23/06 | Apresentação final do projeto em vídeo (mescla Sprint 3 + Sprint 4 + apresentação) | **23/06 (ter)** |
+| 🎥 **Vídeo Final** | 16/06 - 29/06 | Apresentação final do projeto em vídeo (mescla Sprint 3 + Sprint 4 + apresentação) | **29/06 (seg)** |
 | **Encerramento** | 01-11/07 | Correção, notas, feedback | — |
 
 ---
@@ -143,7 +147,7 @@ A equipe introduz automação e medição no projeto: **pipeline CI/CD funcionan
 
 ---
 
-## SPRINT 3 (26/05 - 23/06): Analisar o Fluxo e Propor Melhorias
+## SPRINT 3 (26/05 - 29/06): Analisar o Fluxo e Propor Melhorias
 
 ### Objetivo do Sprint
 
@@ -180,7 +184,7 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 
 ### Entrega do Sprint
 
-🚀 **Sprint 3** — entregue como parte da **Entrega Final do Projeto** (vídeo único) — até **23/06 (ter)**. O VSM do estado atual, a análise de gargalos e a evolução das métricas DORA passam a ser demonstrados no vídeo entregue.
+🚀 **Sprint 3** — entregue como parte da **Entrega Final do Projeto** (vídeo único) — até **29/06 (seg)**. O VSM do estado atual, a análise de gargalos e a evolução das métricas DORA passam a ser demonstrados no vídeo entregue.
 
 **Esperado no vídeo**:
 1. VSM do pipeline atual do projeto (diagrama)
@@ -199,8 +203,8 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 16/06 | Ter | 🟢 | **Team Topologies + IA em Processos** (condensado): 4 tipos de equipe, 3 modos de interação, Lei de Conway, Inverse Conway Maneuver; Paradoxo da Produtividade (DORA 2025), DORA AI Capabilities Model, governança de IA |
-| 18/06 | Qui | 🔵 | **Acompanhamento Online** — dúvidas sobre a Entrega Final do Projeto (23/06) |
+| 16/06 | Ter | 🟢📺 | **Team Topologies + IA em Processos** (condensado): 4 tipos de equipe, 3 modos de interação, Lei de Conway, Inverse Conway Maneuver; Paradoxo da Produtividade (DORA 2025), DORA AI Capabilities Model, governança de IA — *vídeo a publicar nesta semana* |
+| 18/06 | Qui | 🔵 | **Acompanhamento Online** — dúvidas sobre a Entrega Final do Projeto (29/06) |
 
 ### Conteúdo Habilitador
 
@@ -216,7 +220,7 @@ Com o time já entregando com automação, o foco agora é **análise crítica d
 
 ### Entrega Final
 
-🎥 **Vídeo Final** (12 min) — até **23/06 (ter) às 23:59**
+🎥 **Vídeo Final** (12 min) — até **29/06 (seg) às 23:59**
 
 **Substitui**: a antiga Sprint 4 (entrega de projeto) **e** a antiga apresentação presencial.
 
@@ -235,7 +239,7 @@ Documento de **Proposta de Melhoria de Processo** (PDF, 4-6 páginas) entregue j
 
 | Data | Dia | Tipo | Atividade |
 |------|-----|------|-----------|
-| 23/06 | Ter | 🎥 | **Entrega Final do Projeto** (Sprint 3 + Vídeo Final + Proposta de Melhoria, até 23:59) |
+| 29/06 | Seg | 🎥 | **Entrega Final do Projeto** (Sprint 3 + Vídeo Final + Proposta de Melhoria, até 23:59) |
 
 
 ---
@@ -249,8 +253,8 @@ Documento de **Proposta de Melhoria de Processo** (PDF, 4-6 páginas) entregue j
 | Sprint 0 | Proposta do projeto | 06/04 (dom) ✓ | 5 min |
 | Sprint 1 | Estabelecer fluxo de trabalho | 30/04 (qui) ✓ | 8 min |
 | Sprint 2 | Automatizar entrega com DevOps | 19/05 (ter) ✓ | 8 min |
-| Sprint 3 | Analisar fluxo e propor melhorias (Entrega Final) | **23/06 (ter)** | — |
-| 🎥 Vídeo Final | MVP completo + reflexão crítica (mescla Sprint 3 + Sprint 4 + apresentação) | **23/06 (ter)** | 12 min |
+| Sprint 3 | Analisar fluxo e propor melhorias (Entrega Final) | **29/06 (seg)** | — |
+| 🎥 Vídeo Final | MVP completo + reflexão crítica (mescla Sprint 3 + Sprint 4 + apresentação) | **29/06 (seg)** | 12 min |
 
 ### Quizzes (Multiprova)
 
@@ -269,8 +273,8 @@ Documento de **Proposta de Melhoria de Processo** (PDF, 4-6 páginas) entregue j
 | Unidade | Sprints | Prazo Final | Componentes |
 |---------|---------|-------------|-------------|
 | **U1** | Sprint 0 + Sprint 1 | 30/04 (qui) ✓ | Proposta + primeiro incremento + Quizzes 1-2 |
-| **U2** | Sprint 2 + Sprint 3 + Prova | **23/06 (ter)** + Prova 09/06 | CI/CD + DORA + VSM + Prova |
-| **U3** | Vídeo Final + Proposta de Melhoria | **23/06 (ter)** | MVP completo + proposta de melhoria |
+| **U2** | Sprint 2 + Sprint 3 + Prova | **29/06 (seg)** + Prova 11/06 | CI/CD + DORA + VSM + Prova |
+| **U3** | Vídeo Final + Proposta de Melhoria | **29/06 (seg)** | MVP completo + proposta de melhoria |
 
 ---
 
@@ -293,8 +297,8 @@ Documento de **Proposta de Melhoria de Processo** (PDF, 4-6 páginas) entregue j
 | 06/04 (dom) | Entrega Sprint 0 ✓ |
 | 30/04 (qui) | Entrega Sprint 1 ✓ |
 | 19/05 (ter) | Entrega Sprint 2 ✓ |
-| **09/06 (ter)** | **PROVA (Multiprova)** |
-| **23/06 (ter)** | **Entrega Final do Projeto** (Sprint 3 + Vídeo Final + Proposta de Melhoria) |
+| **11/06 (qui)** | **PROVA (Multiprova)** ✓ |
+| **29/06 (seg)** | **Entrega Final do Projeto** (Sprint 3 + Vídeo Final + Proposta de Melhoria) |
 | 11/07 | Término do período (notas no SIGAA) |
 
 ---
@@ -310,7 +314,7 @@ Os acompanhamentos acontecem às quintas-feiras, sincronizados com a turma de We
 | 3 | 14/05 | Sprint 2 — Pipeline + DORA ✓ |
 | 4 | 28/05 | Sprint 3 + Revisão para prova |
 | 5 | 11/06 | Sprint 3 / projeto |
-| 6 | 18/06 | Dúvidas sobre a Entrega Final (23/06) |
+| 6 | 18/06 | Dúvidas sobre a Entrega Final (29/06) |
 
 **Horário**: 10:30-12:00 (mesmo horário das aulas presenciais)  
 **Formato**: ~10 minutos por equipe para tirar dúvidas e revisar progresso

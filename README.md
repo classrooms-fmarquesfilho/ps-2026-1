@@ -55,11 +55,11 @@ Semanas 2-4:   Frameworks ágeis — Scrum, XP, Lean, Kanban
 Semanas 5-6:   DevOps — cultura, CI/CD, containerização
 Semanas 7-8:   Medição — métricas DORA, Value Stream Mapping
 Semana 9:      Qualidade de processos + Revisão
-Semana 10:     Prova Escrita (12/05)
+Semana 10:     Prova no Multiprova (11/06)
 Semanas 11-12: Organizações — Topologias de Equipe, Engenharia de Plataformas, SRE
 Semana 13:     IA e Processos — o Paradoxo da Produtividade
 Semana 14:     Padrões, maturidade e melhoria contínua
-Semanas 15-16: Apresentações finais + Encerramento
+Semanas 15-16: Entrega Final em vídeo (29/06) + Encerramento
 ```
 
 ---
