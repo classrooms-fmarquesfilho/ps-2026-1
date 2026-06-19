@@ -144,7 +144,7 @@ Três sinais denunciam o gargalo no mapa:
 | Menor **%C&A** a montante | Retrabalho empurrando volume para trás |
 
 ```
-┌────────┐   ▽▽▽▽▽   ┌────────┐   ▽   ┌────────┐
+┌────────┐   ▽▽▽▽▽    ┌────────┐   ▽   ┌────────┐
 │ Código │ →  fila →  │ Review │ →  →  │ Deploy │
 └────────┘   3 dias   └────────┘ 4h    └────────┘
                       ▲ aqui: maior fila, maior espera
@@ -217,9 +217,9 @@ Uma boa melhoria tem **três partes**: ação, métrica e meta.
 |---|---|---|
 | Ação | "melhorar o review" | "criar checklist de review + 2 revisores aptos" |
 | Métrica | (nenhuma) | espera média na fila de review |
-| Meta | "ficar mais rápido" | "de 3 dias para < 1 dia até a Sprint 4" |
+| Meta | "ficar mais rápido" | "de 3 dias para < 1 dia até a Entrega Final" |
 
-> Sem métrica e meta, não dá para saber na Sprint 4 se a melhoria funcionou. "Melhorar" não é verificável; "reduzir a espera de review de 3 dias para menos de 1" é.
+> Sem métrica e meta, não dá para saber na Entrega Final se a melhoria funcionou. "Melhorar" não é verificável; "reduzir a espera de review de 3 dias para menos de 1" é.
 
 ---
 
@@ -255,7 +255,7 @@ Em equipe, agora. Cinco passos:
 
 # Modelo de registro da equipe
 
-Anotem assim — vai direto para o vídeo e para a Sprint 4:
+Anotem assim — vai direto para o vídeo e para a Proposta de Melhoria:
 
 ```
 GARGALO IDENTIFICADO
@@ -270,7 +270,7 @@ MELHORIA 1
   Métrica: ............  Atual: ........  Meta: ........
 ```
 
-> Guardem os **números de hoje**. Na Sprint 4 vocês vão comparar: o lead time caiu? A melhoria funcionou? Sem o "antes", não há o que comparar.
+> Guardem os **números de hoje**. Na **Proposta de Melhoria** (estado futuro) vocês vão comparar: o lead time caiu? A melhoria funcionou? Sem o "antes", não há o que comparar.
 
 ---
 
@@ -280,7 +280,7 @@ MELHORIA 1
 |---|---|
 | Apontar um gargalo "no chute" | Otimiza o lugar errado — TOC ignorada |
 | Parar no 1º porquê | Solução superficial, gargalo volta |
-| Melhoria sem métrica/meta | Impossível avaliar na Sprint 4 |
+| Melhoria sem métrica/meta | Impossível avaliar a melhoria depois |
 | Querer consertar 5 gargalos de uma vez | TOC: foque na **restrição atual** |
 | Pular o "explorar", ir direto para "investir" | Gasta esforço onde uma combinação resolveria |
 | VSM maquiado para parecer bom | Esconde o problema que o exercício quer achar |
@@ -291,27 +291,42 @@ MELHORIA 1
 
 # Checklist antes de ir embora
 
-Alimenta a Sprint 3 <span class="tag">prazo sprint: 29/05</span>:
+Alimenta a Entrega Final <span class="tag">Entrega Final: 29/06</span>:
 
 - [ ] VSM do estado atual revisado e honesto
 - [ ] Espera (`LT − PT`) calculada por etapa
 - [ ] Gargalo identificado **e quantificado** (% do LT total)
 - [ ] Causa raiz encontrada via 5 porquês
 - [ ] 1–2 melhorias no formato ação + métrica + meta
-- [ ] Números do "estado atual" registrados para comparar na Sprint 4
+- [ ] Números do "estado atual" registrados para comparar na Proposta (estado futuro)
 
 > Com gargalo quantificado e melhorias mensuráveis registradas, a parte de análise da Sprint 3 está pronta. Falta gravar o vídeo.
 
 ---
 
+# Como isso entra na Proposta de Melhoria
+
+O trabalho de hoje é o núcleo do **PDF de Proposta de Melhoria** (Entrega Final, 29/06):
+
+| Seção da Proposta | O que vem de hoje |
+|---|---|
+| VSM — estado atual | O mapa revisado, com filas e esperas |
+| Análise de problemas | Gargalo quantificado + causa raiz (5 porquês) |
+| Ações priorizadas | Suas 1–2 melhorias (ação + métrica + meta) |
+| VSM — estado futuro | O fluxo **depois** das melhorias propostas |
+
+> A Proposta vale 20% da U3. É esperada a entrega do VSM (atual e futuro), uso de métricas DORA e profundidade da análise — exatamente o que vocês produzem aqui.
+
+---
+
 # Próximos passos
 
-- **26/05 (ter)** — Controle de qualidade de processos: como o **code review** estruturado e as **inspeções** atacam justamente o gargalo mais comum que vocês acharam hoje.
-- **28/05 (qui)** — Acompanhamento online: Sprint 3 + revisão para a prova.
-- **Sprint 3** (prazo **29/05**) — vídeo 8 min: VSM do estado atual, gargalos com dados, melhorias propostas, evolução das métricas DORA entre as Sprints 2 e 3.
-- **02/06 (ter)** — Prova escrita das Unidades 1 e 2.
+- **Controle de qualidade** (code review estruturado, inspeções) — leituras **L13/L14**: atacam o gargalo mais comum que vocês acharam hoje.
+- **Conteúdo final** — Team Topologies (organização de equipes) e IA em Processos.
+- **Entrega Final** (Sprint 3 + Vídeo + Proposta de Melhoria) — **29/06 (seg)**: VSM do estado atual, gargalos com dados, melhorias propostas, evolução das métricas DORA.
+- **Prova** das Unidades 1 e 2 — já realizada em **11/06** (Multiprova).
 
-> A melhoria que vocês desenharam hoje vira a base do **VSM do estado futuro** — entregável da Sprint 4.
+> A melhoria que vocês desenharam hoje vira a base do **VSM do estado futuro** — parte da **Proposta de Melhoria** (Entrega Final).
 
 ---
 
